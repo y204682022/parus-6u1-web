@@ -689,7 +689,7 @@ async function main() {
         return;
     }
 
-    metaEl.textContent = `資料更新時間(UTC): ${index.generatedAtUtc}`;
+    metaEl.textContent = `資料更新時間(台灣時間): ${index.generatedAtUtc}`;
     renderCards(categories);
 
     categories.forEach((c) => {
