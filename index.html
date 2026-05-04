@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>PARUS CSV Dashboard</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="hero-copy">
+      <p class="eyebrow">PARUS Telemetry</p>
+      <h1>CSV Dashboard</h1>
+      <div class="meta" id="metaGenerated">載入中...</div>
+    </div>
+  </header>
+
+  <main class="layout">
+    <section class="panel panel-chart">
+      <h2>時間折線圖</h2>
+      <div class="toolbar chart-toolbar">
+        <div>
+          <label for="categorySelect">分類</label>
+          <select id="categorySelect"></select>
+        </div>
+        <div>
+          <label for="metricSelect">數值欄位</label>
+          <select id="metricSelect"></select>
+        </div>
+        <div>
+          <label for="searchInput">關鍵字</label>
+          <input id="searchInput" type="text" placeholder="搜尋欄位值...">
+        </div>
+      </div>
+      <div class="submeta" id="chartMeta"></div>
+      <div class="chart-wrap">
+        <canvas id="lineChart"></canvas>
+      </div>
+    </section>
+
+    <section class="panel panel-summary">
+      <h2>分類摘要</h2>
+      <div id="cards" class="cards"></div>
+    </section>
+
+    <section class="panel panel-table">
+      <div class="submeta" id="tableMeta"></div>
+      <div class="table-wrap">
+        <table id="dataTable"></table>
+      </div>
+    </section>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+  <script src="local_config.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
