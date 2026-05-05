@@ -1,5 +1,5 @@
 {
-  "rows": 296,
+  "rows": 297,
   "columns": [
     "來源ID",
     "網站時間(UTC)",
@@ -40,8 +40,46 @@
   ],
   "timeColumn": "網站時間(UTC)",
   "startTime": "2026-03-31 02:45:12",
-  "endTime": "2026-05-05 14:13:20",
+  "endTime": "2026-05-05 17:46:34",
   "previewRows": [
+    {
+      "來源ID": 13988283,
+      "網站時間(UTC)": "2026-05-05 17:46:34",
+      "CMG_TMP_0": "Top=10.5972 °C, Bottom=10.9955 °C",
+      "CMG_TMP_1": "Top=11.0962 °C, Bottom=11.3983 °C",
+      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "SV": null,
+      "Callsign": NaN,
+      "ATT_ERROR_X": 0.0,
+      "ATT_ERROR_Y": -0.32763153,
+      "ATT_ERROR_Z": -0.58221972,
+      "ATT_ERR_RATE (raw rad/s)_X": -0.12719783,
+      "ATT_ERR_RATE (raw rad/s)_Y": 0.05282622,
+      "ATT_ERR_RATE (raw rad/s)_Z": -0.01709892,
+      "ATT_ERR_RATE (deg/s)_X": -7.2879,
+      "ATT_ERR_RATE (deg/s)_Y": 3.0267,
+      "ATT_ERR_RATE (deg/s)_Z": -0.9797,
+      "MAG_X": -11.34875488,
+      "MAG_Y": 28.8067627,
+      "MAG_Z": 31.89941406,
+      "ADCS_TMP (°C)": 5.9967,
+      "FSS_TMP_0 (°C)": 7.0,
+      "FSS_TMP_1 (°C)": 7.0,
+      "FSS_TMP_2 (°C)": 13.125,
+      "FSS_TMP_3 (°C)": 13.0,
+      "FSS_TMP_4 (°C)": 8.0,
+      "FSS_TMP_5 (°C)": 6.0,
+      "SV_X": 0.0,
+      "SV_Y": 0.0,
+      "SV_Z": 0.0,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN,
+      "ATT_ERROR_Z (e+25)": NaN,
+      "SV_X (e+34)": NaN,
+      "SV_Y (e-07)": NaN,
+      "MAG_Z (e+19)": NaN
+    },
     {
       "來源ID": 13993660,
       "網站時間(UTC)": "2026-05-05 14:13:20",
@@ -11293,5 +11331,5 @@
   ],
   "key": "ADCS_2_Beacon",
   "label": "ADCS 2 Beacon",
-  "sourceCsv": "ADCS_2_Beacon_20260506_0054.csv"
+  "sourceCsv": "ADCS_2_Beacon_20260506_0326.csv"
 }
