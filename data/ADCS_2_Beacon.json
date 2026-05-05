@@ -1,5 +1,5 @@
 {
-  "rows": 291,
+  "rows": 292,
   "columns": [
     "來源ID",
     "網站時間(UTC)",
@@ -30,12 +30,48 @@
     "FSS_TMP_5 (°C)",
     "SV_X",
     "SV_Y",
-    "SV_Z"
+    "SV_Z",
+    "ATT_ERR_RATE (raw rad/s)_Z (e+25)",
+    "ATT_ERR_RATE (deg/s)_Z (e+27)"
   ],
   "timeColumn": "網站時間(UTC)",
   "startTime": "2026-03-31 02:45:12",
-  "endTime": "2026-05-05 01:55:40",
+  "endTime": "2026-05-05 07:38:22",
   "previewRows": [
+    {
+      "來源ID": 13988269,
+      "網站時間(UTC)": "2026-05-05 07:38:22",
+      "CMG_TMP_0": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "CMG_TMP_1": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "SV": null,
+      "Callsign": NaN,
+      "ATT_ERROR_X": 0.0,
+      "ATT_ERROR_Y": -0.11423521,
+      "ATT_ERROR_Z": -0.46719983,
+      "ATT_ERR_RATE (raw rad/s)_X": 0.08533151,
+      "ATT_ERR_RATE (raw rad/s)_Y": -0.05010213,
+      "ATT_ERR_RATE (raw rad/s)_Z": NaN,
+      "ATT_ERR_RATE (deg/s)_X": 4.8891,
+      "ATT_ERR_RATE (deg/s)_Y": -2.8706,
+      "ATT_ERR_RATE (deg/s)_Z": NaN,
+      "MAG_X": 0.0,
+      "MAG_Y": 0.0,
+      "MAG_Z": 0.0,
+      "ADCS_TMP (°C)": 37.5366,
+      "FSS_TMP_0 (°C)": 0.0,
+      "FSS_TMP_1 (°C)": 0.0,
+      "FSS_TMP_2 (°C)": 0.0,
+      "FSS_TMP_3 (°C)": 0.0,
+      "FSS_TMP_4 (°C)": 0.0,
+      "FSS_TMP_5 (°C)": 0.0,
+      "SV_X": 0.0,
+      "SV_Y": 0.0,
+      "SV_Z": 0.0,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": 2.135596394067322,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": 1.2236066012341495
+    },
     {
       "來源ID": 13971197,
       "網站時間(UTC)": "2026-05-05 01:55:40",
@@ -66,7 +102,9 @@
       "FSS_TMP_5 (°C)": 11.0,
       "SV_X": 0.71160519,
       "SV_Y": 0.69678646,
-      "SV_Z": -0.07647146
+      "SV_Z": -0.07647146,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13971197,
@@ -98,7 +136,9 @@
       "FSS_TMP_5 (°C)": 14.0,
       "SV_X": 0.25637686,
       "SV_Y": -0.95133919,
-      "SV_Z": -0.17095232
+      "SV_Z": -0.17095232,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13983251,
@@ -130,7 +170,9 @@
       "FSS_TMP_5 (°C)": 11.0,
       "SV_X": 0.23958865,
       "SV_Y": -0.00277261,
-      "SV_Z": -0.36582911
+      "SV_Z": -0.36582911,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13983103,
@@ -162,7 +204,9 @@
       "FSS_TMP_5 (°C)": 6.0,
       "SV_X": 0.0,
       "SV_Y": 0.0,
-      "SV_Z": 0.0
+      "SV_Z": 0.0,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13971208,
@@ -194,7 +238,9 @@
       "FSS_TMP_5 (°C)": -16.0,
       "SV_X": 0.0,
       "SV_Y": 0.0,
-      "SV_Z": 0.0
+      "SV_Z": 0.0,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13971164,
@@ -226,7 +272,9 @@
       "FSS_TMP_5 (°C)": -15.0,
       "SV_X": 0.0,
       "SV_Y": 0.0,
-      "SV_Z": 0.0
+      "SV_Z": 0.0,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13971153,
@@ -258,7 +306,9 @@
       "FSS_TMP_5 (°C)": -15.0,
       "SV_X": 0.0,
       "SV_Y": 0.0,
-      "SV_Z": 0.0
+      "SV_Z": 0.0,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13971156,
@@ -290,7 +340,9 @@
       "FSS_TMP_5 (°C)": -15.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13971156,
@@ -322,7 +374,9 @@
       "FSS_TMP_5 (°C)": -15.0,
       "SV_X": 0.0,
       "SV_Y": 0.0,
-      "SV_Z": 0.0
+      "SV_Z": 0.0,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13971215,
@@ -354,7 +408,9 @@
       "FSS_TMP_5 (°C)": -1019.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13971174,
@@ -386,7 +442,9 @@
       "FSS_TMP_5 (°C)": 5.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13971177,
@@ -418,7 +476,9 @@
       "FSS_TMP_5 (°C)": -14.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13971177,
@@ -450,39 +510,9 @@
       "FSS_TMP_5 (°C)": -157.9688,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
-    },
-    {
-      "來源ID": 13960538,
-      "網站時間(UTC)": "2026-05-02 13:19:50",
-      "CMG_TMP_0": "Top=9.5993 °C, Bottom=9.8969 °C",
-      "CMG_TMP_1": "Top=10.2997 °C, Bottom=10.5972 °C",
-      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "SV": "[-0.49208871, -0.62796193, 0.08390354]",
-      "Callsign": NaN,
-      "ATT_ERROR_X": 0.0,
-      "ATT_ERROR_Y": -0.24933559,
-      "ATT_ERROR_Z": -0.36489752,
-      "ATT_ERR_RATE (raw rad/s)_X": -0.00100147,
-      "ATT_ERR_RATE (raw rad/s)_Y": -0.01123071,
-      "ATT_ERR_RATE (raw rad/s)_Z": -0.01805193,
-      "ATT_ERR_RATE (deg/s)_X": -0.0574,
-      "ATT_ERR_RATE (deg/s)_Y": -0.6435,
-      "ATT_ERR_RATE (deg/s)_Z": -1.0343,
-      "MAG_X": 4.5123291,
-      "MAG_Y": 36.51550293,
-      "MAG_Z": -14.74487305,
-      "ADCS_TMP (°C)": 10.9955,
-      "FSS_TMP_0 (°C)": 17.0,
-      "FSS_TMP_1 (°C)": 19.0,
-      "FSS_TMP_2 (°C)": 13.0,
-      "FSS_TMP_3 (°C)": 15.0,
-      "FSS_TMP_4 (°C)": 21.0,
-      "FSS_TMP_5 (°C)": 2.0,
-      "SV_X": NaN,
-      "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13960538,
@@ -514,7 +544,43 @@
       "FSS_TMP_5 (°C)": 3.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
+    },
+    {
+      "來源ID": 13960538,
+      "網站時間(UTC)": "2026-05-02 13:19:50",
+      "CMG_TMP_0": "Top=9.5993 °C, Bottom=9.8969 °C",
+      "CMG_TMP_1": "Top=10.2997 °C, Bottom=10.5972 °C",
+      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "SV": "[-0.49208871, -0.62796193, 0.08390354]",
+      "Callsign": NaN,
+      "ATT_ERROR_X": 0.0,
+      "ATT_ERROR_Y": -0.24933559,
+      "ATT_ERROR_Z": -0.36489752,
+      "ATT_ERR_RATE (raw rad/s)_X": -0.00100147,
+      "ATT_ERR_RATE (raw rad/s)_Y": -0.01123071,
+      "ATT_ERR_RATE (raw rad/s)_Z": -0.01805193,
+      "ATT_ERR_RATE (deg/s)_X": -0.0574,
+      "ATT_ERR_RATE (deg/s)_Y": -0.6435,
+      "ATT_ERR_RATE (deg/s)_Z": -1.0343,
+      "MAG_X": 4.5123291,
+      "MAG_Y": 36.51550293,
+      "MAG_Z": -14.74487305,
+      "ADCS_TMP (°C)": 10.9955,
+      "FSS_TMP_0 (°C)": 17.0,
+      "FSS_TMP_1 (°C)": 19.0,
+      "FSS_TMP_2 (°C)": 13.0,
+      "FSS_TMP_3 (°C)": 15.0,
+      "FSS_TMP_4 (°C)": 21.0,
+      "FSS_TMP_5 (°C)": 2.0,
+      "SV_X": NaN,
+      "SV_Y": NaN,
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13939483,
@@ -546,7 +612,9 @@
       "FSS_TMP_5 (°C)": -1.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13939511,
@@ -578,7 +646,9 @@
       "FSS_TMP_5 (°C)": -32.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13939506,
@@ -610,7 +680,9 @@
       "FSS_TMP_5 (°C)": 14.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13939478,
@@ -642,7 +714,9 @@
       "FSS_TMP_5 (°C)": 0.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13939495,
@@ -674,7 +748,9 @@
       "FSS_TMP_5 (°C)": -5.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13939469,
@@ -706,7 +782,9 @@
       "FSS_TMP_5 (°C)": 13.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13936614,
@@ -738,7 +816,9 @@
       "FSS_TMP_5 (°C)": -6.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13936614,
@@ -770,7 +850,9 @@
       "FSS_TMP_5 (°C)": -7.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13914402,
@@ -802,7 +884,9 @@
       "FSS_TMP_5 (°C)": -6.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13917243,
@@ -834,7 +918,9 @@
       "FSS_TMP_5 (°C)": 0.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13917229,
@@ -866,7 +952,9 @@
       "FSS_TMP_5 (°C)": 6.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13917224,
@@ -898,7 +986,9 @@
       "FSS_TMP_5 (°C)": 15.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13914414,
@@ -930,7 +1020,9 @@
       "FSS_TMP_5 (°C)": 9.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13914376,
@@ -962,7 +1054,9 @@
       "FSS_TMP_5 (°C)": 2.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13914359,
@@ -994,7 +1088,9 @@
       "FSS_TMP_5 (°C)": 2.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13914359,
@@ -1026,7 +1122,9 @@
       "FSS_TMP_5 (°C)": 1.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13908431,
@@ -1058,7 +1156,9 @@
       "FSS_TMP_5 (°C)": 10.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13914389,
@@ -1090,7 +1190,9 @@
       "FSS_TMP_5 (°C)": 2.125,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13917178,
@@ -1122,7 +1224,9 @@
       "FSS_TMP_5 (°C)": 3.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13917178,
@@ -1154,7 +1258,9 @@
       "FSS_TMP_5 (°C)": 2.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13917169,
@@ -1186,7 +1292,9 @@
       "FSS_TMP_5 (°C)": -14.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13914405,
@@ -1218,7 +1326,9 @@
       "FSS_TMP_5 (°C)": -16.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13914405,
@@ -1250,7 +1360,9 @@
       "FSS_TMP_5 (°C)": -14.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13917231,
@@ -1282,7 +1394,9 @@
       "FSS_TMP_5 (°C)": -1021.5,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13917193,
@@ -1314,7 +1428,9 @@
       "FSS_TMP_5 (°C)": 4.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13917193,
@@ -1346,7 +1462,9 @@
       "FSS_TMP_5 (°C)": 7.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13917193,
@@ -1378,7 +1496,9 @@
       "FSS_TMP_5 (°C)": 13.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13917195,
@@ -1410,7 +1530,9 @@
       "FSS_TMP_5 (°C)": -545.0938,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13917219,
@@ -1442,39 +1564,9 @@
       "FSS_TMP_5 (°C)": 74.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
-    },
-    {
-      "來源ID": 13917200,
-      "網站時間(UTC)": "2026-04-27 03:54:08",
-      "CMG_TMP_0": "Top=15.0970 °C, Bottom=15.4953 °C",
-      "CMG_TMP_1": "Top=15.7974 °C, Bottom=16.0950 °C",
-      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "SV": "[0.80930114, 0.07213701, -0.58076632]",
-      "Callsign": NaN,
-      "ATT_ERROR_X": -0.0,
-      "ATT_ERROR_Y": 0.42274845,
-      "ATT_ERROR_Z": -0.36661297,
-      "ATT_ERR_RATE (raw rad/s)_X": 0.17165132,
-      "ATT_ERR_RATE (raw rad/s)_Y": -0.04038382,
-      "ATT_ERR_RATE (raw rad/s)_Z": -0.10442755,
-      "ATT_ERR_RATE (deg/s)_X": 9.8349,
-      "ATT_ERR_RATE (deg/s)_Y": -2.3138,
-      "ATT_ERR_RATE (deg/s)_Z": -5.9833,
-      "MAG_X": 13.45397949,
-      "MAG_Y": 39.57946777,
-      "MAG_Z": -0.078125,
-      "ADCS_TMP (°C)": 13.9984,
-      "FSS_TMP_0 (°C)": 27.0,
-      "FSS_TMP_1 (°C)": 24.0,
-      "FSS_TMP_2 (°C)": 25.0,
-      "FSS_TMP_3 (°C)": 24.0,
-      "FSS_TMP_4 (°C)": 25.0,
-      "FSS_TMP_5 (°C)": 1.0,
-      "SV_X": NaN,
-      "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13917200,
@@ -1506,7 +1598,43 @@
       "FSS_TMP_5 (°C)": 11.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
+    },
+    {
+      "來源ID": 13917200,
+      "網站時間(UTC)": "2026-04-27 03:54:08",
+      "CMG_TMP_0": "Top=15.0970 °C, Bottom=15.4953 °C",
+      "CMG_TMP_1": "Top=15.7974 °C, Bottom=16.0950 °C",
+      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "SV": "[0.80930114, 0.07213701, -0.58076632]",
+      "Callsign": NaN,
+      "ATT_ERROR_X": -0.0,
+      "ATT_ERROR_Y": 0.42274845,
+      "ATT_ERROR_Z": -0.36661297,
+      "ATT_ERR_RATE (raw rad/s)_X": 0.17165132,
+      "ATT_ERR_RATE (raw rad/s)_Y": -0.04038382,
+      "ATT_ERR_RATE (raw rad/s)_Z": -0.10442755,
+      "ATT_ERR_RATE (deg/s)_X": 9.8349,
+      "ATT_ERR_RATE (deg/s)_Y": -2.3138,
+      "ATT_ERR_RATE (deg/s)_Z": -5.9833,
+      "MAG_X": 13.45397949,
+      "MAG_Y": 39.57946777,
+      "MAG_Z": -0.078125,
+      "ADCS_TMP (°C)": 13.9984,
+      "FSS_TMP_0 (°C)": 27.0,
+      "FSS_TMP_1 (°C)": 24.0,
+      "FSS_TMP_2 (°C)": 25.0,
+      "FSS_TMP_3 (°C)": 24.0,
+      "FSS_TMP_4 (°C)": 25.0,
+      "FSS_TMP_5 (°C)": 1.0,
+      "SV_X": NaN,
+      "SV_Y": NaN,
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13914369,
@@ -1538,7 +1666,9 @@
       "FSS_TMP_5 (°C)": -26.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13911476,
@@ -1570,7 +1700,9 @@
       "FSS_TMP_5 (°C)": 4.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13895518,
@@ -1602,7 +1734,9 @@
       "FSS_TMP_5 (°C)": 2.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13898671,
@@ -1634,7 +1768,9 @@
       "FSS_TMP_5 (°C)": 2.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13898649,
@@ -1666,7 +1802,9 @@
       "FSS_TMP_5 (°C)": 220.375,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13901783,
@@ -1698,7 +1836,9 @@
       "FSS_TMP_5 (°C)": 4.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13898620,
@@ -1730,71 +1870,9 @@
       "FSS_TMP_5 (°C)": -16.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
-    },
-    {
-      "來源ID": 13898611,
-      "網站時間(UTC)": "2026-04-25 10:48:40",
-      "CMG_TMP_0": "Top=-133.4244 °C, Bottom=-132.9208 °C",
-      "CMG_TMP_1": "Top=7.7911 °C, Bottom=-133.3145 °C",
-      "CMG_TMP_2": "Top=-138.8260 °C, Bottom=11.1740 °C",
-      "CMG_TMP_3": "Top=-148.2010 °C, Bottom=11.1694 °C",
-      "SV": "[0.00000000, -0.00000000, -0.00000000]",
-      "Callsign": NaN,
-      "ATT_ERROR_X": -0.0,
-      "ATT_ERROR_Y": 0.25245923,
-      "ATT_ERROR_Z": -0.20505853,
-      "ATT_ERR_RATE (raw rad/s)_X": -0.01599796,
-      "ATT_ERR_RATE (raw rad/s)_Y": 0.0,
-      "ATT_ERR_RATE (raw rad/s)_Z": 0.0,
-      "ATT_ERR_RATE (deg/s)_X": -0.9166,
-      "ATT_ERR_RATE (deg/s)_Y": 0.0,
-      "ATT_ERR_RATE (deg/s)_Z": 0.0,
-      "MAG_X": 0.0,
-      "MAG_Y": -4.7305291671222617e+24,
-      "MAG_Z": 7.584051972659126e+24,
-      "ADCS_TMP (°C)": -134.4818,
-      "FSS_TMP_0 (°C)": 15.7812,
-      "FSS_TMP_1 (°C)": 3.0,
-      "FSS_TMP_2 (°C)": -953.5,
-      "FSS_TMP_3 (°C)": 74.7812,
-      "FSS_TMP_4 (°C)": 8.25,
-      "FSS_TMP_5 (°C)": -951.2188,
-      "SV_X": NaN,
-      "SV_Y": NaN,
-      "SV_Z": NaN
-    },
-    {
-      "來源ID": 13898611,
-      "網站時間(UTC)": "2026-04-25 10:48:40",
-      "CMG_TMP_0": "Top=14.5981 °C, Bottom=14.8956 °C",
-      "CMG_TMP_1": "Top=15.0970 °C, Bottom=15.3992 °C",
-      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "SV": "[-0.10464714, 0.25289243, -0.96181828]",
-      "Callsign": NaN,
-      "ATT_ERROR_X": -0.0,
-      "ATT_ERROR_Y": 0.25245923,
-      "ATT_ERROR_Z": -0.20505853,
-      "ATT_ERR_RATE (raw rad/s)_X": -0.06399184,
-      "ATT_ERR_RATE (raw rad/s)_Y": 0.01372065,
-      "ATT_ERR_RATE (raw rad/s)_Z": 0.10218564,
-      "ATT_ERR_RATE (deg/s)_X": -3.6665,
-      "ATT_ERR_RATE (deg/s)_Y": 0.7861,
-      "ATT_ERR_RATE (deg/s)_Z": 5.8548,
-      "MAG_X": 5.11047363,
-      "MAG_Y": -32.62512207,
-      "MAG_Z": -26.99462891,
-      "ADCS_TMP (°C)": 11.998,
-      "FSS_TMP_0 (°C)": 16.0,
-      "FSS_TMP_1 (°C)": 15.0,
-      "FSS_TMP_2 (°C)": 16.0,
-      "FSS_TMP_3 (°C)": 18.0,
-      "FSS_TMP_4 (°C)": 16.0,
-      "FSS_TMP_5 (°C)": 8.0,
-      "SV_X": NaN,
-      "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13898611,
@@ -1826,7 +1904,77 @@
       "FSS_TMP_5 (°C)": 2.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
+    },
+    {
+      "來源ID": 13898611,
+      "網站時間(UTC)": "2026-04-25 10:48:40",
+      "CMG_TMP_0": "Top=-133.4244 °C, Bottom=-132.9208 °C",
+      "CMG_TMP_1": "Top=7.7911 °C, Bottom=-133.3145 °C",
+      "CMG_TMP_2": "Top=-138.8260 °C, Bottom=11.1740 °C",
+      "CMG_TMP_3": "Top=-148.2010 °C, Bottom=11.1694 °C",
+      "SV": "[0.00000000, -0.00000000, -0.00000000]",
+      "Callsign": NaN,
+      "ATT_ERROR_X": -0.0,
+      "ATT_ERROR_Y": 0.25245923,
+      "ATT_ERROR_Z": -0.20505853,
+      "ATT_ERR_RATE (raw rad/s)_X": -0.01599796,
+      "ATT_ERR_RATE (raw rad/s)_Y": 0.0,
+      "ATT_ERR_RATE (raw rad/s)_Z": 0.0,
+      "ATT_ERR_RATE (deg/s)_X": -0.9166,
+      "ATT_ERR_RATE (deg/s)_Y": 0.0,
+      "ATT_ERR_RATE (deg/s)_Z": 0.0,
+      "MAG_X": 0.0,
+      "MAG_Y": -4.7305291671222617e+24,
+      "MAG_Z": 7.584051972659126e+24,
+      "ADCS_TMP (°C)": -134.4818,
+      "FSS_TMP_0 (°C)": 15.7812,
+      "FSS_TMP_1 (°C)": 3.0,
+      "FSS_TMP_2 (°C)": -953.5,
+      "FSS_TMP_3 (°C)": 74.7812,
+      "FSS_TMP_4 (°C)": 8.25,
+      "FSS_TMP_5 (°C)": -951.2188,
+      "SV_X": NaN,
+      "SV_Y": NaN,
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
+    },
+    {
+      "來源ID": 13898611,
+      "網站時間(UTC)": "2026-04-25 10:48:40",
+      "CMG_TMP_0": "Top=14.5981 °C, Bottom=14.8956 °C",
+      "CMG_TMP_1": "Top=15.0970 °C, Bottom=15.3992 °C",
+      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "SV": "[-0.10464714, 0.25289243, -0.96181828]",
+      "Callsign": NaN,
+      "ATT_ERROR_X": -0.0,
+      "ATT_ERROR_Y": 0.25245923,
+      "ATT_ERROR_Z": -0.20505853,
+      "ATT_ERR_RATE (raw rad/s)_X": -0.06399184,
+      "ATT_ERR_RATE (raw rad/s)_Y": 0.01372065,
+      "ATT_ERR_RATE (raw rad/s)_Z": 0.10218564,
+      "ATT_ERR_RATE (deg/s)_X": -3.6665,
+      "ATT_ERR_RATE (deg/s)_Y": 0.7861,
+      "ATT_ERR_RATE (deg/s)_Z": 5.8548,
+      "MAG_X": 5.11047363,
+      "MAG_Y": -32.62512207,
+      "MAG_Z": -26.99462891,
+      "ADCS_TMP (°C)": 11.998,
+      "FSS_TMP_0 (°C)": 16.0,
+      "FSS_TMP_1 (°C)": 15.0,
+      "FSS_TMP_2 (°C)": 16.0,
+      "FSS_TMP_3 (°C)": 18.0,
+      "FSS_TMP_4 (°C)": 16.0,
+      "FSS_TMP_5 (°C)": 8.0,
+      "SV_X": NaN,
+      "SV_Y": NaN,
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13901742,
@@ -1858,7 +2006,9 @@
       "FSS_TMP_5 (°C)": 15.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13898599,
@@ -1890,7 +2040,9 @@
       "FSS_TMP_5 (°C)": 7.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13898630,
@@ -1922,7 +2074,9 @@
       "FSS_TMP_5 (°C)": 0.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13898630,
@@ -1954,7 +2108,9 @@
       "FSS_TMP_5 (°C)": 70.625,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13888519,
@@ -1986,7 +2142,9 @@
       "FSS_TMP_5 (°C)": 425.0938,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13895556,
@@ -2018,7 +2176,9 @@
       "FSS_TMP_5 (°C)": 0.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13895257,
@@ -2050,7 +2210,9 @@
       "FSS_TMP_5 (°C)": 15.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13895257,
@@ -2082,7 +2244,9 @@
       "FSS_TMP_5 (°C)": 74.7812,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13891558,
@@ -2114,7 +2278,9 @@
       "FSS_TMP_5 (°C)": -12.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13878444,
@@ -2146,7 +2312,9 @@
       "FSS_TMP_5 (°C)": -12.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13874781,
@@ -2178,7 +2346,9 @@
       "FSS_TMP_5 (°C)": -15.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13874793,
@@ -2210,7 +2380,9 @@
       "FSS_TMP_5 (°C)": -11.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13874793,
@@ -2242,7 +2414,9 @@
       "FSS_TMP_5 (°C)": -64.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13874817,
@@ -2274,7 +2448,9 @@
       "FSS_TMP_5 (°C)": 6.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13874796,
@@ -2306,71 +2482,9 @@
       "FSS_TMP_5 (°C)": 30.5,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
-    },
-    {
-      "來源ID": 13874762,
-      "網站時間(UTC)": "2026-04-23 09:44:53",
-      "CMG_TMP_0": "Top=19.9951 °C, Bottom=21.2952 °C",
-      "CMG_TMP_1": "Top=19.8990 °C, Bottom=20.8969 °C",
-      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "SV": "[0.00000000, 0.00000000, 0.00000000]",
-      "Callsign": NaN,
-      "ATT_ERROR_X": -0.0,
-      "ATT_ERROR_Y": -0.0,
-      "ATT_ERROR_Z": -0.0,
-      "ATT_ERR_RATE (raw rad/s)_X": 0.0,
-      "ATT_ERR_RATE (raw rad/s)_Y": 0.0,
-      "ATT_ERR_RATE (raw rad/s)_Z": 0.0,
-      "ATT_ERR_RATE (deg/s)_X": 0.0,
-      "ATT_ERR_RATE (deg/s)_Y": 0.0,
-      "ATT_ERR_RATE (deg/s)_Z": 0.0,
-      "MAG_X": -33.12805176,
-      "MAG_Y": -3.68225098,
-      "MAG_Z": -0.21850586,
-      "ADCS_TMP (°C)": 13.9984,
-      "FSS_TMP_0 (°C)": 21.0,
-      "FSS_TMP_1 (°C)": 20.0,
-      "FSS_TMP_2 (°C)": 18.0,
-      "FSS_TMP_3 (°C)": 19.0,
-      "FSS_TMP_4 (°C)": 20.0,
-      "FSS_TMP_5 (°C)": 1.0,
-      "SV_X": NaN,
-      "SV_Y": NaN,
-      "SV_Z": NaN
-    },
-    {
-      "來源ID": 13874762,
-      "網站時間(UTC)": "2026-04-23 09:44:53",
-      "CMG_TMP_0": "Top=19.7983 °C, Bottom=21.0983 °C",
-      "CMG_TMP_1": "Top=19.7983 °C, Bottom=20.8969 °C",
-      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "SV": "[-0.56417984, -0.57756186, -0.58290541]",
-      "Callsign": NaN,
-      "ATT_ERROR_X": -0.0,
-      "ATT_ERROR_Y": -0.42828274,
-      "ATT_ERROR_Z": 0.42435658,
-      "ATT_ERR_RATE (raw rad/s)_X": 0.11985859,
-      "ATT_ERR_RATE (raw rad/s)_Y": -0.10161552,
-      "ATT_ERR_RATE (raw rad/s)_Z": 0.18974833,
-      "ATT_ERR_RATE (deg/s)_X": 6.8674,
-      "ATT_ERR_RATE (deg/s)_Y": -5.8221,
-      "ATT_ERR_RATE (deg/s)_Z": 10.8718,
-      "MAG_X": -2.64099121,
-      "MAG_Y": 6.57775879,
-      "MAG_Z": -39.81201172,
-      "ADCS_TMP (°C)": 13.9984,
-      "FSS_TMP_0 (°C)": 22.0,
-      "FSS_TMP_1 (°C)": 22.0,
-      "FSS_TMP_2 (°C)": 19.0,
-      "FSS_TMP_3 (°C)": 20.0,
-      "FSS_TMP_4 (°C)": 23.0,
-      "FSS_TMP_5 (°C)": 2.0,
-      "SV_X": NaN,
-      "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13874762,
@@ -2402,7 +2516,77 @@
       "FSS_TMP_5 (°C)": -6.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
+    },
+    {
+      "來源ID": 13874762,
+      "網站時間(UTC)": "2026-04-23 09:44:53",
+      "CMG_TMP_0": "Top=19.9951 °C, Bottom=21.2952 °C",
+      "CMG_TMP_1": "Top=19.8990 °C, Bottom=20.8969 °C",
+      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "SV": "[0.00000000, 0.00000000, 0.00000000]",
+      "Callsign": NaN,
+      "ATT_ERROR_X": -0.0,
+      "ATT_ERROR_Y": -0.0,
+      "ATT_ERROR_Z": -0.0,
+      "ATT_ERR_RATE (raw rad/s)_X": 0.0,
+      "ATT_ERR_RATE (raw rad/s)_Y": 0.0,
+      "ATT_ERR_RATE (raw rad/s)_Z": 0.0,
+      "ATT_ERR_RATE (deg/s)_X": 0.0,
+      "ATT_ERR_RATE (deg/s)_Y": 0.0,
+      "ATT_ERR_RATE (deg/s)_Z": 0.0,
+      "MAG_X": -33.12805176,
+      "MAG_Y": -3.68225098,
+      "MAG_Z": -0.21850586,
+      "ADCS_TMP (°C)": 13.9984,
+      "FSS_TMP_0 (°C)": 21.0,
+      "FSS_TMP_1 (°C)": 20.0,
+      "FSS_TMP_2 (°C)": 18.0,
+      "FSS_TMP_3 (°C)": 19.0,
+      "FSS_TMP_4 (°C)": 20.0,
+      "FSS_TMP_5 (°C)": 1.0,
+      "SV_X": NaN,
+      "SV_Y": NaN,
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
+    },
+    {
+      "來源ID": 13874762,
+      "網站時間(UTC)": "2026-04-23 09:44:53",
+      "CMG_TMP_0": "Top=19.7983 °C, Bottom=21.0983 °C",
+      "CMG_TMP_1": "Top=19.7983 °C, Bottom=20.8969 °C",
+      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "SV": "[-0.56417984, -0.57756186, -0.58290541]",
+      "Callsign": NaN,
+      "ATT_ERROR_X": -0.0,
+      "ATT_ERROR_Y": -0.42828274,
+      "ATT_ERROR_Z": 0.42435658,
+      "ATT_ERR_RATE (raw rad/s)_X": 0.11985859,
+      "ATT_ERR_RATE (raw rad/s)_Y": -0.10161552,
+      "ATT_ERR_RATE (raw rad/s)_Z": 0.18974833,
+      "ATT_ERR_RATE (deg/s)_X": 6.8674,
+      "ATT_ERR_RATE (deg/s)_Y": -5.8221,
+      "ATT_ERR_RATE (deg/s)_Z": 10.8718,
+      "MAG_X": -2.64099121,
+      "MAG_Y": 6.57775879,
+      "MAG_Z": -39.81201172,
+      "ADCS_TMP (°C)": 13.9984,
+      "FSS_TMP_0 (°C)": 22.0,
+      "FSS_TMP_1 (°C)": 22.0,
+      "FSS_TMP_2 (°C)": 19.0,
+      "FSS_TMP_3 (°C)": 20.0,
+      "FSS_TMP_4 (°C)": 23.0,
+      "FSS_TMP_5 (°C)": 2.0,
+      "SV_X": NaN,
+      "SV_Y": NaN,
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13874810,
@@ -2434,7 +2618,9 @@
       "FSS_TMP_5 (°C)": 29.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13874810,
@@ -2466,7 +2652,9 @@
       "FSS_TMP_5 (°C)": 33.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13884176,
@@ -2498,7 +2686,9 @@
       "FSS_TMP_5 (°C)": 34.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13874800,
@@ -2530,7 +2720,9 @@
       "FSS_TMP_5 (°C)": 15.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13880095,
@@ -2562,7 +2754,9 @@
       "FSS_TMP_5 (°C)": -27.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13874766,
@@ -2594,7 +2788,9 @@
       "FSS_TMP_5 (°C)": 28.0625,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13874822,
@@ -2626,7 +2822,9 @@
       "FSS_TMP_5 (°C)": 0.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13874822,
@@ -2658,7 +2856,9 @@
       "FSS_TMP_5 (°C)": 2.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13874790,
@@ -2690,7 +2890,9 @@
       "FSS_TMP_5 (°C)": 9.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13874783,
@@ -2722,7 +2924,9 @@
       "FSS_TMP_5 (°C)": 2.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13874783,
@@ -2754,7 +2958,9 @@
       "FSS_TMP_5 (°C)": 2.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13874783,
@@ -2786,39 +2992,9 @@
       "FSS_TMP_5 (°C)": -429.4375,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
-    },
-    {
-      "來源ID": 13874767,
-      "網站時間(UTC)": "2026-04-22 02:02:32",
-      "CMG_TMP_0": "Top=13.3987 °C, Bottom=13.6963 °C",
-      "CMG_TMP_1": "Top=13.9984 °C, Bottom=14.2960 °C",
-      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "SV": "[0.34317660, -0.26234999, 0.90188891]",
-      "Callsign": NaN,
-      "ATT_ERROR_X": 0.0,
-      "ATT_ERROR_Y": 0.2815437,
-      "ATT_ERROR_Z": -0.47847956,
-      "ATT_ERR_RATE (raw rad/s)_X": -0.22355317,
-      "ATT_ERR_RATE (raw rad/s)_Y": 0.09240427,
-      "ATT_ERR_RATE (raw rad/s)_Z": 5.957111379570817e+32,
-      "ATT_ERR_RATE (deg/s)_X": -12.8087,
-      "ATT_ERR_RATE (deg/s)_Y": 5.2944,
-      "ATT_ERR_RATE (deg/s)_Z": 3.413173401387632e+34,
-      "MAG_X": 17.23815918,
-      "MAG_Y": -33.94348145,
-      "MAG_Z": 7.27050781,
-      "ADCS_TMP (°C)": -120.5246,
-      "FSS_TMP_0 (°C)": 285.0,
-      "FSS_TMP_1 (°C)": 30.0,
-      "FSS_TMP_2 (°C)": 19.0,
-      "FSS_TMP_3 (°C)": 52.0,
-      "FSS_TMP_4 (°C)": 30.0,
-      "FSS_TMP_5 (°C)": -9.0,
-      "SV_X": NaN,
-      "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13874767,
@@ -2850,7 +3026,43 @@
       "FSS_TMP_5 (°C)": -7.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
+    },
+    {
+      "來源ID": 13874767,
+      "網站時間(UTC)": "2026-04-22 02:02:32",
+      "CMG_TMP_0": "Top=13.3987 °C, Bottom=13.6963 °C",
+      "CMG_TMP_1": "Top=13.9984 °C, Bottom=14.2960 °C",
+      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "SV": "[0.34317660, -0.26234999, 0.90188891]",
+      "Callsign": NaN,
+      "ATT_ERROR_X": 0.0,
+      "ATT_ERROR_Y": 0.2815437,
+      "ATT_ERROR_Z": -0.47847956,
+      "ATT_ERR_RATE (raw rad/s)_X": -0.22355317,
+      "ATT_ERR_RATE (raw rad/s)_Y": 0.09240427,
+      "ATT_ERR_RATE (raw rad/s)_Z": 5.957111379570817e+32,
+      "ATT_ERR_RATE (deg/s)_X": -12.8087,
+      "ATT_ERR_RATE (deg/s)_Y": 5.2944,
+      "ATT_ERR_RATE (deg/s)_Z": 3.413173401387632e+34,
+      "MAG_X": 17.23815918,
+      "MAG_Y": -33.94348145,
+      "MAG_Z": 7.27050781,
+      "ADCS_TMP (°C)": -120.5246,
+      "FSS_TMP_0 (°C)": 285.0,
+      "FSS_TMP_1 (°C)": 30.0,
+      "FSS_TMP_2 (°C)": 19.0,
+      "FSS_TMP_3 (°C)": 52.0,
+      "FSS_TMP_4 (°C)": 30.0,
+      "FSS_TMP_5 (°C)": -9.0,
+      "SV_X": NaN,
+      "SV_Y": NaN,
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13874787,
@@ -2882,39 +3094,9 @@
       "FSS_TMP_5 (°C)": -10.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
-    },
-    {
-      "來源ID": 13876652,
-      "網站時間(UTC)": "2026-04-22 01:59:27",
-      "CMG_TMP_0": "Top=12.3962 °C, Bottom=12.6984 °C",
-      "CMG_TMP_1": "Top=13.1973 °C, Bottom=13.3987 °C",
-      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "SV": "[0.42258415, -0.00989023, -0.90626973]",
-      "Callsign": NaN,
-      "ATT_ERROR_X": -0.0,
-      "ATT_ERROR_Y": 0.28355786,
-      "ATT_ERROR_Z": -0.47847956,
-      "ATT_ERR_RATE (raw rad/s)_X": -0.22355317,
-      "ATT_ERR_RATE (raw rad/s)_Y": 0.09335031,
-      "ATT_ERR_RATE (raw rad/s)_Z": 0.11472979,
-      "ATT_ERR_RATE (deg/s)_X": -12.8087,
-      "ATT_ERR_RATE (deg/s)_Y": 5.3486,
-      "ATT_ERR_RATE (deg/s)_Z": 6.5735,
-      "MAG_X": 0.0,
-      "MAG_Y": 2.4238329959951587e+24,
-      "MAG_Z": 4717184.5,
-      "ADCS_TMP (°C)": 14.9963,
-      "FSS_TMP_0 (°C)": 27.0,
-      "FSS_TMP_1 (°C)": 30.0,
-      "FSS_TMP_2 (°C)": 18.0,
-      "FSS_TMP_3 (°C)": 18.0,
-      "FSS_TMP_4 (°C)": 27.0,
-      "FSS_TMP_5 (°C)": -132.0,
-      "SV_X": NaN,
-      "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13876652,
@@ -2946,7 +3128,43 @@
       "FSS_TMP_5 (°C)": -11.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
+    },
+    {
+      "來源ID": 13876652,
+      "網站時間(UTC)": "2026-04-22 01:59:27",
+      "CMG_TMP_0": "Top=12.3962 °C, Bottom=12.6984 °C",
+      "CMG_TMP_1": "Top=13.1973 °C, Bottom=13.3987 °C",
+      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "SV": "[0.42258415, -0.00989023, -0.90626973]",
+      "Callsign": NaN,
+      "ATT_ERROR_X": -0.0,
+      "ATT_ERROR_Y": 0.28355786,
+      "ATT_ERROR_Z": -0.47847956,
+      "ATT_ERR_RATE (raw rad/s)_X": -0.22355317,
+      "ATT_ERR_RATE (raw rad/s)_Y": 0.09335031,
+      "ATT_ERR_RATE (raw rad/s)_Z": 0.11472979,
+      "ATT_ERR_RATE (deg/s)_X": -12.8087,
+      "ATT_ERR_RATE (deg/s)_Y": 5.3486,
+      "ATT_ERR_RATE (deg/s)_Z": 6.5735,
+      "MAG_X": 0.0,
+      "MAG_Y": 2.4238329959951587e+24,
+      "MAG_Z": 4717184.5,
+      "ADCS_TMP (°C)": 14.9963,
+      "FSS_TMP_0 (°C)": 27.0,
+      "FSS_TMP_1 (°C)": 30.0,
+      "FSS_TMP_2 (°C)": 18.0,
+      "FSS_TMP_3 (°C)": 18.0,
+      "FSS_TMP_4 (°C)": 27.0,
+      "FSS_TMP_5 (°C)": -132.0,
+      "SV_X": NaN,
+      "SV_Y": NaN,
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13875300,
@@ -2978,7 +3196,9 @@
       "FSS_TMP_5 (°C)": -110.7188,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13875300,
@@ -3010,7 +3230,9 @@
       "FSS_TMP_5 (°C)": 1.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13865002,
@@ -3042,7 +3264,9 @@
       "FSS_TMP_5 (°C)": 5.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13869895,
@@ -3074,7 +3298,9 @@
       "FSS_TMP_5 (°C)": 8.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13869895,
@@ -3106,7 +3332,9 @@
       "FSS_TMP_5 (°C)": 4.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13866753,
@@ -3138,7 +3366,9 @@
       "FSS_TMP_5 (°C)": -16.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13862168,
@@ -3170,7 +3400,9 @@
       "FSS_TMP_5 (°C)": 3.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13862168,
@@ -3202,7 +3434,9 @@
       "FSS_TMP_5 (°C)": 0.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13854854,
@@ -3234,7 +3468,9 @@
       "FSS_TMP_5 (°C)": 11.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13848186,
@@ -3266,7 +3502,9 @@
       "FSS_TMP_5 (°C)": 5.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13848186,
@@ -3298,7 +3536,9 @@
       "FSS_TMP_5 (°C)": 7.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13848186,
@@ -3330,7 +3570,9 @@
       "FSS_TMP_5 (°C)": 14.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13848204,
@@ -3362,7 +3604,9 @@
       "FSS_TMP_5 (°C)": 14.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13848204,
@@ -3394,7 +3638,9 @@
       "FSS_TMP_5 (°C)": 13.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13848199,
@@ -3426,7 +3672,9 @@
       "FSS_TMP_5 (°C)": -17.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13848259,
@@ -3458,7 +3706,9 @@
       "FSS_TMP_5 (°C)": -17.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13848226,
@@ -3490,7 +3740,9 @@
       "FSS_TMP_5 (°C)": -27.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13848231,
@@ -3522,7 +3774,9 @@
       "FSS_TMP_5 (°C)": -42.4375,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13848241,
@@ -3554,7 +3808,9 @@
       "FSS_TMP_5 (°C)": 15.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13848241,
@@ -3586,7 +3842,9 @@
       "FSS_TMP_5 (°C)": 12.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13848241,
@@ -3618,7 +3876,9 @@
       "FSS_TMP_5 (°C)": 7.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13848241,
@@ -3650,7 +3910,9 @@
       "FSS_TMP_5 (°C)": 2.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13848251,
@@ -3682,7 +3944,9 @@
       "FSS_TMP_5 (°C)": 9.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13848207,
@@ -3714,7 +3978,9 @@
       "FSS_TMP_5 (°C)": -1.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13848257,
@@ -3746,7 +4012,9 @@
       "FSS_TMP_5 (°C)": 2.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13848188,
@@ -3778,7 +4046,9 @@
       "FSS_TMP_5 (°C)": -985.75,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13848233,
@@ -3810,7 +4080,9 @@
       "FSS_TMP_5 (°C)": 428.7188,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13827931,
@@ -3842,7 +4114,9 @@
       "FSS_TMP_5 (°C)": 0.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13833223,
@@ -3874,7 +4148,43 @@
       "FSS_TMP_5 (°C)": 0.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
+    },
+    {
+      "來源ID": 13840161,
+      "網站時間(UTC)": "2026-04-17 12:31:37",
+      "CMG_TMP_0": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "CMG_TMP_1": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "SV": "[0.00000000, 0.00000000, 0.00000000]",
+      "Callsign": NaN,
+      "ATT_ERROR_X": -0.0,
+      "ATT_ERROR_Y": -0.1304861,
+      "ATT_ERROR_Z": 0.22882029,
+      "ATT_ERR_RATE (raw rad/s)_X": -0.02740189,
+      "ATT_ERR_RATE (raw rad/s)_Y": -0.04086719,
+      "ATT_ERR_RATE (raw rad/s)_Z": -0.02604918,
+      "ATT_ERR_RATE (deg/s)_X": -1.57,
+      "ATT_ERR_RATE (deg/s)_Y": -2.3415,
+      "ATT_ERR_RATE (deg/s)_Z": -1.4925,
+      "MAG_X": 0.0,
+      "MAG_Y": 0.0,
+      "MAG_Z": 0.0,
+      "ADCS_TMP (°C)": 4.9988,
+      "FSS_TMP_0 (°C)": 0.0,
+      "FSS_TMP_1 (°C)": 0.0,
+      "FSS_TMP_2 (°C)": 0.0,
+      "FSS_TMP_3 (°C)": 0.0,
+      "FSS_TMP_4 (°C)": 0.0,
+      "FSS_TMP_5 (°C)": 0.0,
+      "SV_X": NaN,
+      "SV_Y": NaN,
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13840161,
@@ -3906,103 +4216,9 @@
       "FSS_TMP_5 (°C)": 2.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
-    },
-    {
-      "來源ID": 13840161,
-      "網站時間(UTC)": "2026-04-17 12:31:37",
-      "CMG_TMP_0": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "CMG_TMP_1": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "SV": "[0.00000000, 0.00000000, 0.00000000]",
-      "Callsign": NaN,
-      "ATT_ERROR_X": -0.0,
-      "ATT_ERROR_Y": -0.1304861,
-      "ATT_ERROR_Z": 0.22882029,
-      "ATT_ERR_RATE (raw rad/s)_X": -0.02740189,
-      "ATT_ERR_RATE (raw rad/s)_Y": -0.04086719,
-      "ATT_ERR_RATE (raw rad/s)_Z": -0.02604918,
-      "ATT_ERR_RATE (deg/s)_X": -1.57,
-      "ATT_ERR_RATE (deg/s)_Y": -2.3415,
-      "ATT_ERR_RATE (deg/s)_Z": -1.4925,
-      "MAG_X": 0.0,
-      "MAG_Y": 0.0,
-      "MAG_Z": 0.0,
-      "ADCS_TMP (°C)": 4.9988,
-      "FSS_TMP_0 (°C)": 0.0,
-      "FSS_TMP_1 (°C)": 0.0,
-      "FSS_TMP_2 (°C)": 0.0,
-      "FSS_TMP_3 (°C)": 0.0,
-      "FSS_TMP_4 (°C)": 0.0,
-      "FSS_TMP_5 (°C)": 0.0,
-      "SV_X": NaN,
-      "SV_Y": NaN,
-      "SV_Z": NaN
-    },
-    {
-      "來源ID": 13840139,
-      "網站時間(UTC)": "2026-04-17 12:24:41",
-      "CMG_TMP_0": "Top=7.4982 °C, Bottom=7.8964 °C",
-      "CMG_TMP_1": "Top=7.9971 °C, Bottom=8.2993 °C",
-      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "SV": "[-0.55848503, -0.34541574, 0.00758182]",
-      "Callsign": NaN,
-      "ATT_ERROR_X": -0.0,
-      "ATT_ERROR_Y": -0.1304861,
-      "ATT_ERROR_Z": 0.22882029,
-      "ATT_ERR_RATE (raw rad/s)_X": -0.02740189,
-      "ATT_ERR_RATE (raw rad/s)_Y": -0.04086719,
-      "ATT_ERR_RATE (raw rad/s)_Z": -0.02604918,
-      "ATT_ERR_RATE (deg/s)_X": -1.57,
-      "ATT_ERR_RATE (deg/s)_Y": -2.3415,
-      "ATT_ERR_RATE (deg/s)_Z": -1.4925,
-      "MAG_X": 22.14538574,
-      "MAG_Y": 16.39221191,
-      "MAG_Z": 31.40991211,
-      "ADCS_TMP (°C)": 2.9984,
-      "FSS_TMP_0 (°C)": 6.0,
-      "FSS_TMP_1 (°C)": 7.0,
-      "FSS_TMP_2 (°C)": 9.0,
-      "FSS_TMP_3 (°C)": 12.0,
-      "FSS_TMP_4 (°C)": 10.0,
-      "FSS_TMP_5 (°C)": 11.0,
-      "SV_X": NaN,
-      "SV_Y": NaN,
-      "SV_Z": NaN
-    },
-    {
-      "來源ID": 13840139,
-      "網站時間(UTC)": "2026-04-17 12:24:41",
-      "CMG_TMP_0": "Top=7.9971 °C, Bottom=8.4961 °C",
-      "CMG_TMP_1": "Top=8.5968 °C, Bottom=8.8989 °C",
-      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "SV": "[-0.19144118, -0.63118315, 0.08984523]",
-      "Callsign": NaN,
-      "ATT_ERROR_X": -0.0,
-      "ATT_ERROR_Y": -0.1304861,
-      "ATT_ERROR_Z": 0.22882029,
-      "ATT_ERR_RATE (raw rad/s)_X": -0.02740189,
-      "ATT_ERR_RATE (raw rad/s)_Y": -0.04086719,
-      "ATT_ERR_RATE (raw rad/s)_Z": -0.02604918,
-      "ATT_ERR_RATE (deg/s)_X": -1.57,
-      "ATT_ERR_RATE (deg/s)_Y": -2.3415,
-      "ATT_ERR_RATE (deg/s)_Z": -1.4925,
-      "MAG_X": 27.71789551,
-      "MAG_Y": 21.72058105,
-      "MAG_Z": 25.48339844,
-      "ADCS_TMP (°C)": 4.9988,
-      "FSS_TMP_0 (°C)": 8.0,
-      "FSS_TMP_1 (°C)": 9.0,
-      "FSS_TMP_2 (°C)": 11.0,
-      "FSS_TMP_3 (°C)": 12.0,
-      "FSS_TMP_4 (°C)": 13.0,
-      "FSS_TMP_5 (°C)": 5.0,
-      "SV_X": NaN,
-      "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13840139,
@@ -4034,7 +4250,77 @@
       "FSS_TMP_5 (°C)": -959.4688,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
+    },
+    {
+      "來源ID": 13840139,
+      "網站時間(UTC)": "2026-04-17 12:24:41",
+      "CMG_TMP_0": "Top=7.4982 °C, Bottom=7.8964 °C",
+      "CMG_TMP_1": "Top=7.9971 °C, Bottom=8.2993 °C",
+      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "SV": "[-0.55848503, -0.34541574, 0.00758182]",
+      "Callsign": NaN,
+      "ATT_ERROR_X": -0.0,
+      "ATT_ERROR_Y": -0.1304861,
+      "ATT_ERROR_Z": 0.22882029,
+      "ATT_ERR_RATE (raw rad/s)_X": -0.02740189,
+      "ATT_ERR_RATE (raw rad/s)_Y": -0.04086719,
+      "ATT_ERR_RATE (raw rad/s)_Z": -0.02604918,
+      "ATT_ERR_RATE (deg/s)_X": -1.57,
+      "ATT_ERR_RATE (deg/s)_Y": -2.3415,
+      "ATT_ERR_RATE (deg/s)_Z": -1.4925,
+      "MAG_X": 22.14538574,
+      "MAG_Y": 16.39221191,
+      "MAG_Z": 31.40991211,
+      "ADCS_TMP (°C)": 2.9984,
+      "FSS_TMP_0 (°C)": 6.0,
+      "FSS_TMP_1 (°C)": 7.0,
+      "FSS_TMP_2 (°C)": 9.0,
+      "FSS_TMP_3 (°C)": 12.0,
+      "FSS_TMP_4 (°C)": 10.0,
+      "FSS_TMP_5 (°C)": 11.0,
+      "SV_X": NaN,
+      "SV_Y": NaN,
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
+    },
+    {
+      "來源ID": 13840139,
+      "網站時間(UTC)": "2026-04-17 12:24:41",
+      "CMG_TMP_0": "Top=7.9971 °C, Bottom=8.4961 °C",
+      "CMG_TMP_1": "Top=8.5968 °C, Bottom=8.8989 °C",
+      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "SV": "[-0.19144118, -0.63118315, 0.08984523]",
+      "Callsign": NaN,
+      "ATT_ERROR_X": -0.0,
+      "ATT_ERROR_Y": -0.1304861,
+      "ATT_ERROR_Z": 0.22882029,
+      "ATT_ERR_RATE (raw rad/s)_X": -0.02740189,
+      "ATT_ERR_RATE (raw rad/s)_Y": -0.04086719,
+      "ATT_ERR_RATE (raw rad/s)_Z": -0.02604918,
+      "ATT_ERR_RATE (deg/s)_X": -1.57,
+      "ATT_ERR_RATE (deg/s)_Y": -2.3415,
+      "ATT_ERR_RATE (deg/s)_Z": -1.4925,
+      "MAG_X": 27.71789551,
+      "MAG_Y": 21.72058105,
+      "MAG_Z": 25.48339844,
+      "ADCS_TMP (°C)": 4.9988,
+      "FSS_TMP_0 (°C)": 8.0,
+      "FSS_TMP_1 (°C)": 9.0,
+      "FSS_TMP_2 (°C)": 11.0,
+      "FSS_TMP_3 (°C)": 12.0,
+      "FSS_TMP_4 (°C)": 13.0,
+      "FSS_TMP_5 (°C)": 5.0,
+      "SV_X": NaN,
+      "SV_Y": NaN,
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13833215,
@@ -4066,7 +4352,9 @@
       "FSS_TMP_5 (°C)": -2.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13833213,
@@ -4098,7 +4386,9 @@
       "FSS_TMP_5 (°C)": -1.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13833196,
@@ -4130,7 +4420,9 @@
       "FSS_TMP_5 (°C)": -15.5,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13818162,
@@ -4162,7 +4454,9 @@
       "FSS_TMP_5 (°C)": -18.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13818150,
@@ -4194,7 +4488,9 @@
       "FSS_TMP_5 (°C)": 151.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13817171,
@@ -4226,7 +4522,9 @@
       "FSS_TMP_5 (°C)": 32.75,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13817130,
@@ -4258,7 +4556,9 @@
       "FSS_TMP_5 (°C)": 16.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13817130,
@@ -4290,7 +4590,9 @@
       "FSS_TMP_5 (°C)": 14.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13817176,
@@ -4322,7 +4624,9 @@
       "FSS_TMP_5 (°C)": 14.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13818160,
@@ -4354,7 +4658,9 @@
       "FSS_TMP_5 (°C)": 71.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13817140,
@@ -4386,7 +4692,9 @@
       "FSS_TMP_5 (°C)": 4.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13817150,
@@ -4418,7 +4726,9 @@
       "FSS_TMP_5 (°C)": 3.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13817161,
@@ -4450,7 +4760,9 @@
       "FSS_TMP_5 (°C)": -1.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13817161,
@@ -4482,7 +4794,9 @@
       "FSS_TMP_5 (°C)": -4.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13814758,
@@ -4514,7 +4828,9 @@
       "FSS_TMP_5 (°C)": -1.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13818139,
@@ -4546,7 +4862,9 @@
       "FSS_TMP_5 (°C)": 13.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13817159,
@@ -4578,7 +4896,9 @@
       "FSS_TMP_5 (°C)": -11.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13817179,
@@ -4610,7 +4930,9 @@
       "FSS_TMP_5 (°C)": -7.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13798391,
@@ -4642,7 +4964,9 @@
       "FSS_TMP_5 (°C)": -26.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13798387,
@@ -4674,7 +4998,9 @@
       "FSS_TMP_5 (°C)": 4.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13797095,
@@ -4706,7 +5032,9 @@
       "FSS_TMP_5 (°C)": 7.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13799475,
@@ -4738,7 +5066,9 @@
       "FSS_TMP_5 (°C)": 5.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13799475,
@@ -4770,7 +5100,9 @@
       "FSS_TMP_5 (°C)": 7.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13799842,
@@ -4802,7 +5134,9 @@
       "FSS_TMP_5 (°C)": -955.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13798386,
@@ -4834,7 +5168,9 @@
       "FSS_TMP_5 (°C)": -4.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13798401,
@@ -4866,7 +5202,9 @@
       "FSS_TMP_5 (°C)": 0.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13800106,
@@ -4898,7 +5236,9 @@
       "FSS_TMP_5 (°C)": 0.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13799038,
@@ -4930,7 +5270,9 @@
       "FSS_TMP_5 (°C)": -19.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13799829,
@@ -4962,7 +5304,9 @@
       "FSS_TMP_5 (°C)": -19.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13799482,
@@ -4994,7 +5338,9 @@
       "FSS_TMP_5 (°C)": -19.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13797771,
@@ -5026,7 +5372,9 @@
       "FSS_TMP_5 (°C)": -19.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13799470,
@@ -5058,7 +5406,9 @@
       "FSS_TMP_5 (°C)": 13.0312,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13797784,
@@ -5090,7 +5440,43 @@
       "FSS_TMP_5 (°C)": -86.75,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
+    },
+    {
+      "來源ID": 13799041,
+      "網站時間(UTC)": "2026-04-12 13:39:36",
+      "CMG_TMP_0": "Top=8.7982 °C, Bottom=9.0958 °C",
+      "CMG_TMP_1": "Top=9.4986 °C, Bottom=9.7961 °C",
+      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "SV": "[-0.44003350, 0.01034796, 0.15945117]",
+      "Callsign": NaN,
+      "ATT_ERROR_X": 0.0,
+      "ATT_ERROR_Y": -0.38954908,
+      "ATT_ERROR_Z": -0.00298916,
+      "ATT_ERR_RATE (raw rad/s)_X": 0.00516372,
+      "ATT_ERR_RATE (raw rad/s)_Y": -0.01517697,
+      "ATT_ERR_RATE (raw rad/s)_Z": 0.00550554,
+      "ATT_ERR_RATE (deg/s)_X": 0.2959,
+      "ATT_ERR_RATE (deg/s)_Y": -0.8696,
+      "ATT_ERR_RATE (deg/s)_Z": 0.3154,
+      "MAG_X": 15.80993652,
+      "MAG_Y": -29.3963623,
+      "MAG_Z": 17.26806641,
+      "ADCS_TMP (°C)": 1.9958,
+      "FSS_TMP_0 (°C)": 2.0,
+      "FSS_TMP_1 (°C)": 3.0,
+      "FSS_TMP_2 (°C)": 10.0,
+      "FSS_TMP_3 (°C)": 11.0,
+      "FSS_TMP_4 (°C)": 4.0,
+      "FSS_TMP_5 (°C)": 20.0,
+      "SV_X": NaN,
+      "SV_Y": NaN,
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13799041,
@@ -5122,39 +5508,9 @@
       "FSS_TMP_5 (°C)": 8.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
-    },
-    {
-      "來源ID": 13799041,
-      "網站時間(UTC)": "2026-04-12 13:39:36",
-      "CMG_TMP_0": "Top=8.7982 °C, Bottom=9.0958 °C",
-      "CMG_TMP_1": "Top=9.4986 °C, Bottom=9.7961 °C",
-      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "SV": "[-0.44003350, 0.01034796, 0.15945117]",
-      "Callsign": NaN,
-      "ATT_ERROR_X": 0.0,
-      "ATT_ERROR_Y": -0.38954908,
-      "ATT_ERROR_Z": -0.00298916,
-      "ATT_ERR_RATE (raw rad/s)_X": 0.00516372,
-      "ATT_ERR_RATE (raw rad/s)_Y": -0.01517697,
-      "ATT_ERR_RATE (raw rad/s)_Z": 0.00550554,
-      "ATT_ERR_RATE (deg/s)_X": 0.2959,
-      "ATT_ERR_RATE (deg/s)_Y": -0.8696,
-      "ATT_ERR_RATE (deg/s)_Z": 0.3154,
-      "MAG_X": 15.80993652,
-      "MAG_Y": -29.3963623,
-      "MAG_Z": 17.26806641,
-      "ADCS_TMP (°C)": 1.9958,
-      "FSS_TMP_0 (°C)": 2.0,
-      "FSS_TMP_1 (°C)": 3.0,
-      "FSS_TMP_2 (°C)": 10.0,
-      "FSS_TMP_3 (°C)": 11.0,
-      "FSS_TMP_4 (°C)": 4.0,
-      "FSS_TMP_5 (°C)": 20.0,
-      "SV_X": NaN,
-      "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13797785,
@@ -5186,7 +5542,9 @@
       "FSS_TMP_5 (°C)": 20.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13799039,
@@ -5218,7 +5576,9 @@
       "FSS_TMP_5 (°C)": 17.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13799039,
@@ -5250,7 +5610,9 @@
       "FSS_TMP_5 (°C)": 386.0938,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13802401,
@@ -5282,7 +5644,9 @@
       "FSS_TMP_5 (°C)": -3.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13802401,
@@ -5314,7 +5678,9 @@
       "FSS_TMP_5 (°C)": -3.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13802401,
@@ -5346,7 +5712,9 @@
       "FSS_TMP_5 (°C)": -2.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13782533,
@@ -5378,7 +5746,9 @@
       "FSS_TMP_5 (°C)": 0.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13784298,
@@ -5410,7 +5780,9 @@
       "FSS_TMP_5 (°C)": -23.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13794780,
@@ -5442,7 +5814,9 @@
       "FSS_TMP_5 (°C)": -23.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13783140,
@@ -5474,7 +5848,9 @@
       "FSS_TMP_5 (°C)": -23.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13782523,
@@ -5506,7 +5882,9 @@
       "FSS_TMP_5 (°C)": -201.375,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13791343,
@@ -5538,7 +5916,9 @@
       "FSS_TMP_5 (°C)": 15.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13782522,
@@ -5570,7 +5950,9 @@
       "FSS_TMP_5 (°C)": 157.1562,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13782522,
@@ -5602,7 +5984,9 @@
       "FSS_TMP_5 (°C)": 15.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13782522,
@@ -5634,7 +6018,9 @@
       "FSS_TMP_5 (°C)": 13.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13783146,
@@ -5666,7 +6052,9 @@
       "FSS_TMP_5 (°C)": 7.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13783618,
@@ -5698,7 +6086,9 @@
       "FSS_TMP_5 (°C)": 13.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13781900,
@@ -5730,7 +6120,9 @@
       "FSS_TMP_5 (°C)": 13.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13783986,
@@ -5762,7 +6154,9 @@
       "FSS_TMP_5 (°C)": -23.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13783999,
@@ -5794,7 +6188,9 @@
       "FSS_TMP_5 (°C)": -23.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13779502,
@@ -5826,7 +6222,9 @@
       "FSS_TMP_5 (°C)": -23.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13783155,
@@ -5858,7 +6256,9 @@
       "FSS_TMP_5 (°C)": -150.9688,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13783631,
@@ -5890,7 +6290,9 @@
       "FSS_TMP_5 (°C)": -2.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13783631,
@@ -5922,7 +6324,9 @@
       "FSS_TMP_5 (°C)": 3.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13783631,
@@ -5954,7 +6358,9 @@
       "FSS_TMP_5 (°C)": 5.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13783630,
@@ -5986,7 +6392,9 @@
       "FSS_TMP_5 (°C)": 3.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13783630,
@@ -6018,7 +6426,9 @@
       "FSS_TMP_5 (°C)": 20.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13774453,
@@ -6050,7 +6460,9 @@
       "FSS_TMP_5 (°C)": 0.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13783619,
@@ -6082,7 +6494,9 @@
       "FSS_TMP_5 (°C)": 0.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13783624,
@@ -6114,7 +6528,9 @@
       "FSS_TMP_5 (°C)": 0.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13766537,
@@ -6146,7 +6562,9 @@
       "FSS_TMP_5 (°C)": 2.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13767082,
@@ -6178,7 +6596,9 @@
       "FSS_TMP_5 (°C)": 5.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13767085,
@@ -6210,7 +6630,9 @@
       "FSS_TMP_5 (°C)": 5.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13766535,
@@ -6242,7 +6664,9 @@
       "FSS_TMP_5 (°C)": 12.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13767542,
@@ -6274,7 +6698,9 @@
       "FSS_TMP_5 (°C)": 3.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13767890,
@@ -6306,7 +6732,9 @@
       "FSS_TMP_5 (°C)": 18.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13766526,
@@ -6338,7 +6766,9 @@
       "FSS_TMP_5 (°C)": 3.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13767553,
@@ -6370,7 +6800,9 @@
       "FSS_TMP_5 (°C)": -25.9375,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13766541,
@@ -6402,7 +6834,9 @@
       "FSS_TMP_5 (°C)": 67.5,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13748849,
@@ -6434,7 +6868,9 @@
       "FSS_TMP_5 (°C)": -15.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13748849,
@@ -6466,7 +6902,9 @@
       "FSS_TMP_5 (°C)": -12.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13750439,
@@ -6498,7 +6936,9 @@
       "FSS_TMP_5 (°C)": -3.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13748861,
@@ -6530,7 +6970,9 @@
       "FSS_TMP_5 (°C)": -17.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13748856,
@@ -6562,7 +7004,9 @@
       "FSS_TMP_5 (°C)": -17.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13748713,
@@ -6594,7 +7038,9 @@
       "FSS_TMP_5 (°C)": -17.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13748710,
@@ -6626,7 +7072,9 @@
       "FSS_TMP_5 (°C)": -17.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13748862,
@@ -6658,7 +7106,9 @@
       "FSS_TMP_5 (°C)": -17.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13748859,
@@ -6690,7 +7140,9 @@
       "FSS_TMP_5 (°C)": 7.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13748859,
@@ -6722,7 +7174,9 @@
       "FSS_TMP_5 (°C)": 10.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13748712,
@@ -6754,7 +7208,9 @@
       "FSS_TMP_5 (°C)": 30.5,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13748718,
@@ -6786,7 +7242,9 @@
       "FSS_TMP_5 (°C)": 12.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13748718,
@@ -6818,7 +7276,9 @@
       "FSS_TMP_5 (°C)": 6.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13750426,
@@ -6850,7 +7310,9 @@
       "FSS_TMP_5 (°C)": -3.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13750438,
@@ -6882,7 +7344,9 @@
       "FSS_TMP_5 (°C)": 0.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13750438,
@@ -6914,7 +7378,9 @@
       "FSS_TMP_5 (°C)": 4.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13750046,
@@ -6946,7 +7412,9 @@
       "FSS_TMP_5 (°C)": 523.125,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13750440,
@@ -6978,7 +7446,9 @@
       "FSS_TMP_5 (°C)": 7.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13748717,
@@ -7010,7 +7480,9 @@
       "FSS_TMP_5 (°C)": 4.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13746713,
@@ -7042,7 +7514,9 @@
       "FSS_TMP_5 (°C)": 11.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13745809,
@@ -7074,7 +7548,9 @@
       "FSS_TMP_5 (°C)": 3.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13735223,
@@ -7106,7 +7582,9 @@
       "FSS_TMP_5 (°C)": -29.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13733179,
@@ -7138,7 +7616,9 @@
       "FSS_TMP_5 (°C)": 8.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13733175,
@@ -7170,7 +7650,9 @@
       "FSS_TMP_5 (°C)": -29.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13735227,
@@ -7202,7 +7684,9 @@
       "FSS_TMP_5 (°C)": 4.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13735227,
@@ -7234,7 +7718,9 @@
       "FSS_TMP_5 (°C)": 8.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13735305,
@@ -7266,7 +7752,9 @@
       "FSS_TMP_5 (°C)": 11.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13735305,
@@ -7298,7 +7786,9 @@
       "FSS_TMP_5 (°C)": 15.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13735305,
@@ -7330,7 +7820,9 @@
       "FSS_TMP_5 (°C)": 0.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13733201,
@@ -7362,7 +7854,9 @@
       "FSS_TMP_5 (°C)": 18.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13733196,
@@ -7394,7 +7888,9 @@
       "FSS_TMP_5 (°C)": -3.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13733194,
@@ -7426,7 +7922,9 @@
       "FSS_TMP_5 (°C)": 3.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13733200,
@@ -7458,7 +7956,9 @@
       "FSS_TMP_5 (°C)": 136.2188,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13720625,
@@ -7490,7 +7990,9 @@
       "FSS_TMP_5 (°C)": 12.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13720922,
@@ -7522,7 +8024,9 @@
       "FSS_TMP_5 (°C)": 1.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13720893,
@@ -7554,7 +8058,9 @@
       "FSS_TMP_5 (°C)": 12.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13720633,
@@ -7586,7 +8092,9 @@
       "FSS_TMP_5 (°C)": -1014.7188,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13720633,
@@ -7618,7 +8126,9 @@
       "FSS_TMP_5 (°C)": 9.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13720642,
@@ -7650,7 +8160,9 @@
       "FSS_TMP_5 (°C)": 15.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13720905,
@@ -7682,7 +8194,9 @@
       "FSS_TMP_5 (°C)": 5.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13720631,
@@ -7714,7 +8228,9 @@
       "FSS_TMP_5 (°C)": 105.5625,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13720650,
@@ -7746,7 +8262,9 @@
       "FSS_TMP_5 (°C)": 18.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13717858,
@@ -7778,7 +8296,9 @@
       "FSS_TMP_5 (°C)": 18.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13720914,
@@ -7810,7 +8330,9 @@
       "FSS_TMP_5 (°C)": -12.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13720639,
@@ -7842,7 +8364,9 @@
       "FSS_TMP_5 (°C)": -3.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13718098,
@@ -7874,7 +8398,9 @@
       "FSS_TMP_5 (°C)": -4.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13718098,
@@ -7906,7 +8432,9 @@
       "FSS_TMP_5 (°C)": -1.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13718098,
@@ -7938,7 +8466,9 @@
       "FSS_TMP_5 (°C)": 8.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13720649,
@@ -7970,7 +8500,9 @@
       "FSS_TMP_5 (°C)": -1018.4688,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13720647,
@@ -8002,7 +8534,9 @@
       "FSS_TMP_5 (°C)": -20.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13700259,
@@ -8034,7 +8568,9 @@
       "FSS_TMP_5 (°C)": 18.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13700271,
@@ -8066,7 +8602,9 @@
       "FSS_TMP_5 (°C)": 11.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13700271,
@@ -8098,7 +8636,9 @@
       "FSS_TMP_5 (°C)": 15.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13700267,
@@ -8130,7 +8670,9 @@
       "FSS_TMP_5 (°C)": 18.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13700267,
@@ -8162,7 +8704,9 @@
       "FSS_TMP_5 (°C)": 11.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13700281,
@@ -8194,7 +8738,9 @@
       "FSS_TMP_5 (°C)": 23.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13700290,
@@ -8226,7 +8772,9 @@
       "FSS_TMP_5 (°C)": 23.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13700238,
@@ -8258,7 +8806,9 @@
       "FSS_TMP_5 (°C)": 10.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13700317,
@@ -8290,7 +8840,9 @@
       "FSS_TMP_5 (°C)": 0.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13700243,
@@ -8322,7 +8874,9 @@
       "FSS_TMP_5 (°C)": 0.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13700313,
@@ -8354,7 +8908,9 @@
       "FSS_TMP_5 (°C)": 1.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13700313,
@@ -8386,7 +8942,9 @@
       "FSS_TMP_5 (°C)": 953.5,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13700273,
@@ -8418,7 +8976,9 @@
       "FSS_TMP_5 (°C)": 0.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13700257,
@@ -8450,7 +9010,9 @@
       "FSS_TMP_5 (°C)": 0.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13700349,
@@ -8482,7 +9044,9 @@
       "FSS_TMP_5 (°C)": 2.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13700218,
@@ -8514,7 +9078,9 @@
       "FSS_TMP_5 (°C)": -20.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13700324,
@@ -8546,7 +9112,9 @@
       "FSS_TMP_5 (°C)": -20.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13700324,
@@ -8578,7 +9146,9 @@
       "FSS_TMP_5 (°C)": -20.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13700258,
@@ -8610,7 +9180,9 @@
       "FSS_TMP_5 (°C)": -24.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13700270,
@@ -8642,7 +9214,9 @@
       "FSS_TMP_5 (°C)": -24.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13700237,
@@ -8674,7 +9248,9 @@
       "FSS_TMP_5 (°C)": -24.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13700237,
@@ -8706,7 +9282,9 @@
       "FSS_TMP_5 (°C)": -24.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13700280,
@@ -8738,7 +9316,9 @@
       "FSS_TMP_5 (°C)": 0.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13700280,
@@ -8770,7 +9350,9 @@
       "FSS_TMP_5 (°C)": -24.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13700304,
@@ -8802,7 +9384,9 @@
       "FSS_TMP_5 (°C)": -24.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13700357,
@@ -8834,7 +9418,9 @@
       "FSS_TMP_5 (°C)": -24.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13700301,
@@ -8866,7 +9452,9 @@
       "FSS_TMP_5 (°C)": 0.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13700318,
@@ -8898,7 +9486,9 @@
       "FSS_TMP_5 (°C)": 14.5625,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13700256,
@@ -8930,7 +9520,9 @@
       "FSS_TMP_5 (°C)": -147.9688,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13700356,
@@ -8962,7 +9554,9 @@
       "FSS_TMP_5 (°C)": 17.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13700348,
@@ -8994,7 +9588,9 @@
       "FSS_TMP_5 (°C)": 19.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13704071,
@@ -9026,7 +9622,9 @@
       "FSS_TMP_5 (°C)": 5.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13700264,
@@ -9058,7 +9656,9 @@
       "FSS_TMP_5 (°C)": 0.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13700332,
@@ -9090,7 +9690,9 @@
       "FSS_TMP_5 (°C)": 11.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13700294,
@@ -9122,7 +9724,9 @@
       "FSS_TMP_5 (°C)": 6.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13700274,
@@ -9154,7 +9758,9 @@
       "FSS_TMP_5 (°C)": 7.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13700274,
@@ -9186,7 +9792,9 @@
       "FSS_TMP_5 (°C)": 15.25,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13700274,
@@ -9218,7 +9826,9 @@
       "FSS_TMP_5 (°C)": 14.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13700235,
@@ -9250,7 +9860,9 @@
       "FSS_TMP_5 (°C)": 15.25,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13695399,
@@ -9282,7 +9894,9 @@
       "FSS_TMP_5 (°C)": -11.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13695404,
@@ -9314,7 +9928,9 @@
       "FSS_TMP_5 (°C)": -13.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     },
     {
       "來源ID": 13695404,
@@ -9346,10 +9962,12 @@
       "FSS_TMP_5 (°C)": -10.0,
       "SV_X": NaN,
       "SV_Y": NaN,
-      "SV_Z": NaN
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN
     }
   ],
   "key": "ADCS_2_Beacon",
   "label": "ADCS 2 Beacon",
-  "sourceCsv": "ADCS_2_Beacon_20260505_1217.csv"
+  "sourceCsv": "ADCS_2_Beacon_20260505_1609.csv"
 }
