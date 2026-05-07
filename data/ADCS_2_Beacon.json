@@ -1,5 +1,5 @@
 {
-  "rows": 309,
+  "rows": 310,
   "columns": [
     "來源ID",
     "網站時間(UTC)",
@@ -38,12 +38,54 @@
     "SV_Y (e-07)",
     "MAG_Z (e+19)",
     "ATT_ERROR_Z (e-06)",
-    "MAG"
+    "MAG",
+    "MAG_Y (e+33)"
   ],
   "timeColumn": "網站時間(UTC)",
   "startTime": "2026-03-31 02:45:12",
-  "endTime": "2026-05-07 01:21:20",
+  "endTime": "2026-05-07 02:58:28",
   "previewRows": [
+    {
+      "來源ID": 13988253,
+      "網站時間(UTC)": "2026-05-07 02:58:28",
+      "CMG_TMP_0": "Top=18.7271 °C, Bottom=-139.9979 °C",
+      "CMG_TMP_1": "Top=-140.3046 °C, Bottom=0.2380 °C",
+      "CMG_TMP_2": "Top=-148.7869 °C, Bottom=9.9609 °C",
+      "CMG_TMP_3": "Top=-148.2010 °C, Bottom=11.1694 °C",
+      "SV": null,
+      "Callsign": NaN,
+      "ATT_ERROR_X": -0.0,
+      "ATT_ERROR_Y": 0.16146463,
+      "ATT_ERROR_Z": -0.03318403,
+      "ATT_ERR_RATE (raw rad/s)_X": 0.0067678,
+      "ATT_ERR_RATE (raw rad/s)_Y": -0.00371938,
+      "ATT_ERR_RATE (raw rad/s)_Z": -0.0,
+      "ATT_ERR_RATE (deg/s)_X": 0.3878,
+      "ATT_ERR_RATE (deg/s)_Y": -0.2131,
+      "ATT_ERR_RATE (deg/s)_Z": -0.0,
+      "MAG_X": 0.75402838,
+      "MAG_Y": NaN,
+      "MAG_Z": -0.75000006,
+      "ADCS_TMP (°C)": -134.4177,
+      "FSS_TMP_0 (°C)": 2.7812,
+      "FSS_TMP_1 (°C)": 10.5,
+      "FSS_TMP_2 (°C)": 2.25,
+      "FSS_TMP_3 (°C)": -957.25,
+      "FSS_TMP_4 (°C)": -1008.9688,
+      "FSS_TMP_5 (°C)": -951.7188,
+      "SV_X": -0.0,
+      "SV_Y": -0.0,
+      "SV_Z": -0.0,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN,
+      "ATT_ERROR_Z (e+25)": NaN,
+      "SV_X (e+34)": NaN,
+      "SV_Y (e-07)": NaN,
+      "MAG_Z (e+19)": NaN,
+      "ATT_ERROR_Z (e-06)": NaN,
+      "MAG": null,
+      "MAG_Y (e+33)": 2.033372221828005
+    },
     {
       "來源ID": 14002885,
       "網站時間(UTC)": "2026-05-07 01:21:20",
@@ -82,7 +124,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": "[-inf, -inf, -inf]"
+      "MAG": "[-inf, -inf, -inf]",
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 14002885,
@@ -122,7 +165,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": "[inf, -inf, inf]"
+      "MAG": "[inf, -inf, inf]",
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13988282,
@@ -162,7 +206,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": "[inf, inf, -inf]"
+      "MAG": "[inf, inf, -inf]",
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13988278,
@@ -202,7 +247,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": -7.01,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13988296,
@@ -242,7 +288,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13988256,
@@ -282,7 +329,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13988292,
@@ -322,7 +370,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13996803,
@@ -362,7 +411,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13988246,
@@ -402,7 +452,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13996768,
@@ -442,7 +493,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13988241,
@@ -482,7 +534,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13988265,
@@ -522,7 +575,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13988283,
@@ -562,7 +616,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13993660,
@@ -602,7 +657,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13988243,
@@ -642,7 +698,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13988245,
@@ -682,7 +739,8 @@
       "SV_Y (e-07)": 5.4,
       "MAG_Z (e+19)": 1.7654812027710864,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13992727,
@@ -722,7 +780,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13988269,
@@ -762,7 +821,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13971197,
@@ -802,7 +862,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13971197,
@@ -842,7 +903,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13983251,
@@ -882,7 +944,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13983103,
@@ -922,7 +985,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13971208,
@@ -962,7 +1026,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13971164,
@@ -1002,7 +1067,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13971153,
@@ -1042,7 +1108,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13971156,
@@ -1082,7 +1149,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13971156,
@@ -1122,7 +1190,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13971215,
@@ -1162,7 +1231,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13971174,
@@ -1202,7 +1272,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13971177,
@@ -1242,7 +1313,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13971177,
@@ -1282,7 +1354,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13960538,
@@ -1322,7 +1395,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13960538,
@@ -1362,7 +1436,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13939483,
@@ -1402,7 +1477,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13939511,
@@ -1442,7 +1518,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13939506,
@@ -1482,7 +1559,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13939478,
@@ -1522,7 +1600,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13939495,
@@ -1562,7 +1641,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13939469,
@@ -1602,7 +1682,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13936614,
@@ -1642,7 +1723,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13936614,
@@ -1682,7 +1764,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13914402,
@@ -1722,7 +1805,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13917243,
@@ -1762,7 +1846,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13917229,
@@ -1802,7 +1887,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13917224,
@@ -1842,7 +1928,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13914414,
@@ -1882,7 +1969,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13914376,
@@ -1922,7 +2010,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13914359,
@@ -1962,7 +2051,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13914359,
@@ -2002,7 +2092,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13908431,
@@ -2042,7 +2133,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13914389,
@@ -2082,7 +2174,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13917178,
@@ -2122,7 +2215,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13917178,
@@ -2162,7 +2256,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13917169,
@@ -2202,47 +2297,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
-    },
-    {
-      "來源ID": 13914405,
-      "網站時間(UTC)": "2026-04-27 10:16:25",
-      "CMG_TMP_0": "Top=18.0954 °C, Bottom=18.4982 °C",
-      "CMG_TMP_1": "Top=19.2993 °C, Bottom=19.5969 °C",
-      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "SV": "[0.09472322, -0.73621923, 0.66731769]",
-      "Callsign": NaN,
-      "ATT_ERROR_X": -0.0,
-      "ATT_ERROR_Y": 0.28999704,
-      "ATT_ERROR_Z": -0.19719777,
-      "ATT_ERR_RATE (raw rad/s)_X": -0.04971083,
-      "ATT_ERR_RATE (raw rad/s)_Y": 0.026122,
-      "ATT_ERR_RATE (raw rad/s)_Z": 0.05740529,
-      "ATT_ERR_RATE (deg/s)_X": -2.8482,
-      "ATT_ERR_RATE (deg/s)_Y": 1.4967,
-      "ATT_ERR_RATE (deg/s)_Z": 3.2891,
-      "MAG_X": 50.20324707,
-      "MAG_Y": -18.42224121,
-      "MAG_Z": -7.60375977,
-      "ADCS_TMP (°C)": 19.9997,
-      "FSS_TMP_0 (°C)": 34.0,
-      "FSS_TMP_1 (°C)": 35.0,
-      "FSS_TMP_2 (°C)": 29.0,
-      "FSS_TMP_3 (°C)": 30.0,
-      "FSS_TMP_4 (°C)": 35.0,
-      "FSS_TMP_5 (°C)": -14.0,
-      "SV_X": NaN,
-      "SV_Y": NaN,
-      "SV_Z": NaN,
-      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
-      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN,
-      "ATT_ERROR_Z (e+25)": NaN,
-      "SV_X (e+34)": NaN,
-      "SV_Y (e-07)": NaN,
-      "MAG_Z (e+19)": NaN,
-      "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13914405,
@@ -2282,7 +2338,49 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
+    },
+    {
+      "來源ID": 13914405,
+      "網站時間(UTC)": "2026-04-27 10:16:25",
+      "CMG_TMP_0": "Top=18.0954 °C, Bottom=18.4982 °C",
+      "CMG_TMP_1": "Top=19.2993 °C, Bottom=19.5969 °C",
+      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "SV": "[0.09472322, -0.73621923, 0.66731769]",
+      "Callsign": NaN,
+      "ATT_ERROR_X": -0.0,
+      "ATT_ERROR_Y": 0.28999704,
+      "ATT_ERROR_Z": -0.19719777,
+      "ATT_ERR_RATE (raw rad/s)_X": -0.04971083,
+      "ATT_ERR_RATE (raw rad/s)_Y": 0.026122,
+      "ATT_ERR_RATE (raw rad/s)_Z": 0.05740529,
+      "ATT_ERR_RATE (deg/s)_X": -2.8482,
+      "ATT_ERR_RATE (deg/s)_Y": 1.4967,
+      "ATT_ERR_RATE (deg/s)_Z": 3.2891,
+      "MAG_X": 50.20324707,
+      "MAG_Y": -18.42224121,
+      "MAG_Z": -7.60375977,
+      "ADCS_TMP (°C)": 19.9997,
+      "FSS_TMP_0 (°C)": 34.0,
+      "FSS_TMP_1 (°C)": 35.0,
+      "FSS_TMP_2 (°C)": 29.0,
+      "FSS_TMP_3 (°C)": 30.0,
+      "FSS_TMP_4 (°C)": 35.0,
+      "FSS_TMP_5 (°C)": -14.0,
+      "SV_X": NaN,
+      "SV_Y": NaN,
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN,
+      "ATT_ERROR_Z (e+25)": NaN,
+      "SV_X (e+34)": NaN,
+      "SV_Y (e-07)": NaN,
+      "MAG_Z (e+19)": NaN,
+      "ATT_ERROR_Z (e-06)": NaN,
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13917231,
@@ -2322,87 +2420,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
-    },
-    {
-      "來源ID": 13917193,
-      "網站時間(UTC)": "2026-04-27 08:44:11",
-      "CMG_TMP_0": "Top=15.6967 °C, Bottom=16.1957 °C",
-      "CMG_TMP_1": "Top=16.2964 °C, Bottom=16.4978 °C",
-      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "SV": "[0.00000000, 0.00000000, 0.00000000]",
-      "Callsign": NaN,
-      "ATT_ERROR_X": -0.0,
-      "ATT_ERROR_Y": 0.26298696,
-      "ATT_ERROR_Z": -0.36231354,
-      "ATT_ERR_RATE (raw rad/s)_X": -0.07219768,
-      "ATT_ERR_RATE (raw rad/s)_Y": 0.05539195,
-      "ATT_ERR_RATE (raw rad/s)_Z": 0.0334396,
-      "ATT_ERR_RATE (deg/s)_X": -4.1366,
-      "ATT_ERR_RATE (deg/s)_Y": 3.1737,
-      "ATT_ERR_RATE (deg/s)_Z": 1.9159,
-      "MAG_X": -17.08190918,
-      "MAG_Y": 15.78796387,
-      "MAG_Z": -23.29589844,
-      "ADCS_TMP (°C)": 12.9959,
-      "FSS_TMP_0 (°C)": 12.0,
-      "FSS_TMP_1 (°C)": 12.0,
-      "FSS_TMP_2 (°C)": 16.0,
-      "FSS_TMP_3 (°C)": 15.0,
-      "FSS_TMP_4 (°C)": 13.0,
-      "FSS_TMP_5 (°C)": 7.0,
-      "SV_X": NaN,
-      "SV_Y": NaN,
-      "SV_Z": NaN,
-      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
-      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN,
-      "ATT_ERROR_Z (e+25)": NaN,
-      "SV_X (e+34)": NaN,
-      "SV_Y (e-07)": NaN,
-      "MAG_Z (e+19)": NaN,
-      "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
-    },
-    {
-      "來源ID": 13917193,
-      "網站時間(UTC)": "2026-04-27 08:44:11",
-      "CMG_TMP_0": "Top=15.6967 °C, Bottom=16.0950 °C",
-      "CMG_TMP_1": "Top=16.1957 °C, Bottom=16.4978 °C",
-      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "SV": "[0.00000000, 0.00000000, 0.00000000]",
-      "Callsign": NaN,
-      "ATT_ERROR_X": -0.0,
-      "ATT_ERROR_Y": 0.26298696,
-      "ATT_ERROR_Z": -0.36231354,
-      "ATT_ERR_RATE (raw rad/s)_X": -0.07219768,
-      "ATT_ERR_RATE (raw rad/s)_Y": 0.05539195,
-      "ATT_ERR_RATE (raw rad/s)_Z": 0.0334396,
-      "ATT_ERR_RATE (deg/s)_X": -4.1366,
-      "ATT_ERR_RATE (deg/s)_Y": 3.1737,
-      "ATT_ERR_RATE (deg/s)_Z": 1.9159,
-      "MAG_X": -20.4876709,
-      "MAG_Y": 16.80725098,
-      "MAG_Z": -23.515625,
-      "ADCS_TMP (°C)": 13.9984,
-      "FSS_TMP_0 (°C)": 14.0,
-      "FSS_TMP_1 (°C)": 15.0,
-      "FSS_TMP_2 (°C)": 19.0,
-      "FSS_TMP_3 (°C)": 18.0,
-      "FSS_TMP_4 (°C)": 14.0,
-      "FSS_TMP_5 (°C)": 13.0,
-      "SV_X": NaN,
-      "SV_Y": NaN,
-      "SV_Z": NaN,
-      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
-      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN,
-      "ATT_ERROR_Z (e+25)": NaN,
-      "SV_X (e+34)": NaN,
-      "SV_Y (e-07)": NaN,
-      "MAG_Z (e+19)": NaN,
-      "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13917193,
@@ -2442,7 +2461,90 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
+    },
+    {
+      "來源ID": 13917193,
+      "網站時間(UTC)": "2026-04-27 08:44:11",
+      "CMG_TMP_0": "Top=15.6967 °C, Bottom=16.1957 °C",
+      "CMG_TMP_1": "Top=16.2964 °C, Bottom=16.4978 °C",
+      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "SV": "[0.00000000, 0.00000000, 0.00000000]",
+      "Callsign": NaN,
+      "ATT_ERROR_X": -0.0,
+      "ATT_ERROR_Y": 0.26298696,
+      "ATT_ERROR_Z": -0.36231354,
+      "ATT_ERR_RATE (raw rad/s)_X": -0.07219768,
+      "ATT_ERR_RATE (raw rad/s)_Y": 0.05539195,
+      "ATT_ERR_RATE (raw rad/s)_Z": 0.0334396,
+      "ATT_ERR_RATE (deg/s)_X": -4.1366,
+      "ATT_ERR_RATE (deg/s)_Y": 3.1737,
+      "ATT_ERR_RATE (deg/s)_Z": 1.9159,
+      "MAG_X": -17.08190918,
+      "MAG_Y": 15.78796387,
+      "MAG_Z": -23.29589844,
+      "ADCS_TMP (°C)": 12.9959,
+      "FSS_TMP_0 (°C)": 12.0,
+      "FSS_TMP_1 (°C)": 12.0,
+      "FSS_TMP_2 (°C)": 16.0,
+      "FSS_TMP_3 (°C)": 15.0,
+      "FSS_TMP_4 (°C)": 13.0,
+      "FSS_TMP_5 (°C)": 7.0,
+      "SV_X": NaN,
+      "SV_Y": NaN,
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN,
+      "ATT_ERROR_Z (e+25)": NaN,
+      "SV_X (e+34)": NaN,
+      "SV_Y (e-07)": NaN,
+      "MAG_Z (e+19)": NaN,
+      "ATT_ERROR_Z (e-06)": NaN,
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
+    },
+    {
+      "來源ID": 13917193,
+      "網站時間(UTC)": "2026-04-27 08:44:11",
+      "CMG_TMP_0": "Top=15.6967 °C, Bottom=16.0950 °C",
+      "CMG_TMP_1": "Top=16.1957 °C, Bottom=16.4978 °C",
+      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "SV": "[0.00000000, 0.00000000, 0.00000000]",
+      "Callsign": NaN,
+      "ATT_ERROR_X": -0.0,
+      "ATT_ERROR_Y": 0.26298696,
+      "ATT_ERROR_Z": -0.36231354,
+      "ATT_ERR_RATE (raw rad/s)_X": -0.07219768,
+      "ATT_ERR_RATE (raw rad/s)_Y": 0.05539195,
+      "ATT_ERR_RATE (raw rad/s)_Z": 0.0334396,
+      "ATT_ERR_RATE (deg/s)_X": -4.1366,
+      "ATT_ERR_RATE (deg/s)_Y": 3.1737,
+      "ATT_ERR_RATE (deg/s)_Z": 1.9159,
+      "MAG_X": -20.4876709,
+      "MAG_Y": 16.80725098,
+      "MAG_Z": -23.515625,
+      "ADCS_TMP (°C)": 13.9984,
+      "FSS_TMP_0 (°C)": 14.0,
+      "FSS_TMP_1 (°C)": 15.0,
+      "FSS_TMP_2 (°C)": 19.0,
+      "FSS_TMP_3 (°C)": 18.0,
+      "FSS_TMP_4 (°C)": 14.0,
+      "FSS_TMP_5 (°C)": 13.0,
+      "SV_X": NaN,
+      "SV_Y": NaN,
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN,
+      "ATT_ERROR_Z (e+25)": NaN,
+      "SV_X (e+34)": NaN,
+      "SV_Y (e-07)": NaN,
+      "MAG_Z (e+19)": NaN,
+      "ATT_ERROR_Z (e-06)": NaN,
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13917195,
@@ -2482,7 +2584,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13917219,
@@ -2522,7 +2625,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13917200,
@@ -2562,7 +2666,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13917200,
@@ -2602,7 +2707,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13914369,
@@ -2642,7 +2748,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13911476,
@@ -2682,7 +2789,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13895518,
@@ -2722,7 +2830,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13898671,
@@ -2762,7 +2871,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13898649,
@@ -2802,7 +2912,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13901783,
@@ -2842,7 +2953,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13898620,
@@ -2882,7 +2994,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13898611,
@@ -2922,7 +3035,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13898611,
@@ -2962,7 +3076,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13898611,
@@ -3002,7 +3117,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13901742,
@@ -3042,7 +3158,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13898599,
@@ -3082,7 +3199,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13898630,
@@ -3122,7 +3240,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13898630,
@@ -3162,7 +3281,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13888519,
@@ -3202,7 +3322,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13895556,
@@ -3242,7 +3363,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13895257,
@@ -3282,7 +3404,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13895257,
@@ -3322,7 +3445,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13891558,
@@ -3362,7 +3486,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13878444,
@@ -3402,7 +3527,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13874781,
@@ -3442,47 +3568,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
-    },
-    {
-      "來源ID": 13874793,
-      "網站時間(UTC)": "2026-04-23 16:21:13",
-      "CMG_TMP_0": "Top=19.1986 °C, Bottom=20.3979 °C",
-      "CMG_TMP_1": "Top=19.6976 °C, Bottom=20.6955 °C",
-      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "CMG_TMP_3": "Top=0.0092 °C, Bottom=37.5000 °C",
-      "SV": "[0.00000000, 0.00000000, -0.00000000]",
-      "Callsign": NaN,
-      "ATT_ERROR_X": -135168.0,
-      "ATT_ERROR_Y": -0.0,
-      "ATT_ERROR_Z": -0.0,
-      "ATT_ERR_RATE (raw rad/s)_X": 0.0,
-      "ATT_ERR_RATE (raw rad/s)_Y": 0.0,
-      "ATT_ERR_RATE (raw rad/s)_Z": 0.0,
-      "ATT_ERR_RATE (deg/s)_X": 0.0,
-      "ATT_ERR_RATE (deg/s)_Y": 0.0,
-      "ATT_ERR_RATE (deg/s)_Z": 0.0,
-      "MAG_X": 0.0,
-      "MAG_Y": 1.9e-07,
-      "MAG_Z": 2.8e-07,
-      "ADCS_TMP (°C)": 7.9971,
-      "FSS_TMP_0 (°C)": 264.0625,
-      "FSS_TMP_1 (°C)": -869.75,
-      "FSS_TMP_2 (°C)": 56.0625,
-      "FSS_TMP_3 (°C)": 45.0625,
-      "FSS_TMP_4 (°C)": 304.0625,
-      "FSS_TMP_5 (°C)": -64.0,
-      "SV_X": NaN,
-      "SV_Y": NaN,
-      "SV_Z": NaN,
-      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
-      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN,
-      "ATT_ERROR_Z (e+25)": NaN,
-      "SV_X (e+34)": NaN,
-      "SV_Y (e-07)": NaN,
-      "MAG_Z (e+19)": NaN,
-      "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13874793,
@@ -3522,7 +3609,49 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
+    },
+    {
+      "來源ID": 13874793,
+      "網站時間(UTC)": "2026-04-23 16:21:13",
+      "CMG_TMP_0": "Top=19.1986 °C, Bottom=20.3979 °C",
+      "CMG_TMP_1": "Top=19.6976 °C, Bottom=20.6955 °C",
+      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "CMG_TMP_3": "Top=0.0092 °C, Bottom=37.5000 °C",
+      "SV": "[0.00000000, 0.00000000, -0.00000000]",
+      "Callsign": NaN,
+      "ATT_ERROR_X": -135168.0,
+      "ATT_ERROR_Y": -0.0,
+      "ATT_ERROR_Z": -0.0,
+      "ATT_ERR_RATE (raw rad/s)_X": 0.0,
+      "ATT_ERR_RATE (raw rad/s)_Y": 0.0,
+      "ATT_ERR_RATE (raw rad/s)_Z": 0.0,
+      "ATT_ERR_RATE (deg/s)_X": 0.0,
+      "ATT_ERR_RATE (deg/s)_Y": 0.0,
+      "ATT_ERR_RATE (deg/s)_Z": 0.0,
+      "MAG_X": 0.0,
+      "MAG_Y": 1.9e-07,
+      "MAG_Z": 2.8e-07,
+      "ADCS_TMP (°C)": 7.9971,
+      "FSS_TMP_0 (°C)": 264.0625,
+      "FSS_TMP_1 (°C)": -869.75,
+      "FSS_TMP_2 (°C)": 56.0625,
+      "FSS_TMP_3 (°C)": 45.0625,
+      "FSS_TMP_4 (°C)": 304.0625,
+      "FSS_TMP_5 (°C)": -64.0,
+      "SV_X": NaN,
+      "SV_Y": NaN,
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN,
+      "ATT_ERROR_Z (e+25)": NaN,
+      "SV_X (e+34)": NaN,
+      "SV_Y (e-07)": NaN,
+      "MAG_Z (e+19)": NaN,
+      "ATT_ERROR_Z (e-06)": NaN,
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13874817,
@@ -3562,7 +3691,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13874796,
@@ -3602,47 +3732,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
-    },
-    {
-      "來源ID": 13874762,
-      "網站時間(UTC)": "2026-04-23 09:44:53",
-      "CMG_TMP_0": "Top=20.0958 °C, Bottom=21.2952 °C",
-      "CMG_TMP_1": "Top=20.5994 °C, Bottom=21.5973 °C",
-      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "SV": "[0.00000000, 0.00000000, 0.00000000]",
-      "Callsign": NaN,
-      "ATT_ERROR_X": -0.0,
-      "ATT_ERROR_Y": -0.0,
-      "ATT_ERROR_Z": -0.0,
-      "ATT_ERR_RATE (raw rad/s)_X": 0.0,
-      "ATT_ERR_RATE (raw rad/s)_Y": 0.0,
-      "ATT_ERR_RATE (raw rad/s)_Z": 0.0,
-      "ATT_ERR_RATE (deg/s)_X": 0.0,
-      "ATT_ERR_RATE (deg/s)_Y": 0.0,
-      "ATT_ERR_RATE (deg/s)_Z": 0.0,
-      "MAG_X": 5.03112793,
-      "MAG_Y": -1.99157715,
-      "MAG_Z": 27.33276367,
-      "ADCS_TMP (°C)": 13.9984,
-      "FSS_TMP_0 (°C)": 17.0,
-      "FSS_TMP_1 (°C)": 16.0,
-      "FSS_TMP_2 (°C)": 15.0,
-      "FSS_TMP_3 (°C)": 16.0,
-      "FSS_TMP_4 (°C)": 16.0,
-      "FSS_TMP_5 (°C)": -6.0,
-      "SV_X": NaN,
-      "SV_Y": NaN,
-      "SV_Z": NaN,
-      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
-      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN,
-      "ATT_ERROR_Z (e+25)": NaN,
-      "SV_X (e+34)": NaN,
-      "SV_Y (e-07)": NaN,
-      "MAG_Z (e+19)": NaN,
-      "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13874762,
@@ -3682,7 +3773,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13874762,
@@ -3722,7 +3814,49 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
+    },
+    {
+      "來源ID": 13874762,
+      "網站時間(UTC)": "2026-04-23 09:44:53",
+      "CMG_TMP_0": "Top=20.0958 °C, Bottom=21.2952 °C",
+      "CMG_TMP_1": "Top=20.5994 °C, Bottom=21.5973 °C",
+      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "SV": "[0.00000000, 0.00000000, 0.00000000]",
+      "Callsign": NaN,
+      "ATT_ERROR_X": -0.0,
+      "ATT_ERROR_Y": -0.0,
+      "ATT_ERROR_Z": -0.0,
+      "ATT_ERR_RATE (raw rad/s)_X": 0.0,
+      "ATT_ERR_RATE (raw rad/s)_Y": 0.0,
+      "ATT_ERR_RATE (raw rad/s)_Z": 0.0,
+      "ATT_ERR_RATE (deg/s)_X": 0.0,
+      "ATT_ERR_RATE (deg/s)_Y": 0.0,
+      "ATT_ERR_RATE (deg/s)_Z": 0.0,
+      "MAG_X": 5.03112793,
+      "MAG_Y": -1.99157715,
+      "MAG_Z": 27.33276367,
+      "ADCS_TMP (°C)": 13.9984,
+      "FSS_TMP_0 (°C)": 17.0,
+      "FSS_TMP_1 (°C)": 16.0,
+      "FSS_TMP_2 (°C)": 15.0,
+      "FSS_TMP_3 (°C)": 16.0,
+      "FSS_TMP_4 (°C)": 16.0,
+      "FSS_TMP_5 (°C)": -6.0,
+      "SV_X": NaN,
+      "SV_Y": NaN,
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN,
+      "ATT_ERROR_Z (e+25)": NaN,
+      "SV_X (e+34)": NaN,
+      "SV_Y (e-07)": NaN,
+      "MAG_Z (e+19)": NaN,
+      "ATT_ERROR_Z (e-06)": NaN,
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13874810,
@@ -3762,7 +3896,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13874810,
@@ -3802,7 +3937,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13884176,
@@ -3842,7 +3978,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13874800,
@@ -3882,7 +4019,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13880095,
@@ -3922,7 +4060,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13874766,
@@ -3962,7 +4101,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13874822,
@@ -4002,7 +4142,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13874822,
@@ -4042,7 +4183,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13874790,
@@ -4082,7 +4224,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13874783,
@@ -4122,7 +4265,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13874783,
@@ -4162,7 +4306,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13874783,
@@ -4202,7 +4347,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13874767,
@@ -4242,7 +4388,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13874767,
@@ -4282,7 +4429,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13874787,
@@ -4322,47 +4470,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
-    },
-    {
-      "來源ID": 13876652,
-      "網站時間(UTC)": "2026-04-22 01:59:27",
-      "CMG_TMP_0": "Top=13.8977 °C, Bottom=14.2960 °C",
-      "CMG_TMP_1": "Top=14.5981 °C, Bottom=14.8956 °C",
-      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "SV": "[0.00000000, 0.00000000, 0.00000000]",
-      "Callsign": NaN,
-      "ATT_ERROR_X": -0.0,
-      "ATT_ERROR_Y": 0.28355786,
-      "ATT_ERROR_Z": -0.47847956,
-      "ATT_ERR_RATE (raw rad/s)_X": -0.22355317,
-      "ATT_ERR_RATE (raw rad/s)_Y": 0.09335031,
-      "ATT_ERR_RATE (raw rad/s)_Z": 0.11472979,
-      "ATT_ERR_RATE (deg/s)_X": -12.8087,
-      "ATT_ERR_RATE (deg/s)_Y": 5.3486,
-      "ATT_ERR_RATE (deg/s)_Z": 6.5735,
-      "MAG_X": 16.78649902,
-      "MAG_Y": -31.61804199,
-      "MAG_Z": 4.91455078,
-      "ADCS_TMP (°C)": 16.9968,
-      "FSS_TMP_0 (°C)": 26.0,
-      "FSS_TMP_1 (°C)": 26.0,
-      "FSS_TMP_2 (°C)": 18.0,
-      "FSS_TMP_3 (°C)": 19.0,
-      "FSS_TMP_4 (°C)": 26.0,
-      "FSS_TMP_5 (°C)": -11.0,
-      "SV_X": NaN,
-      "SV_Y": NaN,
-      "SV_Z": NaN,
-      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
-      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN,
-      "ATT_ERROR_Z (e+25)": NaN,
-      "SV_X (e+34)": NaN,
-      "SV_Y (e-07)": NaN,
-      "MAG_Z (e+19)": NaN,
-      "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13876652,
@@ -4402,36 +4511,37 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
-      "來源ID": 13875300,
-      "網站時間(UTC)": "2026-04-21 21:23:46",
-      "CMG_TMP_0": "Top=-148.2285 °C, Bottom=-149.2035 °C",
-      "CMG_TMP_1": "Top=10.2539 °C, Bottom=11.2747 °C",
-      "CMG_TMP_2": "Top=0.8789 °C, Bottom=-130.8838 °C",
-      "CMG_TMP_3": "Top=2.2659 °C, Bottom=0.8789 °C",
-      "SV": "[-1546.29833984, 209998016.00000000, 211075152.00000000]",
+      "來源ID": 13876652,
+      "網站時間(UTC)": "2026-04-22 01:59:27",
+      "CMG_TMP_0": "Top=13.8977 °C, Bottom=14.2960 °C",
+      "CMG_TMP_1": "Top=14.5981 °C, Bottom=14.8956 °C",
+      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "SV": "[0.00000000, 0.00000000, 0.00000000]",
       "Callsign": NaN,
-      "ATT_ERROR_X": 0.0,
-      "ATT_ERROR_Y": -4.00014114,
-      "ATT_ERROR_Z": -2.01617622,
-      "ATT_ERR_RATE (raw rad/s)_X": 0.0,
-      "ATT_ERR_RATE (raw rad/s)_Y": -0.0,
-      "ATT_ERR_RATE (raw rad/s)_Z": 0.0,
-      "ATT_ERR_RATE (deg/s)_X": 0.0,
-      "ATT_ERR_RATE (deg/s)_Y": -0.0,
-      "ATT_ERR_RATE (deg/s)_Z": 0.0,
-      "MAG_X": 1.839426465859371e+18,
-      "MAG_Y": 0.0,
-      "MAG_Z": -0.0,
-      "ADCS_TMP (°C)": 7.7957,
-      "FSS_TMP_0 (°C)": 523.875,
-      "FSS_TMP_1 (°C)": 555.0,
-      "FSS_TMP_2 (°C)": -983.7188,
-      "FSS_TMP_3 (°C)": 516.375,
-      "FSS_TMP_4 (°C)": 101.25,
-      "FSS_TMP_5 (°C)": -110.7188,
+      "ATT_ERROR_X": -0.0,
+      "ATT_ERROR_Y": 0.28355786,
+      "ATT_ERROR_Z": -0.47847956,
+      "ATT_ERR_RATE (raw rad/s)_X": -0.22355317,
+      "ATT_ERR_RATE (raw rad/s)_Y": 0.09335031,
+      "ATT_ERR_RATE (raw rad/s)_Z": 0.11472979,
+      "ATT_ERR_RATE (deg/s)_X": -12.8087,
+      "ATT_ERR_RATE (deg/s)_Y": 5.3486,
+      "ATT_ERR_RATE (deg/s)_Z": 6.5735,
+      "MAG_X": 16.78649902,
+      "MAG_Y": -31.61804199,
+      "MAG_Z": 4.91455078,
+      "ADCS_TMP (°C)": 16.9968,
+      "FSS_TMP_0 (°C)": 26.0,
+      "FSS_TMP_1 (°C)": 26.0,
+      "FSS_TMP_2 (°C)": 18.0,
+      "FSS_TMP_3 (°C)": 19.0,
+      "FSS_TMP_4 (°C)": 26.0,
+      "FSS_TMP_5 (°C)": -11.0,
       "SV_X": NaN,
       "SV_Y": NaN,
       "SV_Z": NaN,
@@ -4442,7 +4552,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13875300,
@@ -4482,7 +4593,49 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
+    },
+    {
+      "來源ID": 13875300,
+      "網站時間(UTC)": "2026-04-21 21:23:46",
+      "CMG_TMP_0": "Top=-148.2285 °C, Bottom=-149.2035 °C",
+      "CMG_TMP_1": "Top=10.2539 °C, Bottom=11.2747 °C",
+      "CMG_TMP_2": "Top=0.8789 °C, Bottom=-130.8838 °C",
+      "CMG_TMP_3": "Top=2.2659 °C, Bottom=0.8789 °C",
+      "SV": "[-1546.29833984, 209998016.00000000, 211075152.00000000]",
+      "Callsign": NaN,
+      "ATT_ERROR_X": 0.0,
+      "ATT_ERROR_Y": -4.00014114,
+      "ATT_ERROR_Z": -2.01617622,
+      "ATT_ERR_RATE (raw rad/s)_X": 0.0,
+      "ATT_ERR_RATE (raw rad/s)_Y": -0.0,
+      "ATT_ERR_RATE (raw rad/s)_Z": 0.0,
+      "ATT_ERR_RATE (deg/s)_X": 0.0,
+      "ATT_ERR_RATE (deg/s)_Y": -0.0,
+      "ATT_ERR_RATE (deg/s)_Z": 0.0,
+      "MAG_X": 1.839426465859371e+18,
+      "MAG_Y": 0.0,
+      "MAG_Z": -0.0,
+      "ADCS_TMP (°C)": 7.7957,
+      "FSS_TMP_0 (°C)": 523.875,
+      "FSS_TMP_1 (°C)": 555.0,
+      "FSS_TMP_2 (°C)": -983.7188,
+      "FSS_TMP_3 (°C)": 516.375,
+      "FSS_TMP_4 (°C)": 101.25,
+      "FSS_TMP_5 (°C)": -110.7188,
+      "SV_X": NaN,
+      "SV_Y": NaN,
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN,
+      "ATT_ERROR_Z (e+25)": NaN,
+      "SV_X (e+34)": NaN,
+      "SV_Y (e-07)": NaN,
+      "MAG_Z (e+19)": NaN,
+      "ATT_ERROR_Z (e-06)": NaN,
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13865002,
@@ -4522,7 +4675,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13869895,
@@ -4562,7 +4716,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13869895,
@@ -4602,7 +4757,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13866753,
@@ -4642,47 +4798,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
-    },
-    {
-      "來源ID": 13862168,
-      "網站時間(UTC)": "2026-04-20 11:39:49",
-      "CMG_TMP_0": "Top=7.2968 °C, Bottom=7.6996 °C",
-      "CMG_TMP_1": "Top=7.9971 °C, Bottom=8.2993 °C",
-      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "SV": "[0.09844989, 0.40208745, 0.10795771]",
-      "Callsign": NaN,
-      "ATT_ERROR_X": 0.0,
-      "ATT_ERROR_Y": 0.0,
-      "ATT_ERROR_Z": 0.0,
-      "ATT_ERR_RATE (raw rad/s)_X": 0.0,
-      "ATT_ERR_RATE (raw rad/s)_Y": 0.0,
-      "ATT_ERR_RATE (raw rad/s)_Z": 0.0,
-      "ATT_ERR_RATE (deg/s)_X": 0.0,
-      "ATT_ERR_RATE (deg/s)_Y": 0.0,
-      "ATT_ERR_RATE (deg/s)_Z": 0.0,
-      "MAG_X": -21.95251465,
-      "MAG_Y": -21.82800293,
-      "MAG_Z": 8.75366211,
-      "ADCS_TMP (°C)": 1.9958,
-      "FSS_TMP_0 (°C)": 13.0,
-      "FSS_TMP_1 (°C)": 13.0,
-      "FSS_TMP_2 (°C)": 17.0,
-      "FSS_TMP_3 (°C)": 13.0,
-      "FSS_TMP_4 (°C)": 14.0,
-      "FSS_TMP_5 (°C)": 0.0,
-      "SV_X": NaN,
-      "SV_Y": NaN,
-      "SV_Z": NaN,
-      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
-      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN,
-      "ATT_ERROR_Z (e+25)": NaN,
-      "SV_X (e+34)": NaN,
-      "SV_Y (e-07)": NaN,
-      "MAG_Z (e+19)": NaN,
-      "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13862168,
@@ -4722,7 +4839,49 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
+    },
+    {
+      "來源ID": 13862168,
+      "網站時間(UTC)": "2026-04-20 11:39:49",
+      "CMG_TMP_0": "Top=7.2968 °C, Bottom=7.6996 °C",
+      "CMG_TMP_1": "Top=7.9971 °C, Bottom=8.2993 °C",
+      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "SV": "[0.09844989, 0.40208745, 0.10795771]",
+      "Callsign": NaN,
+      "ATT_ERROR_X": 0.0,
+      "ATT_ERROR_Y": 0.0,
+      "ATT_ERROR_Z": 0.0,
+      "ATT_ERR_RATE (raw rad/s)_X": 0.0,
+      "ATT_ERR_RATE (raw rad/s)_Y": 0.0,
+      "ATT_ERR_RATE (raw rad/s)_Z": 0.0,
+      "ATT_ERR_RATE (deg/s)_X": 0.0,
+      "ATT_ERR_RATE (deg/s)_Y": 0.0,
+      "ATT_ERR_RATE (deg/s)_Z": 0.0,
+      "MAG_X": -21.95251465,
+      "MAG_Y": -21.82800293,
+      "MAG_Z": 8.75366211,
+      "ADCS_TMP (°C)": 1.9958,
+      "FSS_TMP_0 (°C)": 13.0,
+      "FSS_TMP_1 (°C)": 13.0,
+      "FSS_TMP_2 (°C)": 17.0,
+      "FSS_TMP_3 (°C)": 13.0,
+      "FSS_TMP_4 (°C)": 14.0,
+      "FSS_TMP_5 (°C)": 0.0,
+      "SV_X": NaN,
+      "SV_Y": NaN,
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN,
+      "ATT_ERROR_Z (e+25)": NaN,
+      "SV_X (e+34)": NaN,
+      "SV_Y (e-07)": NaN,
+      "MAG_Z (e+19)": NaN,
+      "ATT_ERROR_Z (e-06)": NaN,
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13854854,
@@ -4762,7 +4921,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13848186,
@@ -4802,7 +4962,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13848186,
@@ -4842,7 +5003,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13848186,
@@ -4882,7 +5044,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13848204,
@@ -4922,7 +5085,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13848204,
@@ -4962,7 +5126,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13848199,
@@ -5002,7 +5167,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13848259,
@@ -5042,7 +5208,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13848226,
@@ -5082,7 +5249,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13848231,
@@ -5122,47 +5290,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
-    },
-    {
-      "來源ID": 13848241,
-      "網站時間(UTC)": "2026-04-18 21:37:40",
-      "CMG_TMP_0": "Top=10.8994 °C, Bottom=11.2976 °C",
-      "CMG_TMP_1": "Top=11.4990 °C, Bottom=11.7966 °C",
-      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "SV": "[0.01630365, -0.31430078, -0.37907550]",
-      "Callsign": NaN,
-      "ATT_ERROR_X": -0.0,
-      "ATT_ERROR_Y": -0.0,
-      "ATT_ERROR_Z": -0.0,
-      "ATT_ERR_RATE (raw rad/s)_X": 0.0,
-      "ATT_ERR_RATE (raw rad/s)_Y": 0.0,
-      "ATT_ERR_RATE (raw rad/s)_Z": 0.0,
-      "ATT_ERR_RATE (deg/s)_X": 0.0,
-      "ATT_ERR_RATE (deg/s)_Y": 0.0,
-      "ATT_ERR_RATE (deg/s)_Z": 0.0,
-      "MAG_X": 32.78381348,
-      "MAG_Y": 16.63635254,
-      "MAG_Z": 22.27294922,
-      "ADCS_TMP (°C)": 7.9971,
-      "FSS_TMP_0 (°C)": 13.0,
-      "FSS_TMP_1 (°C)": 12.0,
-      "FSS_TMP_2 (°C)": 13.0,
-      "FSS_TMP_3 (°C)": 12.0,
-      "FSS_TMP_4 (°C)": 13.0,
-      "FSS_TMP_5 (°C)": 15.0,
-      "SV_X": NaN,
-      "SV_Y": NaN,
-      "SV_Z": NaN,
-      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
-      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN,
-      "ATT_ERROR_Z (e+25)": NaN,
-      "SV_X (e+34)": NaN,
-      "SV_Y (e-07)": NaN,
-      "MAG_Z (e+19)": NaN,
-      "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13848241,
@@ -5202,47 +5331,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
-    },
-    {
-      "來源ID": 13848241,
-      "網站時間(UTC)": "2026-04-18 21:37:40",
-      "CMG_TMP_0": "Top=10.3958 °C, Bottom=10.8994 °C",
-      "CMG_TMP_1": "Top=11.0962 °C, Bottom=11.3983 °C",
-      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "SV": "[-0.14215183, -0.06643557, -0.50882292]",
-      "Callsign": NaN,
-      "ATT_ERROR_X": -0.0,
-      "ATT_ERROR_Y": -0.0,
-      "ATT_ERROR_Z": -0.0,
-      "ATT_ERR_RATE (raw rad/s)_X": 0.0,
-      "ATT_ERR_RATE (raw rad/s)_Y": 0.0,
-      "ATT_ERR_RATE (raw rad/s)_Z": 0.0,
-      "ATT_ERR_RATE (deg/s)_X": 0.0,
-      "ATT_ERR_RATE (deg/s)_Y": 0.0,
-      "ATT_ERR_RATE (deg/s)_Z": 0.0,
-      "MAG_X": 32.78381348,
-      "MAG_Y": 15.47668457,
-      "MAG_Z": 19.31884766,
-      "ADCS_TMP (°C)": 7.9971,
-      "FSS_TMP_0 (°C)": 14.0,
-      "FSS_TMP_1 (°C)": 12.0,
-      "FSS_TMP_2 (°C)": 15.0,
-      "FSS_TMP_3 (°C)": 15.0,
-      "FSS_TMP_4 (°C)": 14.0,
-      "FSS_TMP_5 (°C)": 7.0,
-      "SV_X": NaN,
-      "SV_Y": NaN,
-      "SV_Z": NaN,
-      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
-      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN,
-      "ATT_ERROR_Z (e+25)": NaN,
-      "SV_X (e+34)": NaN,
-      "SV_Y (e-07)": NaN,
-      "MAG_Z (e+19)": NaN,
-      "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13848241,
@@ -5282,7 +5372,90 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
+    },
+    {
+      "來源ID": 13848241,
+      "網站時間(UTC)": "2026-04-18 21:37:40",
+      "CMG_TMP_0": "Top=10.8994 °C, Bottom=11.2976 °C",
+      "CMG_TMP_1": "Top=11.4990 °C, Bottom=11.7966 °C",
+      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "SV": "[0.01630365, -0.31430078, -0.37907550]",
+      "Callsign": NaN,
+      "ATT_ERROR_X": -0.0,
+      "ATT_ERROR_Y": -0.0,
+      "ATT_ERROR_Z": -0.0,
+      "ATT_ERR_RATE (raw rad/s)_X": 0.0,
+      "ATT_ERR_RATE (raw rad/s)_Y": 0.0,
+      "ATT_ERR_RATE (raw rad/s)_Z": 0.0,
+      "ATT_ERR_RATE (deg/s)_X": 0.0,
+      "ATT_ERR_RATE (deg/s)_Y": 0.0,
+      "ATT_ERR_RATE (deg/s)_Z": 0.0,
+      "MAG_X": 32.78381348,
+      "MAG_Y": 16.63635254,
+      "MAG_Z": 22.27294922,
+      "ADCS_TMP (°C)": 7.9971,
+      "FSS_TMP_0 (°C)": 13.0,
+      "FSS_TMP_1 (°C)": 12.0,
+      "FSS_TMP_2 (°C)": 13.0,
+      "FSS_TMP_3 (°C)": 12.0,
+      "FSS_TMP_4 (°C)": 13.0,
+      "FSS_TMP_5 (°C)": 15.0,
+      "SV_X": NaN,
+      "SV_Y": NaN,
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN,
+      "ATT_ERROR_Z (e+25)": NaN,
+      "SV_X (e+34)": NaN,
+      "SV_Y (e-07)": NaN,
+      "MAG_Z (e+19)": NaN,
+      "ATT_ERROR_Z (e-06)": NaN,
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
+    },
+    {
+      "來源ID": 13848241,
+      "網站時間(UTC)": "2026-04-18 21:37:40",
+      "CMG_TMP_0": "Top=10.3958 °C, Bottom=10.8994 °C",
+      "CMG_TMP_1": "Top=11.0962 °C, Bottom=11.3983 °C",
+      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "SV": "[-0.14215183, -0.06643557, -0.50882292]",
+      "Callsign": NaN,
+      "ATT_ERROR_X": -0.0,
+      "ATT_ERROR_Y": -0.0,
+      "ATT_ERROR_Z": -0.0,
+      "ATT_ERR_RATE (raw rad/s)_X": 0.0,
+      "ATT_ERR_RATE (raw rad/s)_Y": 0.0,
+      "ATT_ERR_RATE (raw rad/s)_Z": 0.0,
+      "ATT_ERR_RATE (deg/s)_X": 0.0,
+      "ATT_ERR_RATE (deg/s)_Y": 0.0,
+      "ATT_ERR_RATE (deg/s)_Z": 0.0,
+      "MAG_X": 32.78381348,
+      "MAG_Y": 15.47668457,
+      "MAG_Z": 19.31884766,
+      "ADCS_TMP (°C)": 7.9971,
+      "FSS_TMP_0 (°C)": 14.0,
+      "FSS_TMP_1 (°C)": 12.0,
+      "FSS_TMP_2 (°C)": 15.0,
+      "FSS_TMP_3 (°C)": 15.0,
+      "FSS_TMP_4 (°C)": 14.0,
+      "FSS_TMP_5 (°C)": 7.0,
+      "SV_X": NaN,
+      "SV_Y": NaN,
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN,
+      "ATT_ERROR_Z (e+25)": NaN,
+      "SV_X (e+34)": NaN,
+      "SV_Y (e-07)": NaN,
+      "MAG_Z (e+19)": NaN,
+      "ATT_ERROR_Z (e-06)": NaN,
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13848251,
@@ -5322,7 +5495,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13848207,
@@ -5362,7 +5536,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13848257,
@@ -5402,7 +5577,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13848188,
@@ -5442,7 +5618,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13848233,
@@ -5482,7 +5659,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13827931,
@@ -5522,7 +5700,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13833223,
@@ -5562,7 +5741,49 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
+    },
+    {
+      "來源ID": 13840161,
+      "網站時間(UTC)": "2026-04-17 12:31:37",
+      "CMG_TMP_0": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "CMG_TMP_1": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "SV": "[0.00000000, 0.00000000, 0.00000000]",
+      "Callsign": NaN,
+      "ATT_ERROR_X": -0.0,
+      "ATT_ERROR_Y": -0.1304861,
+      "ATT_ERROR_Z": 0.22882029,
+      "ATT_ERR_RATE (raw rad/s)_X": -0.02740189,
+      "ATT_ERR_RATE (raw rad/s)_Y": -0.04086719,
+      "ATT_ERR_RATE (raw rad/s)_Z": -0.02604918,
+      "ATT_ERR_RATE (deg/s)_X": -1.57,
+      "ATT_ERR_RATE (deg/s)_Y": -2.3415,
+      "ATT_ERR_RATE (deg/s)_Z": -1.4925,
+      "MAG_X": 0.0,
+      "MAG_Y": 0.0,
+      "MAG_Z": 0.0,
+      "ADCS_TMP (°C)": 4.9988,
+      "FSS_TMP_0 (°C)": 0.0,
+      "FSS_TMP_1 (°C)": 0.0,
+      "FSS_TMP_2 (°C)": 0.0,
+      "FSS_TMP_3 (°C)": 0.0,
+      "FSS_TMP_4 (°C)": 0.0,
+      "FSS_TMP_5 (°C)": 0.0,
+      "SV_X": NaN,
+      "SV_Y": NaN,
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN,
+      "ATT_ERROR_Z (e+25)": NaN,
+      "SV_X (e+34)": NaN,
+      "SV_Y (e-07)": NaN,
+      "MAG_Z (e+19)": NaN,
+      "ATT_ERROR_Z (e-06)": NaN,
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13840161,
@@ -5602,47 +5823,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
-    },
-    {
-      "來源ID": 13840161,
-      "網站時間(UTC)": "2026-04-17 12:31:37",
-      "CMG_TMP_0": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "CMG_TMP_1": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "SV": "[0.00000000, 0.00000000, 0.00000000]",
-      "Callsign": NaN,
-      "ATT_ERROR_X": -0.0,
-      "ATT_ERROR_Y": -0.1304861,
-      "ATT_ERROR_Z": 0.22882029,
-      "ATT_ERR_RATE (raw rad/s)_X": -0.02740189,
-      "ATT_ERR_RATE (raw rad/s)_Y": -0.04086719,
-      "ATT_ERR_RATE (raw rad/s)_Z": -0.02604918,
-      "ATT_ERR_RATE (deg/s)_X": -1.57,
-      "ATT_ERR_RATE (deg/s)_Y": -2.3415,
-      "ATT_ERR_RATE (deg/s)_Z": -1.4925,
-      "MAG_X": 0.0,
-      "MAG_Y": 0.0,
-      "MAG_Z": 0.0,
-      "ADCS_TMP (°C)": 4.9988,
-      "FSS_TMP_0 (°C)": 0.0,
-      "FSS_TMP_1 (°C)": 0.0,
-      "FSS_TMP_2 (°C)": 0.0,
-      "FSS_TMP_3 (°C)": 0.0,
-      "FSS_TMP_4 (°C)": 0.0,
-      "FSS_TMP_5 (°C)": 0.0,
-      "SV_X": NaN,
-      "SV_Y": NaN,
-      "SV_Z": NaN,
-      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
-      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN,
-      "ATT_ERROR_Z (e+25)": NaN,
-      "SV_X (e+34)": NaN,
-      "SV_Y (e-07)": NaN,
-      "MAG_Z (e+19)": NaN,
-      "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13840139,
@@ -5682,7 +5864,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13840139,
@@ -5722,7 +5905,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13840139,
@@ -5762,7 +5946,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13833215,
@@ -5802,7 +5987,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13833213,
@@ -5842,7 +6028,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13833196,
@@ -5882,7 +6069,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13818162,
@@ -5922,7 +6110,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13818150,
@@ -5962,7 +6151,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13817171,
@@ -6002,47 +6192,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
-    },
-    {
-      "來源ID": 13817130,
-      "網站時間(UTC)": "2026-04-16 01:56:23",
-      "CMG_TMP_0": "Top=17.5964 °C, Bottom=17.9993 °C",
-      "CMG_TMP_1": "Top=18.1961 °C, Bottom=18.5989 °C",
-      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "SV": "[0.51883262, -0.73381352, -0.42671803]",
-      "Callsign": NaN,
-      "ATT_ERROR_X": -0.0,
-      "ATT_ERROR_Y": -0.56794167,
-      "ATT_ERROR_Z": 0.55120897,
-      "ATT_ERR_RATE (raw rad/s)_X": 0.3970398,
-      "ATT_ERR_RATE (raw rad/s)_Y": 0.02056109,
-      "ATT_ERR_RATE (raw rad/s)_Z": 0.11063766,
-      "ATT_ERR_RATE (deg/s)_X": 22.7487,
-      "ATT_ERR_RATE (deg/s)_Y": 1.1781,
-      "ATT_ERR_RATE (deg/s)_Z": 6.3391,
-      "MAG_X": 31.23962402,
-      "MAG_Y": -17.3236084,
-      "MAG_Z": 16.66381836,
-      "ADCS_TMP (°C)": 13.9984,
-      "FSS_TMP_0 (°C)": 18.0,
-      "FSS_TMP_1 (°C)": 17.0,
-      "FSS_TMP_2 (°C)": 18.0,
-      "FSS_TMP_3 (°C)": 17.0,
-      "FSS_TMP_4 (°C)": 20.0,
-      "FSS_TMP_5 (°C)": 16.0,
-      "SV_X": NaN,
-      "SV_Y": NaN,
-      "SV_Z": NaN,
-      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
-      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN,
-      "ATT_ERROR_Z (e+25)": NaN,
-      "SV_X (e+34)": NaN,
-      "SV_Y (e-07)": NaN,
-      "MAG_Z (e+19)": NaN,
-      "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13817130,
@@ -6082,7 +6233,49 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
+    },
+    {
+      "來源ID": 13817130,
+      "網站時間(UTC)": "2026-04-16 01:56:23",
+      "CMG_TMP_0": "Top=17.5964 °C, Bottom=17.9993 °C",
+      "CMG_TMP_1": "Top=18.1961 °C, Bottom=18.5989 °C",
+      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "SV": "[0.51883262, -0.73381352, -0.42671803]",
+      "Callsign": NaN,
+      "ATT_ERROR_X": -0.0,
+      "ATT_ERROR_Y": -0.56794167,
+      "ATT_ERROR_Z": 0.55120897,
+      "ATT_ERR_RATE (raw rad/s)_X": 0.3970398,
+      "ATT_ERR_RATE (raw rad/s)_Y": 0.02056109,
+      "ATT_ERR_RATE (raw rad/s)_Z": 0.11063766,
+      "ATT_ERR_RATE (deg/s)_X": 22.7487,
+      "ATT_ERR_RATE (deg/s)_Y": 1.1781,
+      "ATT_ERR_RATE (deg/s)_Z": 6.3391,
+      "MAG_X": 31.23962402,
+      "MAG_Y": -17.3236084,
+      "MAG_Z": 16.66381836,
+      "ADCS_TMP (°C)": 13.9984,
+      "FSS_TMP_0 (°C)": 18.0,
+      "FSS_TMP_1 (°C)": 17.0,
+      "FSS_TMP_2 (°C)": 18.0,
+      "FSS_TMP_3 (°C)": 17.0,
+      "FSS_TMP_4 (°C)": 20.0,
+      "FSS_TMP_5 (°C)": 16.0,
+      "SV_X": NaN,
+      "SV_Y": NaN,
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN,
+      "ATT_ERROR_Z (e+25)": NaN,
+      "SV_X (e+34)": NaN,
+      "SV_Y (e-07)": NaN,
+      "MAG_Z (e+19)": NaN,
+      "ATT_ERROR_Z (e-06)": NaN,
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13817176,
@@ -6122,7 +6315,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13818160,
@@ -6162,7 +6356,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13817140,
@@ -6202,7 +6397,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13817150,
@@ -6242,47 +6438,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
-    },
-    {
-      "來源ID": 13817161,
-      "網站時間(UTC)": "2026-04-15 11:20:04",
-      "CMG_TMP_0": "Top=7.3975 °C, Bottom=7.6996 °C",
-      "CMG_TMP_1": "Top=8.2993 °C, Bottom=8.4961 °C",
-      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "SV": "[0.05076970, 0.56832755, 0.39010495]",
-      "Callsign": NaN,
-      "ATT_ERROR_X": -0.0,
-      "ATT_ERROR_Y": 0.13279672,
-      "ATT_ERROR_Z": 0.43473521,
-      "ATT_ERR_RATE (raw rad/s)_X": 0.01135239,
-      "ATT_ERR_RATE (raw rad/s)_Y": 0.01720062,
-      "ATT_ERR_RATE (raw rad/s)_Z": 0.02239809,
-      "ATT_ERR_RATE (deg/s)_X": 0.6504,
-      "ATT_ERR_RATE (deg/s)_Y": 0.9855,
-      "ATT_ERR_RATE (deg/s)_Z": 1.2833,
-      "MAG_X": 29.98840332,
-      "MAG_Y": -20.00915527,
-      "MAG_Z": -28.27636719,
-      "ADCS_TMP (°C)": 4.9988,
-      "FSS_TMP_0 (°C)": 17.0,
-      "FSS_TMP_1 (°C)": 21.0,
-      "FSS_TMP_2 (°C)": 20.0,
-      "FSS_TMP_3 (°C)": 18.0,
-      "FSS_TMP_4 (°C)": 17.0,
-      "FSS_TMP_5 (°C)": -4.0,
-      "SV_X": NaN,
-      "SV_Y": NaN,
-      "SV_Z": NaN,
-      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
-      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN,
-      "ATT_ERROR_Z (e+25)": NaN,
-      "SV_X (e+34)": NaN,
-      "SV_Y (e-07)": NaN,
-      "MAG_Z (e+19)": NaN,
-      "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13817161,
@@ -6322,7 +6479,49 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
+    },
+    {
+      "來源ID": 13817161,
+      "網站時間(UTC)": "2026-04-15 11:20:04",
+      "CMG_TMP_0": "Top=7.3975 °C, Bottom=7.6996 °C",
+      "CMG_TMP_1": "Top=8.2993 °C, Bottom=8.4961 °C",
+      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "SV": "[0.05076970, 0.56832755, 0.39010495]",
+      "Callsign": NaN,
+      "ATT_ERROR_X": -0.0,
+      "ATT_ERROR_Y": 0.13279672,
+      "ATT_ERROR_Z": 0.43473521,
+      "ATT_ERR_RATE (raw rad/s)_X": 0.01135239,
+      "ATT_ERR_RATE (raw rad/s)_Y": 0.01720062,
+      "ATT_ERR_RATE (raw rad/s)_Z": 0.02239809,
+      "ATT_ERR_RATE (deg/s)_X": 0.6504,
+      "ATT_ERR_RATE (deg/s)_Y": 0.9855,
+      "ATT_ERR_RATE (deg/s)_Z": 1.2833,
+      "MAG_X": 29.98840332,
+      "MAG_Y": -20.00915527,
+      "MAG_Z": -28.27636719,
+      "ADCS_TMP (°C)": 4.9988,
+      "FSS_TMP_0 (°C)": 17.0,
+      "FSS_TMP_1 (°C)": 21.0,
+      "FSS_TMP_2 (°C)": 20.0,
+      "FSS_TMP_3 (°C)": 18.0,
+      "FSS_TMP_4 (°C)": 17.0,
+      "FSS_TMP_5 (°C)": -4.0,
+      "SV_X": NaN,
+      "SV_Y": NaN,
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN,
+      "ATT_ERROR_Z (e+25)": NaN,
+      "SV_X (e+34)": NaN,
+      "SV_Y (e-07)": NaN,
+      "MAG_Z (e+19)": NaN,
+      "ATT_ERROR_Z (e-06)": NaN,
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13814758,
@@ -6362,7 +6561,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13818139,
@@ -6402,7 +6602,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13817159,
@@ -6442,7 +6643,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13817179,
@@ -6482,7 +6684,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13798391,
@@ -6522,7 +6725,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13798387,
@@ -6562,7 +6766,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13797095,
@@ -6602,7 +6807,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13799475,
@@ -6642,7 +6848,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13799475,
@@ -6682,7 +6889,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13799842,
@@ -6722,7 +6930,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13798386,
@@ -6762,7 +6971,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13798401,
@@ -6802,7 +7012,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13800106,
@@ -6842,7 +7053,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13799038,
@@ -6882,7 +7094,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13799829,
@@ -6922,7 +7135,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13799482,
@@ -6962,7 +7176,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13797771,
@@ -7002,7 +7217,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13799470,
@@ -7042,7 +7258,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13797784,
@@ -7082,7 +7299,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13799041,
@@ -7122,7 +7340,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13799041,
@@ -7162,7 +7381,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13797785,
@@ -7202,47 +7422,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
-    },
-    {
-      "來源ID": 13799039,
-      "網站時間(UTC)": "2026-04-12 10:54:09",
-      "CMG_TMP_0": "Top=16.4978 °C, Bottom=16.7953 °C",
-      "CMG_TMP_1": "Top=16.9968 °C, Bottom=17.2989 °C",
-      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "SV": "[0.00000000, 0.00000000, -0.00000000]",
-      "Callsign": NaN,
-      "ATT_ERROR_X": -0.0,
-      "ATT_ERROR_Y": 0.06558619,
-      "ATT_ERROR_Z": -0.41112182,
-      "ATT_ERR_RATE (raw rad/s)_X": 0.02247635,
-      "ATT_ERR_RATE (raw rad/s)_Y": -0.03922116,
-      "ATT_ERR_RATE (raw rad/s)_Z": 0.10420382,
-      "ATT_ERR_RATE (deg/s)_X": 1.2878,
-      "ATT_ERR_RATE (deg/s)_Y": -2.2472,
-      "ATT_ERR_RATE (deg/s)_Z": 5.9704,
-      "MAG_X": 0.0,
-      "MAG_Y": 1.2e-07,
-      "MAG_Z": 0.94475347,
-      "ADCS_TMP (°C)": 13.9984,
-      "FSS_TMP_0 (°C)": 16.0,
-      "FSS_TMP_1 (°C)": 16.0,
-      "FSS_TMP_2 (°C)": 16.0,
-      "FSS_TMP_3 (°C)": 16.0,
-      "FSS_TMP_4 (°C)": 16.0,
-      "FSS_TMP_5 (°C)": 386.0938,
-      "SV_X": NaN,
-      "SV_Y": NaN,
-      "SV_Z": NaN,
-      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
-      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN,
-      "ATT_ERROR_Z (e+25)": NaN,
-      "SV_X (e+34)": NaN,
-      "SV_Y (e-07)": NaN,
-      "MAG_Z (e+19)": NaN,
-      "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13799039,
@@ -7282,7 +7463,49 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
+    },
+    {
+      "來源ID": 13799039,
+      "網站時間(UTC)": "2026-04-12 10:54:09",
+      "CMG_TMP_0": "Top=16.4978 °C, Bottom=16.7953 °C",
+      "CMG_TMP_1": "Top=16.9968 °C, Bottom=17.2989 °C",
+      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "SV": "[0.00000000, 0.00000000, -0.00000000]",
+      "Callsign": NaN,
+      "ATT_ERROR_X": -0.0,
+      "ATT_ERROR_Y": 0.06558619,
+      "ATT_ERROR_Z": -0.41112182,
+      "ATT_ERR_RATE (raw rad/s)_X": 0.02247635,
+      "ATT_ERR_RATE (raw rad/s)_Y": -0.03922116,
+      "ATT_ERR_RATE (raw rad/s)_Z": 0.10420382,
+      "ATT_ERR_RATE (deg/s)_X": 1.2878,
+      "ATT_ERR_RATE (deg/s)_Y": -2.2472,
+      "ATT_ERR_RATE (deg/s)_Z": 5.9704,
+      "MAG_X": 0.0,
+      "MAG_Y": 1.2e-07,
+      "MAG_Z": 0.94475347,
+      "ADCS_TMP (°C)": 13.9984,
+      "FSS_TMP_0 (°C)": 16.0,
+      "FSS_TMP_1 (°C)": 16.0,
+      "FSS_TMP_2 (°C)": 16.0,
+      "FSS_TMP_3 (°C)": 16.0,
+      "FSS_TMP_4 (°C)": 16.0,
+      "FSS_TMP_5 (°C)": 386.0938,
+      "SV_X": NaN,
+      "SV_Y": NaN,
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN,
+      "ATT_ERROR_Z (e+25)": NaN,
+      "SV_X (e+34)": NaN,
+      "SV_Y (e-07)": NaN,
+      "MAG_Z (e+19)": NaN,
+      "ATT_ERROR_Z (e-06)": NaN,
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13802401,
@@ -7322,7 +7545,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13802401,
@@ -7362,7 +7586,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13802401,
@@ -7402,7 +7627,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13782533,
@@ -7442,7 +7668,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13784298,
@@ -7482,7 +7709,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13794780,
@@ -7522,7 +7750,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13783140,
@@ -7562,7 +7791,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13782523,
@@ -7602,7 +7832,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13791343,
@@ -7642,47 +7873,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
-    },
-    {
-      "來源ID": 13782522,
-      "網站時間(UTC)": "2026-04-11 13:55:49",
-      "CMG_TMP_0": "Top=11.0962 °C, Bottom=11.6959 °C",
-      "CMG_TMP_1": "Top=11.7966 °C, Bottom=12.1994 °C",
-      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "SV": "[0.42403853, -0.18091738, -0.20095703]",
-      "Callsign": NaN,
-      "ATT_ERROR_X": -0.0,
-      "ATT_ERROR_Y": -0.213925,
-      "ATT_ERROR_Z": 0.03267584,
-      "ATT_ERR_RATE (raw rad/s)_X": 0.06838872,
-      "ATT_ERR_RATE (raw rad/s)_Y": -0.01096682,
-      "ATT_ERR_RATE (raw rad/s)_Z": 0.15403219,
-      "ATT_ERR_RATE (deg/s)_X": 3.9184,
-      "ATT_ERR_RATE (deg/s)_Y": -0.6284,
-      "ATT_ERR_RATE (deg/s)_Z": 8.8254,
-      "MAG_X": 0.00183105,
-      "MAG_Y": -0.55725098,
-      "MAG_Z": 43.10424805,
-      "ADCS_TMP (°C)": 9.9976,
-      "FSS_TMP_0 (°C)": 16.0,
-      "FSS_TMP_1 (°C)": 16.0,
-      "FSS_TMP_2 (°C)": 15.0,
-      "FSS_TMP_3 (°C)": 15.0,
-      "FSS_TMP_4 (°C)": 16.0,
-      "FSS_TMP_5 (°C)": 13.0,
-      "SV_X": NaN,
-      "SV_Y": NaN,
-      "SV_Z": NaN,
-      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
-      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN,
-      "ATT_ERROR_Z (e+25)": NaN,
-      "SV_X (e+34)": NaN,
-      "SV_Y (e-07)": NaN,
-      "MAG_Z (e+19)": NaN,
-      "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13782522,
@@ -7722,7 +7914,49 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
+    },
+    {
+      "來源ID": 13782522,
+      "網站時間(UTC)": "2026-04-11 13:55:49",
+      "CMG_TMP_0": "Top=11.0962 °C, Bottom=11.6959 °C",
+      "CMG_TMP_1": "Top=11.7966 °C, Bottom=12.1994 °C",
+      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "SV": "[0.42403853, -0.18091738, -0.20095703]",
+      "Callsign": NaN,
+      "ATT_ERROR_X": -0.0,
+      "ATT_ERROR_Y": -0.213925,
+      "ATT_ERROR_Z": 0.03267584,
+      "ATT_ERR_RATE (raw rad/s)_X": 0.06838872,
+      "ATT_ERR_RATE (raw rad/s)_Y": -0.01096682,
+      "ATT_ERR_RATE (raw rad/s)_Z": 0.15403219,
+      "ATT_ERR_RATE (deg/s)_X": 3.9184,
+      "ATT_ERR_RATE (deg/s)_Y": -0.6284,
+      "ATT_ERR_RATE (deg/s)_Z": 8.8254,
+      "MAG_X": 0.00183105,
+      "MAG_Y": -0.55725098,
+      "MAG_Z": 43.10424805,
+      "ADCS_TMP (°C)": 9.9976,
+      "FSS_TMP_0 (°C)": 16.0,
+      "FSS_TMP_1 (°C)": 16.0,
+      "FSS_TMP_2 (°C)": 15.0,
+      "FSS_TMP_3 (°C)": 15.0,
+      "FSS_TMP_4 (°C)": 16.0,
+      "FSS_TMP_5 (°C)": 13.0,
+      "SV_X": NaN,
+      "SV_Y": NaN,
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN,
+      "ATT_ERROR_Z (e+25)": NaN,
+      "SV_X (e+34)": NaN,
+      "SV_Y (e-07)": NaN,
+      "MAG_Z (e+19)": NaN,
+      "ATT_ERROR_Z (e-06)": NaN,
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13782522,
@@ -7762,7 +7996,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13783146,
@@ -7802,7 +8037,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13783618,
@@ -7842,7 +8078,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13781900,
@@ -7882,7 +8119,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13783986,
@@ -7922,7 +8160,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13783999,
@@ -7962,7 +8201,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13779502,
@@ -8002,7 +8242,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13783155,
@@ -8042,7 +8283,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13783631,
@@ -8082,7 +8324,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13783631,
@@ -8122,7 +8365,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13783631,
@@ -8162,7 +8406,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13783630,
@@ -8202,7 +8447,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13783630,
@@ -8242,7 +8488,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13774453,
@@ -8282,7 +8529,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13783619,
@@ -8322,7 +8570,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13783624,
@@ -8362,7 +8611,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13766537,
@@ -8402,7 +8652,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13767082,
@@ -8442,7 +8693,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13767085,
@@ -8482,7 +8734,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13766535,
@@ -8522,7 +8775,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13767542,
@@ -8562,7 +8816,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13767890,
@@ -8602,7 +8857,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13766526,
@@ -8642,7 +8898,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13767553,
@@ -8682,7 +8939,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13766541,
@@ -8722,47 +8980,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
-    },
-    {
-      "來源ID": 13748849,
-      "網站時間(UTC)": "2026-04-08 08:47:45",
-      "CMG_TMP_0": "Top=16.7953 °C, Bottom=17.2989 °C",
-      "CMG_TMP_1": "Top=17.4957 °C, Bottom=17.6971 °C",
-      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "SV": "[0.00000000, 0.00000000, 0.00000000]",
-      "Callsign": NaN,
-      "ATT_ERROR_X": -0.0,
-      "ATT_ERROR_Y": 0.12466354,
-      "ATT_ERROR_Z": -0.29513985,
-      "ATT_ERR_RATE (raw rad/s)_X": -0.11589229,
-      "ATT_ERR_RATE (raw rad/s)_Y": 0.14505783,
-      "ATT_ERR_RATE (raw rad/s)_Z": 0.07368407,
-      "ATT_ERR_RATE (deg/s)_X": -6.6401,
-      "ATT_ERR_RATE (deg/s)_Y": 8.3112,
-      "ATT_ERR_RATE (deg/s)_Z": 4.2218,
-      "MAG_X": -5.22277832,
-      "MAG_Y": 20.43884277,
-      "MAG_Z": 17.59765625,
-      "ADCS_TMP (°C)": 13.9984,
-      "FSS_TMP_0 (°C)": 14.0,
-      "FSS_TMP_1 (°C)": 14.0,
-      "FSS_TMP_2 (°C)": 17.0,
-      "FSS_TMP_3 (°C)": 17.0,
-      "FSS_TMP_4 (°C)": 15.0,
-      "FSS_TMP_5 (°C)": -12.0,
-      "SV_X": NaN,
-      "SV_Y": NaN,
-      "SV_Z": NaN,
-      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
-      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN,
-      "ATT_ERROR_Z (e+25)": NaN,
-      "SV_X (e+34)": NaN,
-      "SV_Y (e-07)": NaN,
-      "MAG_Z (e+19)": NaN,
-      "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13748849,
@@ -8802,7 +9021,49 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
+    },
+    {
+      "來源ID": 13748849,
+      "網站時間(UTC)": "2026-04-08 08:47:45",
+      "CMG_TMP_0": "Top=16.7953 °C, Bottom=17.2989 °C",
+      "CMG_TMP_1": "Top=17.4957 °C, Bottom=17.6971 °C",
+      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "SV": "[0.00000000, 0.00000000, 0.00000000]",
+      "Callsign": NaN,
+      "ATT_ERROR_X": -0.0,
+      "ATT_ERROR_Y": 0.12466354,
+      "ATT_ERROR_Z": -0.29513985,
+      "ATT_ERR_RATE (raw rad/s)_X": -0.11589229,
+      "ATT_ERR_RATE (raw rad/s)_Y": 0.14505783,
+      "ATT_ERR_RATE (raw rad/s)_Z": 0.07368407,
+      "ATT_ERR_RATE (deg/s)_X": -6.6401,
+      "ATT_ERR_RATE (deg/s)_Y": 8.3112,
+      "ATT_ERR_RATE (deg/s)_Z": 4.2218,
+      "MAG_X": -5.22277832,
+      "MAG_Y": 20.43884277,
+      "MAG_Z": 17.59765625,
+      "ADCS_TMP (°C)": 13.9984,
+      "FSS_TMP_0 (°C)": 14.0,
+      "FSS_TMP_1 (°C)": 14.0,
+      "FSS_TMP_2 (°C)": 17.0,
+      "FSS_TMP_3 (°C)": 17.0,
+      "FSS_TMP_4 (°C)": 15.0,
+      "FSS_TMP_5 (°C)": -12.0,
+      "SV_X": NaN,
+      "SV_Y": NaN,
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN,
+      "ATT_ERROR_Z (e+25)": NaN,
+      "SV_X (e+34)": NaN,
+      "SV_Y (e-07)": NaN,
+      "MAG_Z (e+19)": NaN,
+      "ATT_ERROR_Z (e-06)": NaN,
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13750439,
@@ -8842,7 +9103,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13748861,
@@ -8882,7 +9144,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13748856,
@@ -8922,7 +9185,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13748713,
@@ -8962,7 +9226,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13748710,
@@ -9002,7 +9267,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13748862,
@@ -9042,7 +9308,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13748859,
@@ -9082,7 +9349,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13748859,
@@ -9122,7 +9390,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13748712,
@@ -9162,7 +9431,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13748718,
@@ -9202,7 +9472,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13748718,
@@ -9242,7 +9513,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13750426,
@@ -9282,7 +9554,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13750438,
@@ -9322,7 +9595,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13750438,
@@ -9362,7 +9636,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13750046,
@@ -9402,7 +9677,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13750440,
@@ -9442,7 +9718,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13748717,
@@ -9482,7 +9759,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13746713,
@@ -9522,7 +9800,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13745809,
@@ -9562,7 +9841,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13735223,
@@ -9602,7 +9882,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13733179,
@@ -9642,7 +9923,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13733175,
@@ -9682,7 +9964,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13735227,
@@ -9722,7 +10005,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13735227,
@@ -9762,7 +10046,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13735305,
@@ -9802,7 +10087,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13735305,
@@ -9842,7 +10128,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13735305,
@@ -9882,7 +10169,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13733201,
@@ -9922,7 +10210,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13733196,
@@ -9962,7 +10251,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13733194,
@@ -10002,7 +10292,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13733200,
@@ -10042,7 +10333,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13720625,
@@ -10082,7 +10374,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13720922,
@@ -10122,7 +10415,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13720893,
@@ -10162,7 +10456,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13720633,
@@ -10202,7 +10497,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13720633,
@@ -10242,7 +10538,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13720642,
@@ -10282,7 +10579,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13720905,
@@ -10322,7 +10620,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13720631,
@@ -10362,7 +10661,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13720650,
@@ -10402,7 +10702,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13717858,
@@ -10442,7 +10743,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13720914,
@@ -10482,7 +10784,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13720639,
@@ -10522,87 +10825,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
-    },
-    {
-      "來源ID": 13718098,
-      "網站時間(UTC)": "2026-04-03 02:00:59",
-      "CMG_TMP_0": "Top=18.8965 °C, Bottom=19.1986 °C",
-      "CMG_TMP_1": "Top=19.5969 °C, Bottom=19.8990 °C",
-      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "SV": "[0.00000000, 0.00000000, 0.00000000]",
-      "Callsign": NaN,
-      "ATT_ERROR_X": -0.0,
-      "ATT_ERROR_Y": -0.32550931,
-      "ATT_ERROR_Z": 0.37000945,
-      "ATT_ERR_RATE (raw rad/s)_X": 0.04648472,
-      "ATT_ERR_RATE (raw rad/s)_Y": 0.0432503,
-      "ATT_ERR_RATE (raw rad/s)_Z": 0.00489885,
-      "ATT_ERR_RATE (deg/s)_X": 2.6634,
-      "ATT_ERR_RATE (deg/s)_Y": 2.4781,
-      "ATT_ERR_RATE (deg/s)_Z": 0.2807,
-      "MAG_X": 27.88879395,
-      "MAG_Y": -24.00695801,
-      "MAG_Z": 4.87792969,
-      "ADCS_TMP (°C)": 16.9968,
-      "FSS_TMP_0 (°C)": 24.0,
-      "FSS_TMP_1 (°C)": 23.0,
-      "FSS_TMP_2 (°C)": 23.0,
-      "FSS_TMP_3 (°C)": 24.0,
-      "FSS_TMP_4 (°C)": 23.0,
-      "FSS_TMP_5 (°C)": -4.0,
-      "SV_X": NaN,
-      "SV_Y": NaN,
-      "SV_Z": NaN,
-      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
-      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN,
-      "ATT_ERROR_Z (e+25)": NaN,
-      "SV_X (e+34)": NaN,
-      "SV_Y (e-07)": NaN,
-      "MAG_Z (e+19)": NaN,
-      "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
-    },
-    {
-      "來源ID": 13718098,
-      "網站時間(UTC)": "2026-04-03 02:00:59",
-      "CMG_TMP_0": "Top=18.6951 °C, Bottom=18.9972 °C",
-      "CMG_TMP_1": "Top=19.4962 °C, Bottom=19.6976 °C",
-      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "SV": "[0.00000000, 0.00000000, 0.00000000]",
-      "Callsign": NaN,
-      "ATT_ERROR_X": -0.0,
-      "ATT_ERROR_Y": -0.32550931,
-      "ATT_ERROR_Z": 0.37000945,
-      "ATT_ERR_RATE (raw rad/s)_X": 0.04648472,
-      "ATT_ERR_RATE (raw rad/s)_Y": 0.0432503,
-      "ATT_ERR_RATE (raw rad/s)_Z": 0.00489885,
-      "ATT_ERR_RATE (deg/s)_X": 2.6634,
-      "ATT_ERR_RATE (deg/s)_Y": 2.4781,
-      "ATT_ERR_RATE (deg/s)_Z": 0.2807,
-      "MAG_X": 29.63439941,
-      "MAG_Y": -24.52575684,
-      "MAG_Z": 7.25830078,
-      "ADCS_TMP (°C)": 16.9968,
-      "FSS_TMP_0 (°C)": 29.0,
-      "FSS_TMP_1 (°C)": 29.0,
-      "FSS_TMP_2 (°C)": 26.0,
-      "FSS_TMP_3 (°C)": 27.0,
-      "FSS_TMP_4 (°C)": 28.0,
-      "FSS_TMP_5 (°C)": -1.0,
-      "SV_X": NaN,
-      "SV_Y": NaN,
-      "SV_Z": NaN,
-      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
-      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN,
-      "ATT_ERROR_Z (e+25)": NaN,
-      "SV_X (e+34)": NaN,
-      "SV_Y (e-07)": NaN,
-      "MAG_Z (e+19)": NaN,
-      "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13718098,
@@ -10642,7 +10866,90 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
+    },
+    {
+      "來源ID": 13718098,
+      "網站時間(UTC)": "2026-04-03 02:00:59",
+      "CMG_TMP_0": "Top=18.8965 °C, Bottom=19.1986 °C",
+      "CMG_TMP_1": "Top=19.5969 °C, Bottom=19.8990 °C",
+      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "SV": "[0.00000000, 0.00000000, 0.00000000]",
+      "Callsign": NaN,
+      "ATT_ERROR_X": -0.0,
+      "ATT_ERROR_Y": -0.32550931,
+      "ATT_ERROR_Z": 0.37000945,
+      "ATT_ERR_RATE (raw rad/s)_X": 0.04648472,
+      "ATT_ERR_RATE (raw rad/s)_Y": 0.0432503,
+      "ATT_ERR_RATE (raw rad/s)_Z": 0.00489885,
+      "ATT_ERR_RATE (deg/s)_X": 2.6634,
+      "ATT_ERR_RATE (deg/s)_Y": 2.4781,
+      "ATT_ERR_RATE (deg/s)_Z": 0.2807,
+      "MAG_X": 27.88879395,
+      "MAG_Y": -24.00695801,
+      "MAG_Z": 4.87792969,
+      "ADCS_TMP (°C)": 16.9968,
+      "FSS_TMP_0 (°C)": 24.0,
+      "FSS_TMP_1 (°C)": 23.0,
+      "FSS_TMP_2 (°C)": 23.0,
+      "FSS_TMP_3 (°C)": 24.0,
+      "FSS_TMP_4 (°C)": 23.0,
+      "FSS_TMP_5 (°C)": -4.0,
+      "SV_X": NaN,
+      "SV_Y": NaN,
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN,
+      "ATT_ERROR_Z (e+25)": NaN,
+      "SV_X (e+34)": NaN,
+      "SV_Y (e-07)": NaN,
+      "MAG_Z (e+19)": NaN,
+      "ATT_ERROR_Z (e-06)": NaN,
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
+    },
+    {
+      "來源ID": 13718098,
+      "網站時間(UTC)": "2026-04-03 02:00:59",
+      "CMG_TMP_0": "Top=18.6951 °C, Bottom=18.9972 °C",
+      "CMG_TMP_1": "Top=19.4962 °C, Bottom=19.6976 °C",
+      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "SV": "[0.00000000, 0.00000000, 0.00000000]",
+      "Callsign": NaN,
+      "ATT_ERROR_X": -0.0,
+      "ATT_ERROR_Y": -0.32550931,
+      "ATT_ERROR_Z": 0.37000945,
+      "ATT_ERR_RATE (raw rad/s)_X": 0.04648472,
+      "ATT_ERR_RATE (raw rad/s)_Y": 0.0432503,
+      "ATT_ERR_RATE (raw rad/s)_Z": 0.00489885,
+      "ATT_ERR_RATE (deg/s)_X": 2.6634,
+      "ATT_ERR_RATE (deg/s)_Y": 2.4781,
+      "ATT_ERR_RATE (deg/s)_Z": 0.2807,
+      "MAG_X": 29.63439941,
+      "MAG_Y": -24.52575684,
+      "MAG_Z": 7.25830078,
+      "ADCS_TMP (°C)": 16.9968,
+      "FSS_TMP_0 (°C)": 29.0,
+      "FSS_TMP_1 (°C)": 29.0,
+      "FSS_TMP_2 (°C)": 26.0,
+      "FSS_TMP_3 (°C)": 27.0,
+      "FSS_TMP_4 (°C)": 28.0,
+      "FSS_TMP_5 (°C)": -1.0,
+      "SV_X": NaN,
+      "SV_Y": NaN,
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN,
+      "ATT_ERROR_Z (e+25)": NaN,
+      "SV_X (e+34)": NaN,
+      "SV_Y (e-07)": NaN,
+      "MAG_Z (e+19)": NaN,
+      "ATT_ERROR_Z (e-06)": NaN,
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13720649,
@@ -10682,7 +10989,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13720647,
@@ -10722,7 +11030,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13700259,
@@ -10762,7 +11071,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13700271,
@@ -10802,7 +11112,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13700271,
@@ -10842,7 +11153,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13700267,
@@ -10882,7 +11194,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13700267,
@@ -10922,7 +11235,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13700281,
@@ -10962,7 +11276,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13700290,
@@ -11002,7 +11317,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13700238,
@@ -11042,7 +11358,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13700317,
@@ -11082,7 +11399,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13700243,
@@ -11122,7 +11440,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13700313,
@@ -11162,7 +11481,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13700313,
@@ -11202,7 +11522,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13700273,
@@ -11242,7 +11563,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13700257,
@@ -11282,7 +11604,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13700349,
@@ -11322,7 +11645,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13700218,
@@ -11362,7 +11686,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13700324,
@@ -11402,7 +11727,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13700324,
@@ -11442,7 +11768,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13700258,
@@ -11482,7 +11809,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13700270,
@@ -11522,7 +11850,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13700237,
@@ -11562,7 +11891,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13700237,
@@ -11602,7 +11932,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13700280,
@@ -11642,7 +11973,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13700280,
@@ -11682,7 +12014,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13700304,
@@ -11722,7 +12055,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13700357,
@@ -11762,7 +12096,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13700301,
@@ -11802,7 +12137,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13700318,
@@ -11842,7 +12178,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13700256,
@@ -11882,7 +12219,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13700356,
@@ -11922,7 +12260,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13700348,
@@ -11962,7 +12301,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13704071,
@@ -12002,7 +12342,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13700264,
@@ -12042,7 +12383,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13700332,
@@ -12082,7 +12424,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13700294,
@@ -12122,7 +12465,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13700274,
@@ -12162,7 +12506,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13700274,
@@ -12202,7 +12547,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13700274,
@@ -12242,7 +12588,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13700235,
@@ -12282,7 +12629,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13695399,
@@ -12322,7 +12670,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13695404,
@@ -12362,7 +12711,8 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     },
     {
       "來源ID": 13695404,
@@ -12402,10 +12752,11 @@
       "SV_Y (e-07)": NaN,
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null
+      "MAG": null,
+      "MAG_Y (e+33)": NaN
     }
   ],
   "key": "ADCS_2_Beacon",
   "label": "ADCS 2 Beacon",
-  "sourceCsv": "ADCS_2_Beacon_20260507_1051.csv"
+  "sourceCsv": "ADCS_2_Beacon_20260507_1315.csv"
 }
