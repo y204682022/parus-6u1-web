@@ -1,5 +1,5 @@
 {
-  "rows": 458,
+  "rows": 459,
   "columns": [
     "來源ID",
     "網站時間(UTC)",
@@ -46,12 +46,64 @@
     "PWR 5V (V)",
     "PWR 5V (mA)",
     "PWR 3V (V)",
-    "PWR 3V (mA)"
+    "PWR 3V (mA)",
+    "LLA_LAT (e+19)",
+    "LLA_LON (e+24)"
   ],
   "timeColumn": "網站時間(UTC)",
   "startTime": "2026-03-31 02:45:12",
-  "endTime": "2026-05-07 13:40:57",
+  "endTime": "2026-05-07 15:58:09",
   "previewRows": [
+    {
+      "來源ID": 14008307,
+      "網站時間(UTC)": "2026-05-07 15:58:09",
+      "封包時間(UTC)": "2026-05-07 08:06:19",
+      "MODE": 0,
+      "HERR": 0,
+      "SERR": 0,
+      "WDT": 0,
+      "UV": 0,
+      "OC": 0,
+      "OT": 0,
+      "GNSS": 1,
+      "ADV": 0,
+      "TLE": 0,
+      "DES": 0,
+      "SUN": 0,
+      "TGL": 0,
+      "TUMB": 0,
+      "AME": 0,
+      "CUSSV": 0,
+      "EKF": 0,
+      "ACT_ERR_CMG": 0,
+      "ACT_ERR_MTQ": 0,
+      "ACT_ERR_RAW": 0,
+      "SEN_ERR_FSS": 0,
+      "SEN_ERR_MAG": 0,
+      "SEN_ERR_IMU": 0,
+      "SEN_ERR_STR": 0,
+      "CSS_ERR": 0,
+      "Q": "[1.00000000, 0.00000000, 0.00000000, -0.00000000]",
+      "LLA": "LAT=-62097245745253974016.00000000 LON=-4148708770974297122406400.00000000 ALT=0.00",
+      "V": "0",
+      "PWR 3V": null,
+      "Callsign": null,
+      "LLA_LAT": NaN,
+      "LLA_LON": NaN,
+      "LLA_ALT": 0.0,
+      "RATE (raw rad/s)_X": 0.0,
+      "RATE (raw rad/s)_Y": 0.0,
+      "RATE (raw rad/s)_Z": -0.0,
+      "RATE (deg/s)_X": 0.0,
+      "RATE (deg/s)_Y": 0.0,
+      "RATE (deg/s)_Z": -0.0,
+      "PWR 5V (V)": -0.0,
+      "PWR 5V (mA)": 0.0,
+      "PWR 3V (V)": 0.0,
+      "PWR 3V (mA)": -0.0,
+      "LLA_LAT (e+19)": -6.209724574525397,
+      "LLA_LON (e+24)": -4.148708770974297
+    },
     {
       "來源ID": 14011882,
       "網站時間(UTC)": "2026-05-07 13:40:57",
@@ -98,7 +150,9 @@
       "PWR 5V (V)": 5.084249,
       "PWR 5V (mA)": 9.157509,
       "PWR 3V (V)": 3.313187,
-      "PWR 3V (mA)": 239.926743
+      "PWR 3V (mA)": 239.926743,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 14011911,
@@ -146,7 +200,9 @@
       "PWR 5V (V)": 5.084249,
       "PWR 5V (mA)": 9.157509,
       "PWR 3V (V)": 3.313187,
-      "PWR 3V (mA)": 239.926743
+      "PWR 3V (mA)": 239.926743,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 14011493,
@@ -194,7 +250,9 @@
       "PWR 5V (V)": 5.084249,
       "PWR 5V (mA)": 9.157509,
       "PWR 3V (V)": 3.313187,
-      "PWR 3V (mA)": 239.926743
+      "PWR 3V (mA)": 239.926743,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13988253,
@@ -242,7 +300,9 @@
       "PWR 5V (V)": 5.047619,
       "PWR 5V (mA)": 3.052503,
       "PWR 3V (V)": 3.304029,
-      "PWR 3V (mA)": 233.211243
+      "PWR 3V (mA)": 233.211243,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13988253,
@@ -290,7 +350,9 @@
       "PWR 5V (V)": 5.051282,
       "PWR 5V (mA)": 5.494506,
       "PWR 3V (V)": 3.307692,
-      "PWR 3V (mA)": 239.316238
+      "PWR 3V (mA)": 239.316238,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13988235,
@@ -338,7 +400,9 @@
       "PWR 5V (V)": 5.047619,
       "PWR 5V (mA)": 3.052503,
       "PWR 3V (V)": 3.304029,
-      "PWR 3V (mA)": 233.211243
+      "PWR 3V (mA)": 233.211243,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 14002885,
@@ -386,7 +450,9 @@
       "PWR 5V (V)": 5.054945,
       "PWR 5V (mA)": 22.588524,
       "PWR 3V (V)": 3.307692,
-      "PWR 3V (mA)": 226.495728
+      "PWR 3V (mA)": 226.495728,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 14002885,
@@ -434,103 +500,9 @@
       "PWR 5V (V)": 5.003663,
       "PWR 5V (mA)": 10.989012,
       "PWR 3V (V)": 3.300366,
-      "PWR 3V (mA)": 222.222229
-    },
-    {
-      "來源ID": 13988284,
-      "網站時間(UTC)": "2026-05-06 21:45:34",
-      "封包時間(UTC)": "2026-05-06 21:51:19",
-      "MODE": 3,
-      "HERR": 0,
-      "SERR": 0,
-      "WDT": 0,
-      "UV": 0,
-      "OC": 0,
-      "OT": 0,
-      "GNSS": 0,
-      "ADV": 0,
-      "TLE": 1,
-      "DES": 0,
-      "SUN": 1,
-      "TGL": 0,
-      "TUMB": 0,
-      "AME": 0,
-      "CUSSV": 0,
-      "EKF": 0,
-      "ACT_ERR_CMG": 0,
-      "ACT_ERR_MTQ": 0,
-      "ACT_ERR_RAW": 0,
-      "SEN_ERR_FSS": 0,
-      "SEN_ERR_MAG": 0,
-      "SEN_ERR_IMU": 0,
-      "SEN_ERR_STR": 0,
-      "CSS_ERR": 0,
-      "Q": "[0.00000000, 0.00000000, 0.00000000, 0.00000000]",
-      "LLA": "LAT=0.00000000 LON=0.00000000 ALT=-6378137.21",
-      "V": "3",
-      "PWR 3V": null,
-      "Callsign": null,
-      "LLA_LAT": 0.0,
-      "LLA_LON": 0.0,
-      "LLA_ALT": -6378137.21,
-      "RATE (raw rad/s)_X": 0.01517794,
-      "RATE (raw rad/s)_Y": -0.01472033,
-      "RATE (raw rad/s)_Z": -0.01647444,
-      "RATE (deg/s)_X": 0.8696,
-      "RATE (deg/s)_Y": -0.8434,
-      "RATE (deg/s)_Z": -0.9439,
-      "PWR 5V (V)": 5.053114,
-      "PWR 5V (mA)": 3.663004,
-      "PWR 3V (V)": 3.307692,
-      "PWR 3V (mA)": 233.821732
-    },
-    {
-      "來源ID": 13988284,
-      "網站時間(UTC)": "2026-05-06 21:45:34",
-      "封包時間(UTC)": "2026-05-06 21:54:02",
-      "MODE": 3,
-      "HERR": 0,
-      "SERR": 0,
-      "WDT": 0,
-      "UV": 0,
-      "OC": 0,
-      "OT": 0,
-      "GNSS": 0,
-      "ADV": 0,
-      "TLE": 1,
-      "DES": 0,
-      "SUN": 1,
-      "TGL": 0,
-      "TUMB": 0,
-      "AME": 0,
-      "CUSSV": 0,
-      "EKF": 0,
-      "ACT_ERR_CMG": 0,
-      "ACT_ERR_MTQ": 0,
-      "ACT_ERR_RAW": 0,
-      "SEN_ERR_FSS": 0,
-      "SEN_ERR_MAG": 0,
-      "SEN_ERR_IMU": 0,
-      "SEN_ERR_STR": 0,
-      "CSS_ERR": 0,
-      "Q": "[0.00000000, 0.00000000, 0.00000000, 0.00000000]",
-      "LLA": "LAT=90.00000000 LON=0.00000000 ALT=-6399603.52",
-      "V": "3",
-      "PWR 3V": null,
-      "Callsign": null,
-      "LLA_LAT": 90.0,
-      "LLA_LON": 0.0,
-      "LLA_ALT": -6399603.52,
-      "RATE (raw rad/s)_X": -0.00953359,
-      "RATE (raw rad/s)_Y": -0.01056361,
-      "RATE (raw rad/s)_Z": -0.03901227,
-      "RATE (deg/s)_X": -0.5462,
-      "RATE (deg/s)_Y": -0.6053,
-      "RATE (deg/s)_Z": -2.2352,
-      "PWR 5V (V)": 5.03663,
-      "PWR 5V (mA)": 240.537247,
-      "PWR 3V (V)": 3.307692,
-      "PWR 3V (mA)": 233.821732
+      "PWR 3V (mA)": 222.222229,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13988284,
@@ -578,7 +550,9 @@
       "PWR 5V (V)": 5.051282,
       "PWR 5V (mA)": 1.221001,
       "PWR 3V (V)": 3.307692,
-      "PWR 3V (mA)": 231.37973
+      "PWR 3V (mA)": 231.37973,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13988284,
@@ -626,7 +600,109 @@
       "PWR 5V (V)": 5.040293,
       "PWR 5V (mA)": 2.442003,
       "PWR 3V (V)": 3.305861,
-      "PWR 3V (mA)": 238.70575
+      "PWR 3V (mA)": 238.70575,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
+    },
+    {
+      "來源ID": 13988284,
+      "網站時間(UTC)": "2026-05-06 21:45:34",
+      "封包時間(UTC)": "2026-05-06 21:51:19",
+      "MODE": 3,
+      "HERR": 0,
+      "SERR": 0,
+      "WDT": 0,
+      "UV": 0,
+      "OC": 0,
+      "OT": 0,
+      "GNSS": 0,
+      "ADV": 0,
+      "TLE": 1,
+      "DES": 0,
+      "SUN": 1,
+      "TGL": 0,
+      "TUMB": 0,
+      "AME": 0,
+      "CUSSV": 0,
+      "EKF": 0,
+      "ACT_ERR_CMG": 0,
+      "ACT_ERR_MTQ": 0,
+      "ACT_ERR_RAW": 0,
+      "SEN_ERR_FSS": 0,
+      "SEN_ERR_MAG": 0,
+      "SEN_ERR_IMU": 0,
+      "SEN_ERR_STR": 0,
+      "CSS_ERR": 0,
+      "Q": "[0.00000000, 0.00000000, 0.00000000, 0.00000000]",
+      "LLA": "LAT=0.00000000 LON=0.00000000 ALT=-6378137.21",
+      "V": "3",
+      "PWR 3V": null,
+      "Callsign": null,
+      "LLA_LAT": 0.0,
+      "LLA_LON": 0.0,
+      "LLA_ALT": -6378137.21,
+      "RATE (raw rad/s)_X": 0.01517794,
+      "RATE (raw rad/s)_Y": -0.01472033,
+      "RATE (raw rad/s)_Z": -0.01647444,
+      "RATE (deg/s)_X": 0.8696,
+      "RATE (deg/s)_Y": -0.8434,
+      "RATE (deg/s)_Z": -0.9439,
+      "PWR 5V (V)": 5.053114,
+      "PWR 5V (mA)": 3.663004,
+      "PWR 3V (V)": 3.307692,
+      "PWR 3V (mA)": 233.821732,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
+    },
+    {
+      "來源ID": 13988284,
+      "網站時間(UTC)": "2026-05-06 21:45:34",
+      "封包時間(UTC)": "2026-05-06 21:54:02",
+      "MODE": 3,
+      "HERR": 0,
+      "SERR": 0,
+      "WDT": 0,
+      "UV": 0,
+      "OC": 0,
+      "OT": 0,
+      "GNSS": 0,
+      "ADV": 0,
+      "TLE": 1,
+      "DES": 0,
+      "SUN": 1,
+      "TGL": 0,
+      "TUMB": 0,
+      "AME": 0,
+      "CUSSV": 0,
+      "EKF": 0,
+      "ACT_ERR_CMG": 0,
+      "ACT_ERR_MTQ": 0,
+      "ACT_ERR_RAW": 0,
+      "SEN_ERR_FSS": 0,
+      "SEN_ERR_MAG": 0,
+      "SEN_ERR_IMU": 0,
+      "SEN_ERR_STR": 0,
+      "CSS_ERR": 0,
+      "Q": "[0.00000000, 0.00000000, 0.00000000, 0.00000000]",
+      "LLA": "LAT=90.00000000 LON=0.00000000 ALT=-6399603.52",
+      "V": "3",
+      "PWR 3V": null,
+      "Callsign": null,
+      "LLA_LAT": 90.0,
+      "LLA_LON": 0.0,
+      "LLA_ALT": -6399603.52,
+      "RATE (raw rad/s)_X": -0.00953359,
+      "RATE (raw rad/s)_Y": -0.01056361,
+      "RATE (raw rad/s)_Z": -0.03901227,
+      "RATE (deg/s)_X": -0.5462,
+      "RATE (deg/s)_Y": -0.6053,
+      "RATE (deg/s)_Z": -2.2352,
+      "PWR 5V (V)": 5.03663,
+      "PWR 5V (mA)": 240.537247,
+      "PWR 3V (V)": 3.307692,
+      "PWR 3V (mA)": 233.821732,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13988286,
@@ -674,7 +750,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 232.600739,
       "PWR 3V (V)": 3.307692,
-      "PWR 3V (mA)": 224.66423
+      "PWR 3V (mA)": 224.66423,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13988256,
@@ -722,7 +800,9 @@
       "PWR 5V (V)": 4.98718,
       "PWR 5V (mA)": 161.782669,
       "PWR 3V (V)": 3.300366,
-      "PWR 3V (mA)": 221.611725
+      "PWR 3V (mA)": 221.611725,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13988292,
@@ -770,7 +850,9 @@
       "PWR 5V (V)": 4.967033,
       "PWR 5V (mA)": 23.809525,
       "PWR 3V (V)": 3.29304,
-      "PWR 3V (mA)": 271.062286
+      "PWR 3V (mA)": 271.062286,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13988292,
@@ -818,7 +900,9 @@
       "PWR 5V (V)": 4.972528,
       "PWR 5V (mA)": 6.105006,
       "PWR 3V (V)": 3.294872,
-      "PWR 3V (mA)": 254.578751
+      "PWR 3V (mA)": 254.578751,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13994293,
@@ -866,7 +950,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 230.158737,
       "PWR 3V (V)": 3.304029,
-      "PWR 3V (mA)": 231.37973
+      "PWR 3V (mA)": 231.37973,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13996803,
@@ -914,7 +1000,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 230.158737,
       "PWR 3V (V)": 3.304029,
-      "PWR 3V (mA)": 231.37973
+      "PWR 3V (mA)": 231.37973,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13988254,
@@ -962,7 +1050,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 6.105006,
       "PWR 3V (V)": 3.311355,
-      "PWR 3V (mA)": 230.158737
+      "PWR 3V (mA)": 230.158737,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13996768,
@@ -1010,7 +1100,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 228.937729,
       "PWR 3V (V)": 3.307692,
-      "PWR 3V (mA)": 222.832733
+      "PWR 3V (mA)": 222.832733,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13996768,
@@ -1058,7 +1150,9 @@
       "PWR 5V (V)": 5.03663,
       "PWR 5V (mA)": 230.769241,
       "PWR 3V (V)": 3.307692,
-      "PWR 3V (mA)": 222.832733
+      "PWR 3V (mA)": 222.832733,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13996768,
@@ -1106,7 +1200,9 @@
       "PWR 5V (V)": -0.0,
       "PWR 5V (mA)": 0.0,
       "PWR 3V (V)": -0.0,
-      "PWR 3V (mA)": 5.685935488119879e+31
+      "PWR 3V (mA)": 5.685935488119879e+31,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13988262,
@@ -1154,55 +1250,9 @@
       "PWR 5V (V)": 0.0,
       "PWR 5V (mA)": 0.0,
       "PWR 3V (V)": -0.0,
-      "PWR 3V (mA)": -0.0
-    },
-    {
-      "來源ID": 13988265,
-      "網站時間(UTC)": "2026-05-05 22:05:49",
-      "封包時間(UTC)": "2027-03-29 14:28:14",
-      "MODE": 1,
-      "HERR": 0,
-      "SERR": 0,
-      "WDT": 0,
-      "UV": 0,
-      "OC": 0,
-      "OT": 0,
-      "GNSS": 0,
-      "ADV": 1,
-      "TLE": 0,
-      "DES": 0,
-      "SUN": 1,
-      "TGL": 0,
-      "TUMB": 0,
-      "AME": 0,
-      "CUSSV": 0,
-      "EKF": 0,
-      "ACT_ERR_CMG": 0,
-      "ACT_ERR_MTQ": 0,
-      "ACT_ERR_RAW": 3221749760,
-      "SEN_ERR_FSS": 16,
-      "SEN_ERR_MAG": 4,
-      "SEN_ERR_IMU": 0,
-      "SEN_ERR_STR": 0,
-      "CSS_ERR": 0,
-      "Q": "[1.00000000, 0.00000000, 0.00000000, 0.00000000]",
-      "LLA": "LAT=88.71521759 LON=7700719.50000000 ALT=-6355731.45",
-      "V": "0",
-      "PWR 3V": null,
-      "Callsign": null,
-      "LLA_LAT": 88.71521759,
-      "LLA_LON": 7700719.5,
-      "LLA_ALT": -6355731.45,
-      "RATE (raw rad/s)_X": 0.0,
-      "RATE (raw rad/s)_Y": 0.0,
-      "RATE (raw rad/s)_Z": 0.0,
-      "RATE (deg/s)_X": 0.0,
-      "RATE (deg/s)_Y": 0.0,
-      "RATE (deg/s)_Z": 0.0,
-      "PWR 5V (V)": 5.03663,
-      "PWR 5V (mA)": 0.0,
-      "PWR 3V (V)": 0.0,
-      "PWR 3V (mA)": 236.775589
+      "PWR 3V (mA)": -0.0,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13988265,
@@ -1250,7 +1300,59 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 226.495728,
       "PWR 3V (V)": 3.305861,
-      "PWR 3V (mA)": 232.600739
+      "PWR 3V (mA)": 232.600739,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
+    },
+    {
+      "來源ID": 13988265,
+      "網站時間(UTC)": "2026-05-05 22:05:49",
+      "封包時間(UTC)": "2027-03-29 14:28:14",
+      "MODE": 1,
+      "HERR": 0,
+      "SERR": 0,
+      "WDT": 0,
+      "UV": 0,
+      "OC": 0,
+      "OT": 0,
+      "GNSS": 0,
+      "ADV": 1,
+      "TLE": 0,
+      "DES": 0,
+      "SUN": 1,
+      "TGL": 0,
+      "TUMB": 0,
+      "AME": 0,
+      "CUSSV": 0,
+      "EKF": 0,
+      "ACT_ERR_CMG": 0,
+      "ACT_ERR_MTQ": 0,
+      "ACT_ERR_RAW": 3221749760,
+      "SEN_ERR_FSS": 16,
+      "SEN_ERR_MAG": 4,
+      "SEN_ERR_IMU": 0,
+      "SEN_ERR_STR": 0,
+      "CSS_ERR": 0,
+      "Q": "[1.00000000, 0.00000000, 0.00000000, 0.00000000]",
+      "LLA": "LAT=88.71521759 LON=7700719.50000000 ALT=-6355731.45",
+      "V": "0",
+      "PWR 3V": null,
+      "Callsign": null,
+      "LLA_LAT": 88.71521759,
+      "LLA_LON": 7700719.5,
+      "LLA_ALT": -6355731.45,
+      "RATE (raw rad/s)_X": 0.0,
+      "RATE (raw rad/s)_Y": 0.0,
+      "RATE (raw rad/s)_Z": 0.0,
+      "RATE (deg/s)_X": 0.0,
+      "RATE (deg/s)_Y": 0.0,
+      "RATE (deg/s)_Z": 0.0,
+      "PWR 5V (V)": 5.03663,
+      "PWR 5V (mA)": 0.0,
+      "PWR 3V (V)": 0.0,
+      "PWR 3V (mA)": 236.775589,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13988266,
@@ -1298,7 +1400,9 @@
       "PWR 5V (V)": 5.084249,
       "PWR 5V (mA)": 9.157509,
       "PWR 3V (V)": 3.311355,
-      "PWR 3V (mA)": 248.473755
+      "PWR 3V (mA)": 248.473755,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13988243,
@@ -1346,7 +1450,9 @@
       "PWR 5V (V)": 5.084249,
       "PWR 5V (mA)": 9.157509,
       "PWR 3V (V)": 3.311355,
-      "PWR 3V (mA)": 248.473755
+      "PWR 3V (mA)": 248.473755,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13988232,
@@ -1394,7 +1500,9 @@
       "PWR 5V (V)": 5.005495,
       "PWR 5V (mA)": 259.462769,
       "PWR 3V (V)": 3.298535,
-      "PWR 3V (mA)": 255.799759
+      "PWR 3V (mA)": 255.799759,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13988271,
@@ -1442,7 +1550,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 7.936508,
       "PWR 3V (V)": 3.309524,
-      "PWR 3V (mA)": 233.821732
+      "PWR 3V (mA)": 233.821732,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13971220,
@@ -1490,7 +1600,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 227.716736,
       "PWR 3V (V)": 3.304029,
-      "PWR 3V (mA)": 225.885239
+      "PWR 3V (mA)": 225.885239,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13971197,
@@ -1538,7 +1650,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 7.936508,
       "PWR 3V (V)": 3.307692,
-      "PWR 3V (mA)": 231.990234
+      "PWR 3V (mA)": 231.990234,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13971211,
@@ -1586,7 +1700,9 @@
       "PWR 5V (V)": 5.03663,
       "PWR 5V (mA)": 50418.058594,
       "PWR 3V (V)": 3.304029,
-      "PWR 3V (mA)": 241.75824
+      "PWR 3V (mA)": 241.75824,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13971208,
@@ -1634,7 +1750,9 @@
       "PWR 5V (V)": 5.040293,
       "PWR 5V (mA)": 245.421249,
       "PWR 3V (V)": 3.307692,
-      "PWR 3V (mA)": 247.252747
+      "PWR 3V (mA)": 247.252747,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13971153,
@@ -1682,7 +1800,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 8.547009,
       "PWR 3V (V)": 3.309524,
-      "PWR 3V (mA)": 241.147751
+      "PWR 3V (mA)": 241.147751,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13971173,
@@ -1730,7 +1850,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 8.547009,
       "PWR 3V (V)": 3.309524,
-      "PWR 3V (mA)": 241.147751
+      "PWR 3V (mA)": 241.147751,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13971141,
@@ -1778,7 +1900,9 @@
       "PWR 5V (V)": 2.275265854728034e+17,
       "PWR 5V (mA)": 0.0,
       "PWR 3V (V)": -0.0,
-      "PWR 3V (mA)": 0.0
+      "PWR 3V (mA)": 0.0,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13971156,
@@ -1826,7 +1950,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 8.547009,
       "PWR 3V (V)": 3.309524,
-      "PWR 3V (mA)": 177.147751
+      "PWR 3V (mA)": 177.147751,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13971156,
@@ -1874,7 +2000,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 8.547009,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13971156,
@@ -1922,7 +2050,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 8.547009,
       "PWR 3V (V)": 3.309524,
-      "PWR 3V (mA)": 241.147751
+      "PWR 3V (mA)": 241.147751,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13971156,
@@ -1970,7 +2100,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 8.547009,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13971174,
@@ -2018,7 +2150,9 @@
       "PWR 5V (V)": 5.03663,
       "PWR 5V (mA)": 231.990234,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13971174,
@@ -2066,7 +2200,9 @@
       "PWR 5V (V)": 5.087912,
       "PWR 5V (mA)": 0.610501,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13975484,
@@ -2114,7 +2250,9 @@
       "PWR 5V (V)": 5.087912,
       "PWR 5V (mA)": 0.610501,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13975484,
@@ -2162,7 +2300,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 231.990234,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13971177,
@@ -2210,7 +2350,9 @@
       "PWR 5V (V)": -0.0,
       "PWR 5V (mA)": -6.4e-05,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13971177,
@@ -2258,7 +2400,9 @@
       "PWR 5V (V)": 5.03663,
       "PWR 5V (mA)": 227.106232,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13960538,
@@ -2306,7 +2450,9 @@
       "PWR 5V (V)": 5.03663,
       "PWR 5V (mA)": 231.990234,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13939483,
@@ -2354,7 +2500,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13939483,
@@ -2402,7 +2550,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 0.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13939483,
@@ -2450,7 +2600,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 7.936508,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13939477,
@@ -2498,7 +2650,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 234.432236,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13939485,
@@ -2546,7 +2700,9 @@
       "PWR 5V (V)": -0.0,
       "PWR 5V (mA)": 0.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13946897,
@@ -2594,55 +2750,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 234.432236,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
-    },
-    {
-      "來源ID": 13946897,
-      "網站時間(UTC)": "2026-04-30 12:16:24",
-      "封包時間(UTC)": "2026-04-30 12:20:36",
-      "MODE": 1,
-      "HERR": 0,
-      "SERR": 0,
-      "WDT": 0,
-      "UV": 0,
-      "OC": 0,
-      "OT": 0,
-      "GNSS": 0,
-      "ADV": 1,
-      "TLE": 0,
-      "DES": 0,
-      "SUN": 1,
-      "TGL": 0,
-      "TUMB": 0,
-      "AME": 0,
-      "CUSSV": 0,
-      "EKF": 0,
-      "ACT_ERR_CMG": 0,
-      "ACT_ERR_MTQ": 0,
-      "ACT_ERR_RAW": 0,
-      "SEN_ERR_FSS": 0,
-      "SEN_ERR_MAG": 0,
-      "SEN_ERR_IMU": 0,
-      "SEN_ERR_STR": 0,
-      "CSS_ERR": 0,
-      "Q": "[1.00000000, 0.00000000, 0.00000000, 0.00000000]",
-      "LLA": "LAT=90.00000000 LON=0.00000000 ALT=-6399603.52",
-      "V": "3",
-      "PWR 3V": "3.309524 V, 241.758240 mA",
-      "Callsign": null,
-      "LLA_LAT": 90.0,
-      "LLA_LON": 0.0,
-      "LLA_ALT": -6399603.52,
-      "RATE (raw rad/s)_X": 0.0,
-      "RATE (raw rad/s)_Y": 0.0,
-      "RATE (raw rad/s)_Z": 0.0,
-      "RATE (deg/s)_X": 0.0,
-      "RATE (deg/s)_Y": 0.0,
-      "RATE (deg/s)_Z": 0.0,
-      "PWR 5V (V)": 5.082418,
-      "PWR 5V (mA)": 6.715507,
-      "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13946897,
@@ -2690,7 +2800,59 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 235.04274,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
+    },
+    {
+      "來源ID": 13946897,
+      "網站時間(UTC)": "2026-04-30 12:16:24",
+      "封包時間(UTC)": "2026-04-30 12:20:36",
+      "MODE": 1,
+      "HERR": 0,
+      "SERR": 0,
+      "WDT": 0,
+      "UV": 0,
+      "OC": 0,
+      "OT": 0,
+      "GNSS": 0,
+      "ADV": 1,
+      "TLE": 0,
+      "DES": 0,
+      "SUN": 1,
+      "TGL": 0,
+      "TUMB": 0,
+      "AME": 0,
+      "CUSSV": 0,
+      "EKF": 0,
+      "ACT_ERR_CMG": 0,
+      "ACT_ERR_MTQ": 0,
+      "ACT_ERR_RAW": 0,
+      "SEN_ERR_FSS": 0,
+      "SEN_ERR_MAG": 0,
+      "SEN_ERR_IMU": 0,
+      "SEN_ERR_STR": 0,
+      "CSS_ERR": 0,
+      "Q": "[1.00000000, 0.00000000, 0.00000000, 0.00000000]",
+      "LLA": "LAT=90.00000000 LON=0.00000000 ALT=-6399603.52",
+      "V": "3",
+      "PWR 3V": "3.309524 V, 241.758240 mA",
+      "Callsign": null,
+      "LLA_LAT": 90.0,
+      "LLA_LON": 0.0,
+      "LLA_ALT": -6399603.52,
+      "RATE (raw rad/s)_X": 0.0,
+      "RATE (raw rad/s)_Y": 0.0,
+      "RATE (raw rad/s)_Z": 0.0,
+      "RATE (deg/s)_X": 0.0,
+      "RATE (deg/s)_Y": 0.0,
+      "RATE (deg/s)_Z": 0.0,
+      "PWR 5V (V)": 5.082418,
+      "PWR 5V (mA)": 6.715507,
+      "PWR 3V (V)": NaN,
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13946897,
@@ -2738,7 +2900,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 6.715507,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13939451,
@@ -2786,7 +2950,9 @@
       "PWR 5V (V)": 5.021978,
       "PWR 5V (mA)": 216.117218,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13939457,
@@ -2834,7 +3000,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13939457,
@@ -2882,7 +3050,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": -0.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13940954,
@@ -2930,7 +3100,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 228.32724,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13939522,
@@ -2978,7 +3150,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 230.769241,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13939488,
@@ -3026,7 +3200,9 @@
       "PWR 5V (V)": 5.040293,
       "PWR 5V (mA)": 228.937729,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13939469,
@@ -3074,7 +3250,9 @@
       "PWR 5V (V)": 5.054945,
       "PWR 5V (mA)": 142.857147,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13939469,
@@ -3122,7 +3300,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 230.158737,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13939462,
@@ -3170,7 +3350,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13939462,
@@ -3218,7 +3400,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 231.37973,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13936614,
@@ -3266,7 +3450,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 8.547009,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13933493,
@@ -3314,7 +3500,9 @@
       "PWR 5V (V)": 2.453184,
       "PWR 5V (mA)": 228.32724,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13914402,
@@ -3362,7 +3550,9 @@
       "PWR 5V (V)": 5.032967,
       "PWR 5V (mA)": 2.442003,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13917238,
@@ -3410,7 +3600,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 234.432236,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13917213,
@@ -3458,7 +3650,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 238.095245,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13914409,
@@ -3506,7 +3700,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 8.547009,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13914404,
@@ -3554,7 +3750,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 7.936508,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13914404,
@@ -3602,7 +3800,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 227.716736,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13914414,
@@ -3650,7 +3850,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 235.653244,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13914414,
@@ -3698,7 +3900,9 @@
       "PWR 5V (V)": 5.03663,
       "PWR 5V (mA)": 234.432236,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13914415,
@@ -3746,7 +3950,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13914372,
@@ -3794,7 +4000,9 @@
       "PWR 5V (V)": 5.054945,
       "PWR 5V (mA)": 138.583633,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13914372,
@@ -3842,55 +4050,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 222.832733,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
-    },
-    {
-      "來源ID": 13914359,
-      "網站時間(UTC)": "2026-04-27 19:21:34",
-      "封包時間(UTC)": "2026-04-27 19:26:39",
-      "MODE": 3,
-      "HERR": 0,
-      "SERR": 0,
-      "WDT": 0,
-      "UV": 0,
-      "OC": 0,
-      "OT": 0,
-      "GNSS": 1,
-      "ADV": 1,
-      "TLE": 0,
-      "DES": 0,
-      "SUN": 1,
-      "TGL": 0,
-      "TUMB": 0,
-      "AME": 0,
-      "CUSSV": 0,
-      "EKF": 0,
-      "ACT_ERR_CMG": 0,
-      "ACT_ERR_MTQ": 1,
-      "ACT_ERR_RAW": 34603264,
-      "SEN_ERR_FSS": 1,
-      "SEN_ERR_MAG": 16,
-      "SEN_ERR_IMU": 2,
-      "SEN_ERR_STR": 0,
-      "CSS_ERR": 128,
-      "Q": "[1.00000000, 0.00000000, 0.00000000, 0.00000000]",
-      "LLA": "LAT=391208501248.00000000 LON=-78.09131622 ALT=772898.93",
-      "V": "-0",
-      "PWR 3V": "-0.000000 V, -0.000000 mA",
-      "Callsign": null,
-      "LLA_LAT": 391208501248.0,
-      "LLA_LON": -78.09131622,
-      "LLA_ALT": 772898.93,
-      "RATE (raw rad/s)_X": 0.0,
-      "RATE (raw rad/s)_Y": 0.0,
-      "RATE (raw rad/s)_Z": 0.0,
-      "RATE (deg/s)_X": 0.0,
-      "RATE (deg/s)_Y": 0.0,
-      "RATE (deg/s)_Z": 0.0,
-      "PWR 5V (V)": 1.660157910231444e+32,
-      "PWR 5V (mA)": 303461400576.0,
-      "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13914359,
@@ -3938,7 +4100,59 @@
       "PWR 5V (V)": 5.047619,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
+    },
+    {
+      "來源ID": 13914359,
+      "網站時間(UTC)": "2026-04-27 19:21:34",
+      "封包時間(UTC)": "2026-04-27 19:26:39",
+      "MODE": 3,
+      "HERR": 0,
+      "SERR": 0,
+      "WDT": 0,
+      "UV": 0,
+      "OC": 0,
+      "OT": 0,
+      "GNSS": 1,
+      "ADV": 1,
+      "TLE": 0,
+      "DES": 0,
+      "SUN": 1,
+      "TGL": 0,
+      "TUMB": 0,
+      "AME": 0,
+      "CUSSV": 0,
+      "EKF": 0,
+      "ACT_ERR_CMG": 0,
+      "ACT_ERR_MTQ": 1,
+      "ACT_ERR_RAW": 34603264,
+      "SEN_ERR_FSS": 1,
+      "SEN_ERR_MAG": 16,
+      "SEN_ERR_IMU": 2,
+      "SEN_ERR_STR": 0,
+      "CSS_ERR": 128,
+      "Q": "[1.00000000, 0.00000000, 0.00000000, 0.00000000]",
+      "LLA": "LAT=391208501248.00000000 LON=-78.09131622 ALT=772898.93",
+      "V": "-0",
+      "PWR 3V": "-0.000000 V, -0.000000 mA",
+      "Callsign": null,
+      "LLA_LAT": 391208501248.0,
+      "LLA_LON": -78.09131622,
+      "LLA_ALT": 772898.93,
+      "RATE (raw rad/s)_X": 0.0,
+      "RATE (raw rad/s)_Y": 0.0,
+      "RATE (raw rad/s)_Z": 0.0,
+      "RATE (deg/s)_X": 0.0,
+      "RATE (deg/s)_Y": 0.0,
+      "RATE (deg/s)_Z": 0.0,
+      "PWR 5V (V)": 1.660157910231444e+32,
+      "PWR 5V (mA)": 303461400576.0,
+      "PWR 3V (V)": NaN,
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13917234,
@@ -3986,55 +4200,9 @@
       "PWR 5V (V)": 5.016484,
       "PWR 5V (mA)": 67.765572,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
-    },
-    {
-      "來源ID": 13917183,
-      "網站時間(UTC)": "2026-04-27 14:34:00",
-      "封包時間(UTC)": "2026-04-27 14:39:14",
-      "MODE": 1,
-      "HERR": 0,
-      "SERR": 0,
-      "WDT": 0,
-      "UV": 0,
-      "OC": 0,
-      "OT": 0,
-      "GNSS": 0,
-      "ADV": 0,
-      "TLE": 0,
-      "DES": 0,
-      "SUN": 0,
-      "TGL": 0,
-      "TUMB": 0,
-      "AME": 0,
-      "CUSSV": 0,
-      "EKF": 0,
-      "ACT_ERR_CMG": 0,
-      "ACT_ERR_MTQ": 0,
-      "ACT_ERR_RAW": 0,
-      "SEN_ERR_FSS": 0,
-      "SEN_ERR_MAG": 0,
-      "SEN_ERR_IMU": 0,
-      "SEN_ERR_STR": 0,
-      "CSS_ERR": 0,
-      "Q": "[1.00000000, 0.00000000, 0.00000000, 0.00000000]",
-      "LLA": "LAT=88.85173035 LON=-159.37138367 ALT=-6355733.89",
-      "V": "3",
-      "PWR 3V": "3.305861 V, 222.832733 mA",
-      "Callsign": null,
-      "LLA_LAT": 88.85173035,
-      "LLA_LON": -159.37138367,
-      "LLA_ALT": -6355733.89,
-      "RATE (raw rad/s)_X": 0.0,
-      "RATE (raw rad/s)_Y": 0.0,
-      "RATE (raw rad/s)_Z": 0.0,
-      "RATE (deg/s)_X": 0.0,
-      "RATE (deg/s)_Y": 0.0,
-      "RATE (deg/s)_Z": 0.0,
-      "PWR 5V (V)": 5.03663,
-      "PWR 5V (mA)": 232.600739,
-      "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13917183,
@@ -4082,12 +4250,14 @@
       "PWR 5V (V)": 5.054945,
       "PWR 5V (mA)": 144.07814,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
-      "來源ID": 13917230,
-      "網站時間(UTC)": "2026-04-27 13:03:37",
-      "封包時間(UTC)": "2026-04-27 13:07:47",
+      "來源ID": 13917183,
+      "網站時間(UTC)": "2026-04-27 14:34:00",
+      "封包時間(UTC)": "2026-04-27 14:39:14",
       "MODE": 1,
       "HERR": 0,
       "SERR": 0,
@@ -4096,10 +4266,10 @@
       "OC": 0,
       "OT": 0,
       "GNSS": 0,
-      "ADV": 1,
+      "ADV": 0,
       "TLE": 0,
       "DES": 0,
-      "SUN": 1,
+      "SUN": 0,
       "TGL": 0,
       "TUMB": 0,
       "AME": 0,
@@ -4114,23 +4284,25 @@
       "SEN_ERR_STR": 0,
       "CSS_ERR": 0,
       "Q": "[1.00000000, 0.00000000, 0.00000000, 0.00000000]",
-      "LLA": "LAT=90.00000000 LON=0.00000000 ALT=-6399603.52",
+      "LLA": "LAT=88.85173035 LON=-159.37138367 ALT=-6355733.89",
       "V": "3",
-      "PWR 3V": "3.305861 V, 240.537247 mA",
+      "PWR 3V": "3.305861 V, 222.832733 mA",
       "Callsign": null,
-      "LLA_LAT": 90.0,
-      "LLA_LON": 0.0,
-      "LLA_ALT": -6399603.52,
+      "LLA_LAT": 88.85173035,
+      "LLA_LON": -159.37138367,
+      "LLA_ALT": -6355733.89,
       "RATE (raw rad/s)_X": 0.0,
       "RATE (raw rad/s)_Y": 0.0,
       "RATE (raw rad/s)_Z": 0.0,
       "RATE (deg/s)_X": 0.0,
       "RATE (deg/s)_Y": 0.0,
       "RATE (deg/s)_Z": 0.0,
-      "PWR 5V (V)": 5.054945,
-      "PWR 5V (mA)": 147.130646,
+      "PWR 5V (V)": 5.03663,
+      "PWR 5V (mA)": 232.600739,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13917230,
@@ -4178,7 +4350,59 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 8.547009,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
+    },
+    {
+      "來源ID": 13917230,
+      "網站時間(UTC)": "2026-04-27 13:03:37",
+      "封包時間(UTC)": "2026-04-27 13:07:47",
+      "MODE": 1,
+      "HERR": 0,
+      "SERR": 0,
+      "WDT": 0,
+      "UV": 0,
+      "OC": 0,
+      "OT": 0,
+      "GNSS": 0,
+      "ADV": 1,
+      "TLE": 0,
+      "DES": 0,
+      "SUN": 1,
+      "TGL": 0,
+      "TUMB": 0,
+      "AME": 0,
+      "CUSSV": 0,
+      "EKF": 0,
+      "ACT_ERR_CMG": 0,
+      "ACT_ERR_MTQ": 0,
+      "ACT_ERR_RAW": 0,
+      "SEN_ERR_FSS": 0,
+      "SEN_ERR_MAG": 0,
+      "SEN_ERR_IMU": 0,
+      "SEN_ERR_STR": 0,
+      "CSS_ERR": 0,
+      "Q": "[1.00000000, 0.00000000, 0.00000000, 0.00000000]",
+      "LLA": "LAT=90.00000000 LON=0.00000000 ALT=-6399603.52",
+      "V": "3",
+      "PWR 3V": "3.305861 V, 240.537247 mA",
+      "Callsign": null,
+      "LLA_LAT": 90.0,
+      "LLA_LON": 0.0,
+      "LLA_ALT": -6399603.52,
+      "RATE (raw rad/s)_X": 0.0,
+      "RATE (raw rad/s)_Y": 0.0,
+      "RATE (raw rad/s)_Z": 0.0,
+      "RATE (deg/s)_X": 0.0,
+      "RATE (deg/s)_Y": 0.0,
+      "RATE (deg/s)_Z": 0.0,
+      "PWR 5V (V)": 5.054945,
+      "PWR 5V (mA)": 147.130646,
+      "PWR 3V (V)": NaN,
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13914395,
@@ -4226,7 +4450,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 233.211243,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13914395,
@@ -4274,7 +4500,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 235.04274,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13914395,
@@ -4322,7 +4550,9 @@
       "PWR 5V (V)": 5.054945,
       "PWR 5V (mA)": 147.130646,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13914391,
@@ -4370,7 +4600,9 @@
       "PWR 5V (V)": 5.054945,
       "PWR 5V (mA)": 147.130646,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13917169,
@@ -4418,7 +4650,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 9.157509,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13917169,
@@ -4466,7 +4700,9 @@
       "PWR 5V (V)": 5.03663,
       "PWR 5V (mA)": 224.053726,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13914405,
@@ -4514,7 +4750,9 @@
       "PWR 5V (V)": 5.053114,
       "PWR 5V (mA)": 137.973145,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13914405,
@@ -4562,103 +4800,9 @@
       "PWR 5V (V)": 5.078755,
       "PWR 5V (mA)": 8.547009,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
-    },
-    {
-      "來源ID": 13917193,
-      "網站時間(UTC)": "2026-04-27 08:44:11",
-      "封包時間(UTC)": "2026-04-27 08:44:39",
-      "MODE": 1,
-      "HERR": 0,
-      "SERR": 0,
-      "WDT": 0,
-      "UV": 0,
-      "OC": 0,
-      "OT": 0,
-      "GNSS": 0,
-      "ADV": 1,
-      "TLE": 0,
-      "DES": 0,
-      "SUN": 1,
-      "TGL": 0,
-      "TUMB": 0,
-      "AME": 0,
-      "CUSSV": 0,
-      "EKF": 0,
-      "ACT_ERR_CMG": 0,
-      "ACT_ERR_MTQ": 0,
-      "ACT_ERR_RAW": 0,
-      "SEN_ERR_FSS": 1,
-      "SEN_ERR_MAG": 0,
-      "SEN_ERR_IMU": 0,
-      "SEN_ERR_STR": 0,
-      "CSS_ERR": 0,
-      "Q": "[1.00000000, 0.00000000, 0.00000000, 0.00000000]",
-      "LLA": "LAT=90.00000000 LON=0.00000000 ALT=-6399603.52",
-      "V": "3",
-      "PWR 3V": "3.309524 V, 206.349213 mA",
-      "Callsign": null,
-      "LLA_LAT": 90.0,
-      "LLA_LON": 0.0,
-      "LLA_ALT": -6399603.52,
-      "RATE (raw rad/s)_X": 0.0,
-      "RATE (raw rad/s)_Y": 0.0,
-      "RATE (raw rad/s)_Z": 0.0,
-      "RATE (deg/s)_X": 0.0,
-      "RATE (deg/s)_Y": 0.0,
-      "RATE (deg/s)_Z": 0.0,
-      "PWR 5V (V)": 5.080586,
-      "PWR 5V (mA)": 6.715507,
-      "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
-    },
-    {
-      "來源ID": 13917193,
-      "網站時間(UTC)": "2026-04-27 08:44:11",
-      "封包時間(UTC)": "2026-04-27 08:48:45",
-      "MODE": 1,
-      "HERR": 0,
-      "SERR": 0,
-      "WDT": 0,
-      "UV": 0,
-      "OC": 0,
-      "OT": 0,
-      "GNSS": 0,
-      "ADV": 1,
-      "TLE": 0,
-      "DES": 0,
-      "SUN": 1,
-      "TGL": 0,
-      "TUMB": 0,
-      "AME": 0,
-      "CUSSV": 0,
-      "EKF": 0,
-      "ACT_ERR_CMG": 0,
-      "ACT_ERR_MTQ": 0,
-      "ACT_ERR_RAW": 0,
-      "SEN_ERR_FSS": 0,
-      "SEN_ERR_MAG": 0,
-      "SEN_ERR_IMU": 0,
-      "SEN_ERR_STR": 0,
-      "CSS_ERR": 0,
-      "Q": "[1.00000000, 0.00000000, 0.00000000, 0.00000000]",
-      "LLA": "LAT=90.00000000 LON=0.00000000 ALT=-6399603.52",
-      "V": "3",
-      "PWR 3V": "3.309524 V, 212.454224 mA",
-      "Callsign": null,
-      "LLA_LAT": 90.0,
-      "LLA_LON": 0.0,
-      "LLA_ALT": -6399603.52,
-      "RATE (raw rad/s)_X": 0.0,
-      "RATE (raw rad/s)_Y": 0.0,
-      "RATE (raw rad/s)_Z": 0.0,
-      "RATE (deg/s)_X": 0.0,
-      "RATE (deg/s)_Y": 0.0,
-      "RATE (deg/s)_Z": 0.0,
-      "PWR 5V (V)": 5.080586,
-      "PWR 5V (mA)": 11.599512,
-      "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13917193,
@@ -4706,7 +4850,109 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 6.105006,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
+    },
+    {
+      "來源ID": 13917193,
+      "網站時間(UTC)": "2026-04-27 08:44:11",
+      "封包時間(UTC)": "2026-04-27 08:44:39",
+      "MODE": 1,
+      "HERR": 0,
+      "SERR": 0,
+      "WDT": 0,
+      "UV": 0,
+      "OC": 0,
+      "OT": 0,
+      "GNSS": 0,
+      "ADV": 1,
+      "TLE": 0,
+      "DES": 0,
+      "SUN": 1,
+      "TGL": 0,
+      "TUMB": 0,
+      "AME": 0,
+      "CUSSV": 0,
+      "EKF": 0,
+      "ACT_ERR_CMG": 0,
+      "ACT_ERR_MTQ": 0,
+      "ACT_ERR_RAW": 0,
+      "SEN_ERR_FSS": 1,
+      "SEN_ERR_MAG": 0,
+      "SEN_ERR_IMU": 0,
+      "SEN_ERR_STR": 0,
+      "CSS_ERR": 0,
+      "Q": "[1.00000000, 0.00000000, 0.00000000, 0.00000000]",
+      "LLA": "LAT=90.00000000 LON=0.00000000 ALT=-6399603.52",
+      "V": "3",
+      "PWR 3V": "3.309524 V, 206.349213 mA",
+      "Callsign": null,
+      "LLA_LAT": 90.0,
+      "LLA_LON": 0.0,
+      "LLA_ALT": -6399603.52,
+      "RATE (raw rad/s)_X": 0.0,
+      "RATE (raw rad/s)_Y": 0.0,
+      "RATE (raw rad/s)_Z": 0.0,
+      "RATE (deg/s)_X": 0.0,
+      "RATE (deg/s)_Y": 0.0,
+      "RATE (deg/s)_Z": 0.0,
+      "PWR 5V (V)": 5.080586,
+      "PWR 5V (mA)": 6.715507,
+      "PWR 3V (V)": NaN,
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
+    },
+    {
+      "來源ID": 13917193,
+      "網站時間(UTC)": "2026-04-27 08:44:11",
+      "封包時間(UTC)": "2026-04-27 08:48:45",
+      "MODE": 1,
+      "HERR": 0,
+      "SERR": 0,
+      "WDT": 0,
+      "UV": 0,
+      "OC": 0,
+      "OT": 0,
+      "GNSS": 0,
+      "ADV": 1,
+      "TLE": 0,
+      "DES": 0,
+      "SUN": 1,
+      "TGL": 0,
+      "TUMB": 0,
+      "AME": 0,
+      "CUSSV": 0,
+      "EKF": 0,
+      "ACT_ERR_CMG": 0,
+      "ACT_ERR_MTQ": 0,
+      "ACT_ERR_RAW": 0,
+      "SEN_ERR_FSS": 0,
+      "SEN_ERR_MAG": 0,
+      "SEN_ERR_IMU": 0,
+      "SEN_ERR_STR": 0,
+      "CSS_ERR": 0,
+      "Q": "[1.00000000, 0.00000000, 0.00000000, 0.00000000]",
+      "LLA": "LAT=90.00000000 LON=0.00000000 ALT=-6399603.52",
+      "V": "3",
+      "PWR 3V": "3.309524 V, 212.454224 mA",
+      "Callsign": null,
+      "LLA_LAT": 90.0,
+      "LLA_LON": 0.0,
+      "LLA_ALT": -6399603.52,
+      "RATE (raw rad/s)_X": 0.0,
+      "RATE (raw rad/s)_Y": 0.0,
+      "RATE (raw rad/s)_Z": 0.0,
+      "RATE (deg/s)_X": 0.0,
+      "RATE (deg/s)_Y": 0.0,
+      "RATE (deg/s)_Z": 0.0,
+      "PWR 5V (V)": 5.080586,
+      "PWR 5V (mA)": 11.599512,
+      "PWR 3V (V)": NaN,
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13917193,
@@ -4754,7 +5000,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 8.547009,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13914377,
@@ -4802,7 +5050,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 7.936508,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13917200,
@@ -4850,7 +5100,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 228.32724,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13917200,
@@ -4898,7 +5150,9 @@
       "PWR 5V (V)": 5.03663,
       "PWR 5V (mA)": 227.716736,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13917200,
@@ -4946,7 +5200,9 @@
       "PWR 5V (V)": 5.078755,
       "PWR 5V (mA)": 7.936508,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13917215,
@@ -4994,7 +5250,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 7.936508,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13914369,
@@ -5042,7 +5300,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 9.76801,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13914386,
@@ -5090,7 +5350,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 9.76801,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13917236,
@@ -5138,7 +5400,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 9.76801,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13898670,
@@ -5186,7 +5450,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 9.157509,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13898607,
@@ -5234,7 +5500,9 @@
       "PWR 5V (V)": 0.0,
       "PWR 5V (mA)": 0.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13898609,
@@ -5282,7 +5550,9 @@
       "PWR 5V (V)": 0.0,
       "PWR 5V (mA)": 0.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13898624,
@@ -5330,7 +5600,9 @@
       "PWR 5V (V)": -0.019572,
       "PWR 5V (mA)": 42041.515625,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13898632,
@@ -5378,7 +5650,9 @@
       "PWR 5V (V)": 5.084249,
       "PWR 5V (mA)": 8.547009,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13898635,
@@ -5426,7 +5700,9 @@
       "PWR 5V (V)": 5.084249,
       "PWR 5V (mA)": 8.547009,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13898620,
@@ -5474,7 +5750,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13898619,
@@ -5522,7 +5800,9 @@
       "PWR 5V (V)": 5.034799,
       "PWR 5V (mA)": 245.421249,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13898611,
@@ -5570,7 +5850,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 230.769241,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13898611,
@@ -5618,7 +5900,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 231.37973,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13898611,
@@ -5666,7 +5950,9 @@
       "PWR 5V (V)": 5.062271,
       "PWR 5V (mA)": 137.973145,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13898648,
@@ -5714,7 +6000,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 6.105006,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13898648,
@@ -5762,7 +6050,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 236.263748,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13901742,
@@ -5810,7 +6100,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13901742,
@@ -5858,7 +6150,9 @@
       "PWR 5V (V)": 5.045788,
       "PWR 5V (mA)": 4.273504,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13898674,
@@ -5906,7 +6200,9 @@
       "PWR 5V (V)": -0.0,
       "PWR 5V (mA)": -0.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13898599,
@@ -5954,7 +6250,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13898631,
@@ -6002,7 +6300,9 @@
       "PWR 5V (V)": 5.03663,
       "PWR 5V (mA)": 236.263748,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13898608,
@@ -6050,7 +6350,9 @@
       "PWR 5V (V)": -2.5352623786568267e+33,
       "PWR 5V (mA)": -8.058958986470228e+18,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13898664,
@@ -6098,7 +6400,9 @@
       "PWR 5V (V)": -0.0,
       "PWR 5V (mA)": -7139.453125,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13898664,
@@ -6146,7 +6450,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 7.936508,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13898664,
@@ -6194,7 +6500,9 @@
       "PWR 5V (V)": 5.040293,
       "PWR 5V (mA)": 231.37973,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13898630,
@@ -6242,7 +6550,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 8.675916,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13895257,
@@ -6290,7 +6600,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 8.547009,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13891558,
@@ -6338,7 +6650,9 @@
       "PWR 5V (V)": 5.084249,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13874781,
@@ -6386,7 +6700,9 @@
       "PWR 5V (V)": 5.040293,
       "PWR 5V (mA)": 6.105006,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13874781,
@@ -6434,7 +6750,9 @@
       "PWR 5V (V)": -0.0,
       "PWR 5V (mA)": 5.803038023412666e+28,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13874793,
@@ -6482,7 +6800,9 @@
       "PWR 5V (V)": 5.034799,
       "PWR 5V (mA)": 20.757021,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13874762,
@@ -6530,7 +6850,9 @@
       "PWR 5V (V)": 5.045788,
       "PWR 5V (mA)": 6.715507,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13874762,
@@ -6578,7 +6900,9 @@
       "PWR 5V (V)": 0.0,
       "PWR 5V (mA)": 0.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13874810,
@@ -6626,7 +6950,9 @@
       "PWR 5V (V)": 5.084249,
       "PWR 5V (mA)": 7.936508,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13874758,
@@ -6674,55 +7000,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 230.769241,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
-    },
-    {
-      "來源ID": 13874800,
-      "網站時間(UTC)": "2026-04-23 01:44:27",
-      "封包時間(UTC)": "2026-04-23 01:48:07",
-      "MODE": 1,
-      "HERR": 0,
-      "SERR": 0,
-      "WDT": 0,
-      "UV": 0,
-      "OC": 0,
-      "OT": 0,
-      "GNSS": 0,
-      "ADV": 1,
-      "TLE": 0,
-      "DES": 0,
-      "SUN": 1,
-      "TGL": 0,
-      "TUMB": 0,
-      "AME": 0,
-      "CUSSV": 0,
-      "EKF": 0,
-      "ACT_ERR_CMG": 0,
-      "ACT_ERR_MTQ": 0,
-      "ACT_ERR_RAW": 0,
-      "SEN_ERR_FSS": 0,
-      "SEN_ERR_MAG": 0,
-      "SEN_ERR_IMU": 0,
-      "SEN_ERR_STR": 0,
-      "CSS_ERR": 0,
-      "Q": "[1.00000000, 0.00000000, 0.00000000, 0.00000000]",
-      "LLA": "LAT=90.00000000 LON=0.00000000 ALT=-6399603.52",
-      "V": "3",
-      "PWR 3V": "3.304029 V, 213.064713 mA",
-      "Callsign": null,
-      "LLA_LAT": 90.0,
-      "LLA_LON": 0.0,
-      "LLA_ALT": -6399603.52,
-      "RATE (raw rad/s)_X": 0.0,
-      "RATE (raw rad/s)_Y": 0.0,
-      "RATE (raw rad/s)_Z": 0.0,
-      "RATE (deg/s)_X": 0.0,
-      "RATE (deg/s)_Y": 0.0,
-      "RATE (deg/s)_Z": 0.0,
-      "PWR 5V (V)": 5.038462,
-      "PWR 5V (mA)": 228.32724,
-      "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13874800,
@@ -6770,7 +7050,9 @@
       "PWR 5V (V)": 5.038492,
       "PWR 5V (mA)": 230.158737,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13874800,
@@ -6818,7 +7100,59 @@
       "PWR 5V (V)": 5.053114,
       "PWR 5V (mA)": 145.299149,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
+    },
+    {
+      "來源ID": 13874800,
+      "網站時間(UTC)": "2026-04-23 01:44:27",
+      "封包時間(UTC)": "2026-04-23 01:48:07",
+      "MODE": 1,
+      "HERR": 0,
+      "SERR": 0,
+      "WDT": 0,
+      "UV": 0,
+      "OC": 0,
+      "OT": 0,
+      "GNSS": 0,
+      "ADV": 1,
+      "TLE": 0,
+      "DES": 0,
+      "SUN": 1,
+      "TGL": 0,
+      "TUMB": 0,
+      "AME": 0,
+      "CUSSV": 0,
+      "EKF": 0,
+      "ACT_ERR_CMG": 0,
+      "ACT_ERR_MTQ": 0,
+      "ACT_ERR_RAW": 0,
+      "SEN_ERR_FSS": 0,
+      "SEN_ERR_MAG": 0,
+      "SEN_ERR_IMU": 0,
+      "SEN_ERR_STR": 0,
+      "CSS_ERR": 0,
+      "Q": "[1.00000000, 0.00000000, 0.00000000, 0.00000000]",
+      "LLA": "LAT=90.00000000 LON=0.00000000 ALT=-6399603.52",
+      "V": "3",
+      "PWR 3V": "3.304029 V, 213.064713 mA",
+      "Callsign": null,
+      "LLA_LAT": 90.0,
+      "LLA_LON": 0.0,
+      "LLA_ALT": -6399603.52,
+      "RATE (raw rad/s)_X": 0.0,
+      "RATE (raw rad/s)_Y": 0.0,
+      "RATE (raw rad/s)_Z": 0.0,
+      "RATE (deg/s)_X": 0.0,
+      "RATE (deg/s)_Y": 0.0,
+      "RATE (deg/s)_Z": 0.0,
+      "PWR 5V (V)": 5.038462,
+      "PWR 5V (mA)": 228.32724,
+      "PWR 3V (V)": NaN,
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13874776,
@@ -6866,7 +7200,9 @@
       "PWR 5V (V)": 5.053114,
       "PWR 5V (mA)": 145.299149,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13874805,
@@ -6914,7 +7250,9 @@
       "PWR 5V (V)": 5.086081,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13874784,
@@ -6962,7 +7300,9 @@
       "PWR 5V (V)": 5.086081,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13880095,
@@ -7010,7 +7350,9 @@
       "PWR 5V (V)": 5.086081,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13880095,
@@ -7058,7 +7400,9 @@
       "PWR 5V (V)": 5.086081,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13874766,
@@ -7106,7 +7450,9 @@
       "PWR 5V (V)": 4.978022,
       "PWR 5V (mA)": 0.610501,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13874766,
@@ -7154,7 +7500,9 @@
       "PWR 5V (V)": 5.0,
       "PWR 5V (mA)": 2.442003,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13874822,
@@ -7202,7 +7550,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 228.32724,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13874822,
@@ -7250,55 +7600,9 @@
       "PWR 5V (V)": 5.054945,
       "PWR 5V (mA)": 143.467651,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
-    },
-    {
-      "來源ID": 13868902,
-      "網站時間(UTC)": "2026-04-22 08:23:38",
-      "封包時間(UTC)": "2026-04-22 08:26:06",
-      "MODE": 3,
-      "HERR": 0,
-      "SERR": 0,
-      "WDT": 0,
-      "UV": 0,
-      "OC": 0,
-      "OT": 0,
-      "GNSS": 1,
-      "ADV": 0,
-      "TLE": 0,
-      "DES": 0,
-      "SUN": 1,
-      "TGL": 0,
-      "TUMB": 0,
-      "AME": 0,
-      "CUSSV": 0,
-      "EKF": 0,
-      "ACT_ERR_CMG": 0,
-      "ACT_ERR_MTQ": 0,
-      "ACT_ERR_RAW": 0,
-      "SEN_ERR_FSS": 0,
-      "SEN_ERR_MAG": 0,
-      "SEN_ERR_IMU": 0,
-      "SEN_ERR_STR": 0,
-      "CSS_ERR": 0,
-      "Q": "[1.00000000, 0.00000000, 0.00000000, 0.00000000]",
-      "LLA": "LAT=44.07110977 LON=-78.13715363 ALT=522992.00",
-      "V": "3",
-      "PWR 3V": "3.289377 V, 242.979248 mA",
-      "Callsign": null,
-      "LLA_LAT": 44.07110977,
-      "LLA_LON": -78.13715363,
-      "LLA_ALT": 522992.0,
-      "RATE (raw rad/s)_X": 0.0,
-      "RATE (raw rad/s)_Y": 0.0,
-      "RATE (raw rad/s)_Z": 0.0,
-      "RATE (deg/s)_X": 0.0,
-      "RATE (deg/s)_Y": 0.0,
-      "RATE (deg/s)_Z": 0.0,
-      "PWR 5V (V)": 4.939561,
-      "PWR 5V (mA)": 220.390732,
-      "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13868902,
@@ -7346,7 +7650,59 @@
       "PWR 5V (V)": 5.03663,
       "PWR 5V (mA)": 227.716736,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
+    },
+    {
+      "來源ID": 13868902,
+      "網站時間(UTC)": "2026-04-22 08:23:38",
+      "封包時間(UTC)": "2026-04-22 08:26:06",
+      "MODE": 3,
+      "HERR": 0,
+      "SERR": 0,
+      "WDT": 0,
+      "UV": 0,
+      "OC": 0,
+      "OT": 0,
+      "GNSS": 1,
+      "ADV": 0,
+      "TLE": 0,
+      "DES": 0,
+      "SUN": 1,
+      "TGL": 0,
+      "TUMB": 0,
+      "AME": 0,
+      "CUSSV": 0,
+      "EKF": 0,
+      "ACT_ERR_CMG": 0,
+      "ACT_ERR_MTQ": 0,
+      "ACT_ERR_RAW": 0,
+      "SEN_ERR_FSS": 0,
+      "SEN_ERR_MAG": 0,
+      "SEN_ERR_IMU": 0,
+      "SEN_ERR_STR": 0,
+      "CSS_ERR": 0,
+      "Q": "[1.00000000, 0.00000000, 0.00000000, 0.00000000]",
+      "LLA": "LAT=44.07110977 LON=-78.13715363 ALT=522992.00",
+      "V": "3",
+      "PWR 3V": "3.289377 V, 242.979248 mA",
+      "Callsign": null,
+      "LLA_LAT": 44.07110977,
+      "LLA_LON": -78.13715363,
+      "LLA_ALT": 522992.0,
+      "RATE (raw rad/s)_X": 0.0,
+      "RATE (raw rad/s)_Y": 0.0,
+      "RATE (raw rad/s)_Z": 0.0,
+      "RATE (deg/s)_X": 0.0,
+      "RATE (deg/s)_Y": 0.0,
+      "RATE (deg/s)_Z": 0.0,
+      "PWR 5V (V)": 4.939561,
+      "PWR 5V (mA)": 220.390732,
+      "PWR 3V (V)": NaN,
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13874790,
@@ -7394,7 +7750,9 @@
       "PWR 5V (V)": 5.084249,
       "PWR 5V (mA)": 9.76801,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13874770,
@@ -7442,7 +7800,9 @@
       "PWR 5V (V)": 21690937507.84,
       "PWR 5V (mA)": 227.716766,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13874783,
@@ -7490,7 +7850,9 @@
       "PWR 5V (V)": 4.974359,
       "PWR 5V (mA)": 0.610501,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13874792,
@@ -7538,7 +7900,9 @@
       "PWR 5V (V)": 5.040293,
       "PWR 5V (mA)": 232.600739,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13874787,
@@ -7586,7 +7950,9 @@
       "PWR 5V (V)": 5.03663,
       "PWR 5V (mA)": 228.937729,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13874787,
@@ -7634,7 +8000,9 @@
       "PWR 5V (V)": -0.0,
       "PWR 5V (mA)": -0.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13876652,
@@ -7682,7 +8050,9 @@
       "PWR 5V (V)": 5.03663,
       "PWR 5V (mA)": 228.937729,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13876652,
@@ -7730,7 +8100,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 8.547009,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13865002,
@@ -7778,7 +8150,9 @@
       "PWR 5V (V)": 5.005495,
       "PWR 5V (mA)": 139.804642,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13869844,
@@ -7826,103 +8200,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 231.990234,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
-    },
-    {
-      "來源ID": 13869895,
-      "網站時間(UTC)": "2026-04-21 12:57:14",
-      "封包時間(UTC)": "2026-04-21 13:04:59",
-      "MODE": 1,
-      "HERR": 0,
-      "SERR": 0,
-      "WDT": 0,
-      "UV": 0,
-      "OC": 0,
-      "OT": 0,
-      "GNSS": 0,
-      "ADV": 1,
-      "TLE": 0,
-      "DES": 0,
-      "SUN": 1,
-      "TGL": 0,
-      "TUMB": 0,
-      "AME": 0,
-      "CUSSV": 0,
-      "EKF": 0,
-      "ACT_ERR_CMG": 0,
-      "ACT_ERR_MTQ": 0,
-      "ACT_ERR_RAW": 0,
-      "SEN_ERR_FSS": 0,
-      "SEN_ERR_MAG": 0,
-      "SEN_ERR_IMU": 0,
-      "SEN_ERR_STR": 0,
-      "CSS_ERR": 0,
-      "Q": "[1.00000000, 0.00000000, 0.00000000, 0.00000000]",
-      "LLA": "LAT=90.00000000 LON=0.00000000 ALT=-6399603.52",
-      "V": "3",
-      "PWR 3V": "3.309524 V, 231.990234 mA",
-      "Callsign": null,
-      "LLA_LAT": 90.0,
-      "LLA_LON": 0.0,
-      "LLA_ALT": -6399603.52,
-      "RATE (raw rad/s)_X": 0.0,
-      "RATE (raw rad/s)_Y": 0.0,
-      "RATE (raw rad/s)_Z": 0.0,
-      "RATE (deg/s)_X": 0.0,
-      "RATE (deg/s)_Y": 0.0,
-      "RATE (deg/s)_Z": 0.0,
-      "PWR 5V (V)": 5.080586,
-      "PWR 5V (mA)": 9.157509,
-      "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
-    },
-    {
-      "來源ID": 13869895,
-      "網站時間(UTC)": "2026-04-21 12:57:14",
-      "封包時間(UTC)": "2026-04-21 13:02:17",
-      "MODE": 1,
-      "HERR": 0,
-      "SERR": 0,
-      "WDT": 0,
-      "UV": 0,
-      "OC": 0,
-      "OT": 0,
-      "GNSS": 0,
-      "ADV": 1,
-      "TLE": 0,
-      "DES": 0,
-      "SUN": 1,
-      "TGL": 0,
-      "TUMB": 0,
-      "AME": 0,
-      "CUSSV": 0,
-      "EKF": 0,
-      "ACT_ERR_CMG": 0,
-      "ACT_ERR_MTQ": 0,
-      "ACT_ERR_RAW": 0,
-      "SEN_ERR_FSS": 0,
-      "SEN_ERR_MAG": 0,
-      "SEN_ERR_IMU": 0,
-      "SEN_ERR_STR": 0,
-      "CSS_ERR": 0,
-      "Q": "[1.00000000, 0.00000000, 0.00000000, 0.00000000]",
-      "LLA": "LAT=90.00000000 LON=0.00000000 ALT=-6399603.52",
-      "V": "3",
-      "PWR 3V": "3.311355 V, 213.675217 mA",
-      "Callsign": null,
-      "LLA_LAT": 90.0,
-      "LLA_LON": 0.0,
-      "LLA_ALT": -6399603.52,
-      "RATE (raw rad/s)_X": 0.0,
-      "RATE (raw rad/s)_Y": 0.0,
-      "RATE (raw rad/s)_Z": 0.0,
-      "RATE (deg/s)_X": 0.0,
-      "RATE (deg/s)_Y": 0.0,
-      "RATE (deg/s)_Z": 0.0,
-      "PWR 5V (V)": 5.080586,
-      "PWR 5V (mA)": 7.326007,
-      "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13869895,
@@ -7970,7 +8250,109 @@
       "PWR 5V (V)": 5.03663,
       "PWR 5V (mA)": 235.04274,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
+    },
+    {
+      "來源ID": 13869895,
+      "網站時間(UTC)": "2026-04-21 12:57:14",
+      "封包時間(UTC)": "2026-04-21 13:04:59",
+      "MODE": 1,
+      "HERR": 0,
+      "SERR": 0,
+      "WDT": 0,
+      "UV": 0,
+      "OC": 0,
+      "OT": 0,
+      "GNSS": 0,
+      "ADV": 1,
+      "TLE": 0,
+      "DES": 0,
+      "SUN": 1,
+      "TGL": 0,
+      "TUMB": 0,
+      "AME": 0,
+      "CUSSV": 0,
+      "EKF": 0,
+      "ACT_ERR_CMG": 0,
+      "ACT_ERR_MTQ": 0,
+      "ACT_ERR_RAW": 0,
+      "SEN_ERR_FSS": 0,
+      "SEN_ERR_MAG": 0,
+      "SEN_ERR_IMU": 0,
+      "SEN_ERR_STR": 0,
+      "CSS_ERR": 0,
+      "Q": "[1.00000000, 0.00000000, 0.00000000, 0.00000000]",
+      "LLA": "LAT=90.00000000 LON=0.00000000 ALT=-6399603.52",
+      "V": "3",
+      "PWR 3V": "3.309524 V, 231.990234 mA",
+      "Callsign": null,
+      "LLA_LAT": 90.0,
+      "LLA_LON": 0.0,
+      "LLA_ALT": -6399603.52,
+      "RATE (raw rad/s)_X": 0.0,
+      "RATE (raw rad/s)_Y": 0.0,
+      "RATE (raw rad/s)_Z": 0.0,
+      "RATE (deg/s)_X": 0.0,
+      "RATE (deg/s)_Y": 0.0,
+      "RATE (deg/s)_Z": 0.0,
+      "PWR 5V (V)": 5.080586,
+      "PWR 5V (mA)": 9.157509,
+      "PWR 3V (V)": NaN,
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
+    },
+    {
+      "來源ID": 13869895,
+      "網站時間(UTC)": "2026-04-21 12:57:14",
+      "封包時間(UTC)": "2026-04-21 13:02:17",
+      "MODE": 1,
+      "HERR": 0,
+      "SERR": 0,
+      "WDT": 0,
+      "UV": 0,
+      "OC": 0,
+      "OT": 0,
+      "GNSS": 0,
+      "ADV": 1,
+      "TLE": 0,
+      "DES": 0,
+      "SUN": 1,
+      "TGL": 0,
+      "TUMB": 0,
+      "AME": 0,
+      "CUSSV": 0,
+      "EKF": 0,
+      "ACT_ERR_CMG": 0,
+      "ACT_ERR_MTQ": 0,
+      "ACT_ERR_RAW": 0,
+      "SEN_ERR_FSS": 0,
+      "SEN_ERR_MAG": 0,
+      "SEN_ERR_IMU": 0,
+      "SEN_ERR_STR": 0,
+      "CSS_ERR": 0,
+      "Q": "[1.00000000, 0.00000000, 0.00000000, 0.00000000]",
+      "LLA": "LAT=90.00000000 LON=0.00000000 ALT=-6399603.52",
+      "V": "3",
+      "PWR 3V": "3.311355 V, 213.675217 mA",
+      "Callsign": null,
+      "LLA_LAT": 90.0,
+      "LLA_LON": 0.0,
+      "LLA_ALT": -6399603.52,
+      "RATE (raw rad/s)_X": 0.0,
+      "RATE (raw rad/s)_Y": 0.0,
+      "RATE (raw rad/s)_Z": 0.0,
+      "RATE (deg/s)_X": 0.0,
+      "RATE (deg/s)_Y": 0.0,
+      "RATE (deg/s)_Z": 0.0,
+      "PWR 5V (V)": 5.080586,
+      "PWR 5V (mA)": 7.326007,
+      "PWR 3V (V)": NaN,
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13870027,
@@ -8018,7 +8400,9 @@
       "PWR 5V (V)": 5.03663,
       "PWR 5V (mA)": 232.600739,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13866753,
@@ -8066,7 +8450,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 6.715507,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13866403,
@@ -8114,7 +8500,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 6.715507,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13852598,
@@ -8162,7 +8550,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 6.715507,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13862168,
@@ -8210,7 +8600,9 @@
       "PWR 5V (V)": 0.0,
       "PWR 5V (mA)": 0.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13854854,
@@ -8258,7 +8650,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 7.936508,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13861157,
@@ -8306,7 +8700,9 @@
       "PWR 5V (V)": 0.031822,
       "PWR 5V (mA)": 7.325944,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13854624,
@@ -8354,7 +8750,9 @@
       "PWR 5V (V)": 5.03663,
       "PWR 5V (mA)": -12722156.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13848186,
@@ -8402,7 +8800,9 @@
       "PWR 5V (V)": 5.03663,
       "PWR 5V (mA)": 226.495728,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13848186,
@@ -8450,7 +8850,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 7.936508,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13848186,
@@ -8498,7 +8900,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 227.106232,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13848186,
@@ -8546,7 +8950,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 8.547009,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13848186,
@@ -8594,7 +9000,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 230.158737,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13848186,
@@ -8642,7 +9050,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 6.105006,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13848217,
@@ -8690,7 +9100,9 @@
       "PWR 5V (V)": 5.084249,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13848236,
@@ -8738,7 +9150,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 8.547009,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13848259,
@@ -8786,7 +9200,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 8.547009,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13848248,
@@ -8834,7 +9250,9 @@
       "PWR 5V (V)": -0.0,
       "PWR 5V (mA)": -0.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13855647,
@@ -8882,7 +9300,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 8.547009,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13854314,
@@ -8930,7 +9350,9 @@
       "PWR 5V (V)": 5.084249,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13848231,
@@ -8978,7 +9400,9 @@
       "PWR 5V (V)": 5.078755,
       "PWR 5V (mA)": 345972.21875,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13848198,
@@ -9026,7 +9450,9 @@
       "PWR 5V (V)": 5.040293,
       "PWR 5V (mA)": 232.600739,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13848198,
@@ -9074,7 +9500,9 @@
       "PWR 5V (V)": 5.084249,
       "PWR 5V (mA)": 7.936508,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13848241,
@@ -9122,7 +9550,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 6.715507,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13848241,
@@ -9170,7 +9600,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 8.547009,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13849244,
@@ -9218,7 +9650,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 8.547009,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13848220,
@@ -9266,7 +9700,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 8.547009,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13848228,
@@ -9314,7 +9750,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13848207,
@@ -9362,7 +9800,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 231.990234,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13848227,
@@ -9410,7 +9850,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 231.990234,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13848257,
@@ -9458,7 +9900,9 @@
       "PWR 5V (V)": -0.0,
       "PWR 5V (mA)": 0.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13848257,
@@ -9506,7 +9950,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 8.547009,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13850021,
@@ -9554,7 +10000,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13848188,
@@ -9602,7 +10050,9 @@
       "PWR 5V (V)": 5.084249,
       "PWR 5V (mA)": 6.105006,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13848233,
@@ -9650,7 +10100,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 8.547009,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13848205,
@@ -9698,7 +10150,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 7.936508,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13843666,
@@ -9746,7 +10200,9 @@
       "PWR 5V (V)": 5.084249,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13833216,
@@ -9794,7 +10250,9 @@
       "PWR 5V (V)": 5.084249,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13833216,
@@ -9842,7 +10300,9 @@
       "PWR 5V (V)": 5.084249,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13833235,
@@ -9890,7 +10350,9 @@
       "PWR 5V (V)": 5.001832,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13833234,
@@ -9938,7 +10400,9 @@
       "PWR 5V (V)": 0.0,
       "PWR 5V (mA)": 0.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13833217,
@@ -9986,7 +10450,9 @@
       "PWR 5V (V)": 5.084249,
       "PWR 5V (mA)": 9.157509,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13834941,
@@ -10034,7 +10500,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 7.936508,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13834941,
@@ -10082,7 +10550,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 8.547009,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13834941,
@@ -10130,7 +10600,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 8.547009,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13834941,
@@ -10178,7 +10650,9 @@
       "PWR 5V (V)": -0.0,
       "PWR 5V (mA)": -0.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13840357,
@@ -10226,7 +10700,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13840357,
@@ -10274,7 +10750,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 8.547009,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13840357,
@@ -10322,7 +10800,9 @@
       "PWR 5V (V)": 0.0,
       "PWR 5V (mA)": -0.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13840139,
@@ -10370,7 +10850,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 9.157509,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13833189,
@@ -10418,7 +10900,9 @@
       "PWR 5V (V)": 4.712865,
       "PWR 5V (mA)": -0.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13830273,
@@ -10466,7 +10950,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13833213,
@@ -10514,7 +11000,9 @@
       "PWR 5V (V)": 5.03663,
       "PWR 5V (mA)": 230.158737,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13833248,
@@ -10562,7 +11050,9 @@
       "PWR 5V (V)": 5.021978,
       "PWR 5V (mA)": 170.940186,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13833207,
@@ -10610,7 +11100,9 @@
       "PWR 5V (V)": 5.03663,
       "PWR 5V (mA)": 3.663004,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13834293,
@@ -10658,7 +11150,9 @@
       "PWR 5V (V)": 5.084249,
       "PWR 5V (mA)": 7.936508,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13818162,
@@ -10706,7 +11200,9 @@
       "PWR 5V (V)": 5.084249,
       "PWR 5V (mA)": 7.936508,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13817171,
@@ -10754,7 +11250,9 @@
       "PWR 5V (V)": 0.0,
       "PWR 5V (mA)": 0.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13818155,
@@ -10802,7 +11300,9 @@
       "PWR 5V (V)": 5.03663,
       "PWR 5V (mA)": 228.937729,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13817154,
@@ -10850,7 +11350,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 225.885239,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13817154,
@@ -10898,7 +11400,9 @@
       "PWR 5V (V)": 5.054945,
       "PWR 5V (mA)": 142.857147,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13817140,
@@ -10946,7 +11450,9 @@
       "PWR 5V (V)": 4.979854,
       "PWR 5V (mA)": 247.863251,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13817140,
@@ -10994,7 +11500,9 @@
       "PWR 5V (V)": 4.943224,
       "PWR 5V (mA)": 226.495728,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13817150,
@@ -11042,7 +11550,9 @@
       "PWR 5V (V)": 4.979854,
       "PWR 5V (mA)": 247.863251,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13817129,
@@ -11090,7 +11600,9 @@
       "PWR 5V (V)": 5.040293,
       "PWR 5V (mA)": 231.990234,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13817129,
@@ -11138,7 +11650,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 231.37973,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13817161,
@@ -11186,7 +11700,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 236.874237,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13817161,
@@ -11234,7 +11750,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 242.368744,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13817161,
@@ -11282,7 +11800,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 243.589752,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13818139,
@@ -11330,7 +11850,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13817172,
@@ -11378,7 +11900,9 @@
       "PWR 5V (V)": 5.084249,
       "PWR 5V (mA)": 8.547009,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13818142,
@@ -11426,7 +11950,9 @@
       "PWR 5V (V)": 4.985348,
       "PWR 5V (mA)": 1.221001,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13818142,
@@ -11474,7 +12000,9 @@
       "PWR 5V (V)": 4.928572,
       "PWR 5V (mA)": 271.67276,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13813594,
@@ -11522,7 +12050,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 8.469363102224155e+24,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13799825,
@@ -11570,7 +12100,9 @@
       "PWR 5V (V)": 5.084249,
       "PWR 5V (mA)": 8.547009,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13798387,
@@ -11618,7 +12150,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 6.715507,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13798387,
@@ -11666,7 +12200,9 @@
       "PWR 5V (V)": 0.0,
       "PWR 5V (mA)": 0.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13798397,
@@ -11714,7 +12250,9 @@
       "PWR 5V (V)": 193625128435.712,
       "PWR 5V (mA)": 1.0239452859754086e+17,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13798400,
@@ -11762,7 +12300,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 230.769241,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13798402,
@@ -11810,7 +12350,9 @@
       "PWR 5V (V)": 5.087912,
       "PWR 5V (mA)": 0.610501,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13799842,
@@ -11858,7 +12400,9 @@
       "PWR 5V (V)": -0.0,
       "PWR 5V (mA)": -0.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13797078,
@@ -11906,7 +12450,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 8.547009,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13798386,
@@ -11954,7 +12500,9 @@
       "PWR 5V (V)": 5.018315,
       "PWR 5V (mA)": 81.807083,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13798386,
@@ -12002,7 +12550,9 @@
       "PWR 5V (V)": 5.045788,
       "PWR 5V (mA)": 14.652015,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13798386,
@@ -12050,7 +12600,9 @@
       "PWR 5V (V)": 0.0,
       "PWR 5V (mA)": 0.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13799478,
@@ -12098,7 +12650,9 @@
       "PWR 5V (V)": -0.0,
       "PWR 5V (mA)": 136.868011,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13799468,
@@ -12146,7 +12700,9 @@
       "PWR 5V (V)": 5.084249,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13799038,
@@ -12194,7 +12750,9 @@
       "PWR 5V (V)": 5.084249,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13799038,
@@ -12242,7 +12800,9 @@
       "PWR 5V (V)": 195307.2,
       "PWR 5V (mA)": 216443305984.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13799482,
@@ -12290,7 +12850,9 @@
       "PWR 5V (V)": 5.084249,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13797771,
@@ -12338,7 +12900,9 @@
       "PWR 5V (V)": 5.084249,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13798385,
@@ -12386,7 +12950,9 @@
       "PWR 5V (V)": 0.0,
       "PWR 5V (mA)": -0.002846,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13793401,
@@ -12434,7 +13000,9 @@
       "PWR 5V (V)": 4.974359,
       "PWR 5V (mA)": 4.273504,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13799470,
@@ -12482,7 +13050,9 @@
       "PWR 5V (V)": 5.032895,
       "PWR 5V (mA)": -1404.593506,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13799470,
@@ -12530,7 +13100,9 @@
       "PWR 5V (V)": -253355393.024,
       "PWR 5V (mA)": -34374168870912.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13797077,
@@ -12578,7 +13150,9 @@
       "PWR 5V (V)": 4.974359,
       "PWR 5V (mA)": 4.273504,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13792353,
@@ -12626,7 +13200,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 222.832733,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13791951,
@@ -12674,7 +13250,9 @@
       "PWR 5V (V)": 5.084249,
       "PWR 5V (mA)": 7.936508,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13797079,
@@ -12722,7 +13300,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 9.157509,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13799041,
@@ -12770,7 +13350,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 236.874237,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13800102,
@@ -12818,7 +13400,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 227.716736,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13800102,
@@ -12866,7 +13450,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 228.32724,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13802401,
@@ -12914,7 +13500,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 233.211243,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13802401,
@@ -12962,7 +13550,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 231.37973,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13797082,
@@ -13010,7 +13600,9 @@
       "PWR 5V (V)": 1.178716,
       "PWR 5V (mA)": 245.421249,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13782533,
@@ -13058,7 +13650,9 @@
       "PWR 5V (V)": -3.721435,
       "PWR 5V (mA)": -0.01333,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13784301,
@@ -13106,7 +13700,9 @@
       "PWR 5V (V)": 2.519231,
       "PWR 5V (mA)": 226.499512,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13781897,
@@ -13154,7 +13750,9 @@
       "PWR 5V (V)": -0.0,
       "PWR 5V (mA)": 7.422475147371643e+27,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13789823,
@@ -13202,7 +13800,9 @@
       "PWR 5V (V)": 5.047619,
       "PWR 5V (mA)": 1.831502,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13784307,
@@ -13250,7 +13850,9 @@
       "PWR 5V (V)": -0.0,
       "PWR 5V (mA)": -0.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13783628,
@@ -13298,7 +13900,9 @@
       "PWR 5V (V)": 0.0,
       "PWR 5V (mA)": 0.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13784298,
@@ -13346,7 +13950,9 @@
       "PWR 5V (V)": 5.084249,
       "PWR 5V (mA)": 9.76801,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13782534,
@@ -13394,7 +14000,9 @@
       "PWR 5V (V)": 5.084249,
       "PWR 5V (mA)": 9.76801,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13782534,
@@ -13442,7 +14050,9 @@
       "PWR 5V (V)": -0.0,
       "PWR 5V (mA)": -0.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13783622,
@@ -13490,7 +14100,9 @@
       "PWR 5V (V)": 5.084249,
       "PWR 5V (mA)": 9.76801,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13781913,
@@ -13538,7 +14150,9 @@
       "PWR 5V (V)": 5.084249,
       "PWR 5V (mA)": 9.76801,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13783142,
@@ -13586,7 +14200,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13783993,
@@ -13634,7 +14250,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 231.37973,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13791343,
@@ -13682,7 +14300,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 9.157509,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13782522,
@@ -13730,7 +14350,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 231.37973,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13782535,
@@ -13778,7 +14400,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 232.600739,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13783145,
@@ -13826,7 +14450,9 @@
       "PWR 5V (V)": 5.086081,
       "PWR 5V (mA)": 9.76801,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13783997,
@@ -13874,7 +14500,9 @@
       "PWR 5V (V)": 5.086081,
       "PWR 5V (mA)": 9.76801,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13783156,
@@ -13922,7 +14550,9 @@
       "PWR 5V (V)": -0.0,
       "PWR 5V (mA)": 9.800193,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13783144,
@@ -13970,7 +14600,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13783631,
@@ -14018,7 +14650,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 232.600739,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13783631,
@@ -14066,7 +14700,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 6.715507,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13783631,
@@ -14114,7 +14750,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 233.821732,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13783631,
@@ -14162,7 +14800,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 9.76801,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13783630,
@@ -14210,7 +14850,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 233.821732,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13783630,
@@ -14258,7 +14900,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 9.76801,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13783630,
@@ -14306,7 +14950,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 230.769241,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13783630,
@@ -14354,7 +15000,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 6.715507,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13783630,
@@ -14402,7 +15050,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 232.600739,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13775281,
@@ -14450,7 +15100,9 @@
       "PWR 5V (V)": 0.0,
       "PWR 5V (mA)": -0.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13775281,
@@ -14498,7 +15150,9 @@
       "PWR 5V (V)": 4.956044,
       "PWR 5V (mA)": 180.097687,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13774453,
@@ -14546,7 +15200,9 @@
       "PWR 5V (V)": -0.0,
       "PWR 5V (mA)": 0.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13785662,
@@ -14594,7 +15250,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 227.716736,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13785825,
@@ -14642,7 +15300,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 227.716736,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13767089,
@@ -14690,7 +15350,9 @@
       "PWR 5V (V)": 5.084249,
       "PWR 5V (mA)": 9.157509,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13767543,
@@ -14738,7 +15400,9 @@
       "PWR 5V (V)": 5.086081,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13767543,
@@ -14786,7 +15450,9 @@
       "PWR 5V (V)": 5.086081,
       "PWR 5V (mA)": 6.715507,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13766533,
@@ -14834,7 +15500,9 @@
       "PWR 5V (V)": -0.0,
       "PWR 5V (mA)": -0.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13766539,
@@ -14882,7 +15550,9 @@
       "PWR 5V (V)": 5.03663,
       "PWR 5V (mA)": 242.368744,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13767082,
@@ -14930,7 +15600,9 @@
       "PWR 5V (V)": 5.03663,
       "PWR 5V (mA)": 242.368744,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13767082,
@@ -14978,7 +15650,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 6.715507,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13770045,
@@ -15026,7 +15700,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 7.936508,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13767544,
@@ -15074,7 +15750,9 @@
       "PWR 5V (V)": 0.0,
       "PWR 5V (mA)": -0.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13767544,
@@ -15122,7 +15800,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 228.937729,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13767890,
@@ -15170,7 +15850,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13767890,
@@ -15218,7 +15900,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 235.04274,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13767083,
@@ -15266,7 +15950,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 235.04274,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13766525,
@@ -15314,7 +16000,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 230.158737,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13761150,
@@ -15362,7 +16050,9 @@
       "PWR 5V (V)": 5.047619,
       "PWR 5V (mA)": 1.831502,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13766541,
@@ -15410,7 +16100,9 @@
       "PWR 5V (V)": 5.053114,
       "PWR 5V (mA)": 18.315018,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13767092,
@@ -15458,7 +16150,9 @@
       "PWR 5V (V)": 5.029304,
       "PWR 5V (mA)": 2.442003,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13767092,
@@ -15506,7 +16200,9 @@
       "PWR 5V (V)": 5.009158,
       "PWR 5V (mA)": 247.252747,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13766530,
@@ -15554,7 +16250,9 @@
       "PWR 5V (V)": 5.042125,
       "PWR 5V (mA)": 239.316238,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13750051,
@@ -15602,7 +16300,9 @@
       "PWR 5V (V)": 5.040293,
       "PWR 5V (mA)": 231.37973,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13749563,
@@ -15650,7 +16350,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 229.548233,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13750036,
@@ -15698,7 +16400,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 229.548233,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13750038,
@@ -15746,7 +16450,9 @@
       "PWR 5V (V)": 2.137870353955564e+17,
       "PWR 5V (mA)": 174458032.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13748849,
@@ -15794,7 +16500,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 225.885239,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13748849,
@@ -15842,7 +16550,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 226.495728,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13748849,
@@ -15890,7 +16600,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 224.66423,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13748850,
@@ -15938,7 +16650,9 @@
       "PWR 5V (V)": 5.040293,
       "PWR 5V (mA)": 236.874237,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13748861,
@@ -15986,7 +16700,9 @@
       "PWR 5V (V)": 5.086081,
       "PWR 5V (mA)": 7.936508,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13748868,
@@ -16034,7 +16750,9 @@
       "PWR 5V (V)": 5.086081,
       "PWR 5V (mA)": 7.936508,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13748856,
@@ -16082,7 +16800,9 @@
       "PWR 5V (V)": 5.086081,
       "PWR 5V (mA)": 7.936508,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13748856,
@@ -16130,7 +16850,9 @@
       "PWR 5V (V)": 0.0,
       "PWR 5V (mA)": 463.70816,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13748856,
@@ -16178,7 +16900,9 @@
       "PWR 5V (V)": 5.086081,
       "PWR 5V (mA)": 7.936508,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13748713,
@@ -16226,7 +16950,9 @@
       "PWR 5V (V)": 5.086081,
       "PWR 5V (mA)": 7.936508,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13748853,
@@ -16274,7 +17000,9 @@
       "PWR 5V (V)": 5.086081,
       "PWR 5V (mA)": 7.936508,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13749562,
@@ -16322,7 +17050,9 @@
       "PWR 5V (V)": 5.086081,
       "PWR 5V (mA)": 7.936508,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13748710,
@@ -16370,7 +17100,9 @@
       "PWR 5V (V)": 5.086081,
       "PWR 5V (mA)": 7.936508,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13748866,
@@ -16418,7 +17150,9 @@
       "PWR 5V (V)": 5.086081,
       "PWR 5V (mA)": 7.936508,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13748862,
@@ -16466,7 +17200,9 @@
       "PWR 5V (V)": 5.086081,
       "PWR 5V (mA)": 7.936508,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13748854,
@@ -16514,7 +17250,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 231.37973,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13748718,
@@ -16562,7 +17300,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 234.432236,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13750435,
@@ -16610,7 +17350,9 @@
       "PWR 5V (V)": 0.0,
       "PWR 5V (mA)": 0.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13750438,
@@ -16658,7 +17400,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": -1.9465031368176083e+23,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13753137,
@@ -16706,7 +17450,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 7.936508,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13748717,
@@ -16754,7 +17500,9 @@
       "PWR 5V (V)": 5.021978,
       "PWR 5V (mA)": 220.390732,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13747070,
@@ -16802,7 +17550,9 @@
       "PWR 5V (V)": 5.042125,
       "PWR 5V (mA)": 236.874237,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13745785,
@@ -16850,7 +17600,9 @@
       "PWR 5V (V)": 5.025641,
       "PWR 5V (mA)": 42.735046,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13733178,
@@ -16898,7 +17650,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13733179,
@@ -16946,7 +17700,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 229.548233,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13735264,
@@ -16994,7 +17750,9 @@
       "PWR 5V (V)": 4.906461,
       "PWR 5V (mA)": 861574660096.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13733175,
@@ -17042,7 +17800,9 @@
       "PWR 5V (V)": 5.086081,
       "PWR 5V (mA)": 7.936508,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13735137,
@@ -17090,7 +17850,9 @@
       "PWR 5V (V)": 5.086081,
       "PWR 5V (mA)": 7.936508,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13735181,
@@ -17138,7 +17900,9 @@
       "PWR 5V (V)": 5.086081,
       "PWR 5V (mA)": 7.936508,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13735181,
@@ -17186,7 +17950,9 @@
       "PWR 5V (V)": 0.0,
       "PWR 5V (mA)": 0.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13733174,
@@ -17234,7 +18000,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 9.157509,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13735227,
@@ -17282,7 +18050,9 @@
       "PWR 5V (V)": 5.040293,
       "PWR 5V (mA)": 233.211243,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13735136,
@@ -17330,7 +18100,9 @@
       "PWR 5V (V)": 0.0,
       "PWR 5V (mA)": -0.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13735136,
@@ -17378,7 +18150,9 @@
       "PWR 5V (V)": 5.040293,
       "PWR 5V (mA)": 235.04274,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13735097,
@@ -17426,7 +18200,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 226.495728,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13735303,
@@ -17474,7 +18250,9 @@
       "PWR 5V (V)": 5.043956,
       "PWR 5V (mA)": 145.909653,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13735303,
@@ -17522,7 +18300,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 226.495728,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13726830,
@@ -17570,7 +18350,9 @@
       "PWR 5V (V)": 5.086081,
       "PWR 5V (mA)": 8.547009,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13735265,
@@ -17618,7 +18400,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 9.76801,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13735265,
@@ -17666,7 +18450,9 @@
       "PWR 5V (V)": 5.084249,
       "PWR 5V (mA)": 8.547009,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13735265,
@@ -17714,7 +18500,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13720922,
@@ -17762,7 +18550,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 225.274734,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13720633,
@@ -17810,7 +18600,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 225.885239,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13720634,
@@ -17858,7 +18650,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 227.106232,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13720642,
@@ -17906,7 +18700,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 226.495728,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13720919,
@@ -17954,7 +18750,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 6.715507,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13720916,
@@ -18002,7 +18800,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 6.715507,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13720916,
@@ -18050,7 +18850,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": -1717.1698,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13720640,
@@ -18098,7 +18900,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 6.715507,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13720920,
@@ -18146,7 +18950,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 6.715507,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13720650,
@@ -18194,7 +19000,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 6.715507,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13717858,
@@ -18242,7 +19050,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 6.715507,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13718098,
@@ -18290,7 +19100,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 226.495728,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13718098,
@@ -18338,7 +19150,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 9.157509,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13718098,
@@ -18386,7 +19200,9 @@
       "PWR 5V (V)": -0.0,
       "PWR 5V (mA)": -0.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13720649,
@@ -18434,7 +19250,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 227.106232,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13720638,
@@ -18482,7 +19300,9 @@
       "PWR 5V (V)": 5.084249,
       "PWR 5V (mA)": 0.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13720644,
@@ -18530,7 +19350,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 7.936508,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13720644,
@@ -18578,7 +19400,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 236.874237,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13720644,
@@ -18626,7 +19450,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 230.158737,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13720644,
@@ -18674,7 +19500,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 230.769241,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13720644,
@@ -18722,7 +19550,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 232.600739,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13705683,
@@ -18770,7 +19600,9 @@
       "PWR 5V (V)": 5.054945,
       "PWR 5V (mA)": 144.688644,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700320,
@@ -18818,7 +19650,9 @@
       "PWR 5V (V)": 0.0,
       "PWR 5V (mA)": 0.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700298,
@@ -18866,7 +19700,9 @@
       "PWR 5V (V)": -0.0,
       "PWR 5V (mA)": -0.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700298,
@@ -18914,7 +19750,9 @@
       "PWR 5V (V)": 5.040293,
       "PWR 5V (mA)": 235.04274,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700259,
@@ -18962,7 +19800,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 231.990234,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700259,
@@ -19010,7 +19850,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700271,
@@ -19058,7 +19900,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 231.990234,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700267,
@@ -19106,7 +19950,9 @@
       "PWR 5V (V)": 0.0,
       "PWR 5V (mA)": 0.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700281,
@@ -19154,7 +20000,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 231.37973,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700281,
@@ -19202,7 +20050,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700281,
@@ -19250,7 +20100,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 7.936508,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700281,
@@ -19298,7 +20150,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 7.936508,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700281,
@@ -19346,7 +20200,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 231.990234,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700290,
@@ -19394,7 +20250,9 @@
       "PWR 5V (V)": 5.040293,
       "PWR 5V (mA)": 228.32724,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700290,
@@ -19442,7 +20300,9 @@
       "PWR 5V (V)": 5.038341,
       "PWR 5V (mA)": 0.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700290,
@@ -19490,7 +20350,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700344,
@@ -19538,7 +20400,9 @@
       "PWR 5V (V)": 0.0,
       "PWR 5V (mA)": 0.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700238,
@@ -19586,7 +20450,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13705701,
@@ -19634,7 +20500,9 @@
       "PWR 5V (V)": 1756.660625,
       "PWR 5V (mA)": 230.959991,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700319,
@@ -19682,7 +20550,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700317,
@@ -19730,7 +20600,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 231.990234,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700317,
@@ -19778,7 +20650,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700273,
@@ -19826,7 +20700,9 @@
       "PWR 5V (V)": -0.0,
       "PWR 5V (mA)": -0.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700257,
@@ -19874,7 +20750,9 @@
       "PWR 5V (V)": 0.023688,
       "PWR 5V (mA)": 6311.148438,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700354,
@@ -19922,7 +20800,9 @@
       "PWR 5V (V)": 5.040293,
       "PWR 5V (mA)": 235.04274,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700240,
@@ -19970,7 +20850,9 @@
       "PWR 5V (V)": 5.040293,
       "PWR 5V (mA)": 236.263748,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700218,
@@ -20018,7 +20900,9 @@
       "PWR 5V (V)": 5.042125,
       "PWR 5V (mA)": 233.821732,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700347,
@@ -20066,7 +20950,9 @@
       "PWR 5V (V)": -0.0,
       "PWR 5V (mA)": -0.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700324,
@@ -20114,7 +21000,9 @@
       "PWR 5V (V)": 5.062271,
       "PWR 5V (mA)": 148.351654,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700324,
@@ -20162,7 +21050,9 @@
       "PWR 5V (V)": 5.040293,
       "PWR 5V (mA)": 235.04274,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700214,
@@ -20210,7 +21100,9 @@
       "PWR 5V (V)": 5.087912,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700258,
@@ -20258,7 +21150,9 @@
       "PWR 5V (V)": 0.0,
       "PWR 5V (mA)": 0.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700258,
@@ -20306,7 +21200,9 @@
       "PWR 5V (V)": 5.087912,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700270,
@@ -20354,7 +21250,9 @@
       "PWR 5V (V)": 5.087912,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700237,
@@ -20402,7 +21300,9 @@
       "PWR 5V (V)": 5.087912,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700363,
@@ -20450,7 +21350,9 @@
       "PWR 5V (V)": 5.087912,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700280,
@@ -20498,7 +21400,9 @@
       "PWR 5V (V)": 5.087912,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700266,
@@ -20546,7 +21450,9 @@
       "PWR 5V (V)": 5.087912,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700296,
@@ -20594,7 +21500,9 @@
       "PWR 5V (V)": 5.087912,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13703459,
@@ -20642,7 +21550,9 @@
       "PWR 5V (V)": 5.087912,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13703459,
@@ -20690,7 +21600,9 @@
       "PWR 5V (V)": -0.0,
       "PWR 5V (mA)": -0.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700242,
@@ -20738,7 +21650,9 @@
       "PWR 5V (V)": 5.087912,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700275,
@@ -20786,7 +21700,9 @@
       "PWR 5V (V)": 5.087912,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700304,
@@ -20834,7 +21750,9 @@
       "PWR 5V (V)": 5.087912,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700357,
@@ -20882,7 +21800,9 @@
       "PWR 5V (V)": 5.087912,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700234,
@@ -20930,7 +21850,9 @@
       "PWR 5V (V)": 5.084185,
       "PWR 5V (mA)": 2.2809876356644768e+25,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700269,
@@ -20978,7 +21900,9 @@
       "PWR 5V (V)": 5.038492,
       "PWR 5V (mA)": 225.274734,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700265,
@@ -21026,7 +21950,9 @@
       "PWR 5V (V)": -0.0,
       "PWR 5V (mA)": -0.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700333,
@@ -21074,7 +22000,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 227.106232,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13705715,
@@ -21122,7 +22050,9 @@
       "PWR 5V (V)": 0.0,
       "PWR 5V (mA)": 0.0,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700356,
@@ -21170,7 +22100,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700276,
@@ -21218,7 +22150,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 7.326007,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13704062,
@@ -21266,7 +22200,9 @@
       "PWR 5V (V)": 4.983517,
       "PWR 5V (mA)": 2.442003,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13703829,
@@ -21314,7 +22250,9 @@
       "PWR 5V (V)": 4.983517,
       "PWR 5V (mA)": 2.442003,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13704071,
@@ -21362,7 +22300,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 7.936508,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700236,
@@ -21410,7 +22350,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 8.547009,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700264,
@@ -21458,7 +22400,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 8.547009,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700264,
@@ -21506,7 +22450,9 @@
       "PWR 5V (V)": 5.03663,
       "PWR 5V (mA)": 234.432236,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700332,
@@ -21554,7 +22500,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 8.547009,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700332,
@@ -21602,7 +22550,9 @@
       "PWR 5V (V)": 5.03663,
       "PWR 5V (mA)": 234.432236,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13703828,
@@ -21650,7 +22600,9 @@
       "PWR 5V (V)": 5.082418,
       "PWR 5V (mA)": 7.936508,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13703828,
@@ -21698,7 +22650,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 8.547009,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13703828,
@@ -21746,7 +22700,9 @@
       "PWR 5V (V)": 5.03663,
       "PWR 5V (mA)": 234.432236,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13703828,
@@ -21794,7 +22750,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 230.769241,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13700274,
@@ -21842,7 +22800,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 232.600739,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13695399,
@@ -21890,7 +22850,9 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 230.769241,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13695404,
@@ -21938,7 +22900,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 7.936508,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13695404,
@@ -21986,7 +22950,9 @@
       "PWR 5V (V)": 5.080586,
       "PWR 5V (mA)": 7.936508,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     },
     {
       "來源ID": 13695404,
@@ -22034,10 +23000,12 @@
       "PWR 5V (V)": 5.038462,
       "PWR 5V (mA)": 228.937729,
       "PWR 3V (V)": NaN,
-      "PWR 3V (mA)": NaN
+      "PWR 3V (mA)": NaN,
+      "LLA_LAT (e+19)": NaN,
+      "LLA_LON (e+24)": NaN
     }
   ],
   "key": "ADCS_1_Beacon",
   "label": "ADCS 1 Beacon",
-  "sourceCsv": "ADCS_1_Beacon_20260507_2341.csv"
+  "sourceCsv": "ADCS_1_Beacon_20260508_0120.csv"
 }
