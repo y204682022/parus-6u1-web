@@ -1,5 +1,5 @@
 {
-  "rows": 320,
+  "rows": 321,
   "columns": [
     "來源ID",
     "網站時間(UTC)",
@@ -39,12 +39,63 @@
     "MAG_Z (e+19)",
     "ATT_ERROR_Z (e-06)",
     "MAG",
-    "MAG_Y (e+33)"
+    "MAG_Y (e+33)",
+    "ATT_ERR_RATE (raw rad/s)_Z (e+27)",
+    "ATT_ERR_RATE (deg/s)_Z (e+29)",
+    "MAG_X (e+27)",
+    "MAG_Y (e+28)",
+    "MAG_Z (e+36)"
   ],
   "timeColumn": "網站時間(UTC)",
   "startTime": "2026-03-31 02:45:12",
-  "endTime": "2026-05-08 13:27:04",
+  "endTime": "2026-05-08 19:43:19",
   "previewRows": [
+    {
+      "來源ID": 14008286,
+      "網站時間(UTC)": "2026-05-08 19:43:19",
+      "CMG_TMP_0": "Top=12.7258 °C, Bottom=12.6389 °C",
+      "CMG_TMP_1": "Top=12.2360 °C, Bottom=14.2593 °C",
+      "CMG_TMP_2": "Top=19.9356 °C, Bottom=22.3526 °C",
+      "CMG_TMP_3": "Top=3.5980 °C, Bottom=3.5889 °C",
+      "SV": "[nan, 31378769959488208856833589248.00000000, 4030765477513768980185088.00000000]",
+      "Callsign": NaN,
+      "ATT_ERROR_X": -0.0,
+      "ATT_ERROR_Y": -0.05066231,
+      "ATT_ERROR_Z": 0.29723516,
+      "ATT_ERR_RATE (raw rad/s)_X": -0.01875738,
+      "ATT_ERR_RATE (raw rad/s)_Y": -0.03461103,
+      "ATT_ERR_RATE (raw rad/s)_Z": NaN,
+      "ATT_ERR_RATE (deg/s)_X": -1.0747,
+      "ATT_ERR_RATE (deg/s)_Y": -1.9831,
+      "ATT_ERR_RATE (deg/s)_Z": NaN,
+      "MAG_X": NaN,
+      "MAG_Y": NaN,
+      "MAG_Z": NaN,
+      "ADCS_TMP (°C)": 54.4144,
+      "FSS_TMP_0 (°C)": 56.5,
+      "FSS_TMP_1 (°C)": 166.0312,
+      "FSS_TMP_2 (°C)": 38.0625,
+      "FSS_TMP_3 (°C)": 36.0625,
+      "FSS_TMP_4 (°C)": 182.5938,
+      "FSS_TMP_5 (°C)": 158.5312,
+      "SV_X": NaN,
+      "SV_Y": NaN,
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN,
+      "ATT_ERROR_Z (e+25)": NaN,
+      "SV_X (e+34)": NaN,
+      "SV_Y (e-07)": NaN,
+      "MAG_Z (e+19)": NaN,
+      "ATT_ERROR_Z (e-06)": NaN,
+      "MAG": null,
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": -3.838060562506053,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": -2.199046717472035,
+      "MAG_X (e+27)": -2.804940182907316,
+      "MAG_Y (e+28)": -3.992357571168648,
+      "MAG_Z (e+36)": -2.990844753979776
+    },
     {
       "來源ID": 14008311,
       "網站時間(UTC)": "2026-05-08 13:27:04",
@@ -84,7 +135,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 14008334,
@@ -125,7 +181,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 14008290,
@@ -166,7 +227,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 14008337,
@@ -207,7 +273,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 14008305,
@@ -248,7 +319,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 14008295,
@@ -289,7 +365,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 14008328,
@@ -330,7 +411,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 14011913,
@@ -371,7 +457,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 14011493,
@@ -412,7 +503,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13988253,
@@ -453,7 +549,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": 2.033372221828005
+      "MAG_Y (e+33)": 2.033372221828005,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 14003175,
@@ -494,7 +595,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": "[-72198331526283264.00000000, nan, inf]",
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 14002885,
@@ -535,7 +641,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": "[-inf, -inf, -inf]",
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 14002885,
@@ -576,7 +687,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": "[inf, -inf, inf]",
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13988282,
@@ -617,7 +733,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": "[inf, inf, -inf]",
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13988278,
@@ -658,7 +779,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": -7.01,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13988296,
@@ -699,7 +825,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13988256,
@@ -740,7 +871,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13988292,
@@ -781,7 +917,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13996803,
@@ -822,7 +963,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13988246,
@@ -863,7 +1009,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13996768,
@@ -904,7 +1055,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13988241,
@@ -945,7 +1101,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13988265,
@@ -986,7 +1147,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13988283,
@@ -1027,7 +1193,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13993660,
@@ -1068,7 +1239,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13988243,
@@ -1109,7 +1285,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13988245,
@@ -1150,7 +1331,12 @@
       "MAG_Z (e+19)": 1.7654812027710864,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13992727,
@@ -1191,7 +1377,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13988269,
@@ -1232,7 +1423,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13971197,
@@ -1273,7 +1469,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13971197,
@@ -1314,7 +1515,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13983251,
@@ -1355,7 +1561,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13983103,
@@ -1396,7 +1607,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13971208,
@@ -1437,7 +1653,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13971164,
@@ -1478,7 +1699,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13971153,
@@ -1519,7 +1745,58 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
+    },
+    {
+      "來源ID": 13971156,
+      "網站時間(UTC)": "2026-05-04 07:53:30",
+      "CMG_TMP_0": "Top=13.5956 °C, Bottom=14.0991 °C",
+      "CMG_TMP_1": "Top=14.2960 °C, Bottom=14.5981 °C",
+      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
+      "SV": "[0.00000000, 0.00000000, 0.00000000]",
+      "Callsign": NaN,
+      "ATT_ERROR_X": -0.0,
+      "ATT_ERROR_Y": 0.27628821,
+      "ATT_ERROR_Z": -0.081662,
+      "ATT_ERR_RATE (raw rad/s)_X": -0.03668211,
+      "ATT_ERR_RATE (raw rad/s)_Y": 0.03876539,
+      "ATT_ERR_RATE (raw rad/s)_Z": 0.04941585,
+      "ATT_ERR_RATE (deg/s)_X": -2.1017,
+      "ATT_ERR_RATE (deg/s)_Y": 2.2211,
+      "ATT_ERR_RATE (deg/s)_Z": 2.8313,
+      "MAG_X": 27.34558105,
+      "MAG_Y": -13.91784668,
+      "MAG_Z": -9.7277832,
+      "ADCS_TMP (°C)": 6.9992,
+      "FSS_TMP_0 (°C)": 5.0,
+      "FSS_TMP_1 (°C)": 6.0,
+      "FSS_TMP_2 (°C)": 9.0,
+      "FSS_TMP_3 (°C)": 7.0,
+      "FSS_TMP_4 (°C)": 8.0,
+      "FSS_TMP_5 (°C)": -15.0,
+      "SV_X": NaN,
+      "SV_Y": NaN,
+      "SV_Z": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN,
+      "ATT_ERROR_Z (e+25)": NaN,
+      "SV_X (e+34)": NaN,
+      "SV_Y (e-07)": NaN,
+      "MAG_Z (e+19)": NaN,
+      "ATT_ERROR_Z (e-06)": NaN,
+      "MAG": null,
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13971156,
@@ -1560,48 +1837,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
-    },
-    {
-      "來源ID": 13971156,
-      "網站時間(UTC)": "2026-05-04 07:53:30",
-      "CMG_TMP_0": "Top=13.5956 °C, Bottom=14.0991 °C",
-      "CMG_TMP_1": "Top=14.2960 °C, Bottom=14.5981 °C",
-      "CMG_TMP_2": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "CMG_TMP_3": "Top=0.0000 °C, Bottom=0.0000 °C",
-      "SV": "[0.00000000, 0.00000000, 0.00000000]",
-      "Callsign": NaN,
-      "ATT_ERROR_X": -0.0,
-      "ATT_ERROR_Y": 0.27628821,
-      "ATT_ERROR_Z": -0.081662,
-      "ATT_ERR_RATE (raw rad/s)_X": -0.03668211,
-      "ATT_ERR_RATE (raw rad/s)_Y": 0.03876539,
-      "ATT_ERR_RATE (raw rad/s)_Z": 0.04941585,
-      "ATT_ERR_RATE (deg/s)_X": -2.1017,
-      "ATT_ERR_RATE (deg/s)_Y": 2.2211,
-      "ATT_ERR_RATE (deg/s)_Z": 2.8313,
-      "MAG_X": 27.34558105,
-      "MAG_Y": -13.91784668,
-      "MAG_Z": -9.7277832,
-      "ADCS_TMP (°C)": 6.9992,
-      "FSS_TMP_0 (°C)": 5.0,
-      "FSS_TMP_1 (°C)": 6.0,
-      "FSS_TMP_2 (°C)": 9.0,
-      "FSS_TMP_3 (°C)": 7.0,
-      "FSS_TMP_4 (°C)": 8.0,
-      "FSS_TMP_5 (°C)": -15.0,
-      "SV_X": NaN,
-      "SV_Y": NaN,
-      "SV_Z": NaN,
-      "ATT_ERR_RATE (raw rad/s)_Z (e+25)": NaN,
-      "ATT_ERR_RATE (deg/s)_Z (e+27)": NaN,
-      "ATT_ERROR_Z (e+25)": NaN,
-      "SV_X (e+34)": NaN,
-      "SV_Y (e-07)": NaN,
-      "MAG_Z (e+19)": NaN,
-      "ATT_ERROR_Z (e-06)": NaN,
-      "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13971215,
@@ -1642,7 +1883,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13971174,
@@ -1683,7 +1929,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13971177,
@@ -1724,7 +1975,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13971177,
@@ -1765,7 +2021,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13960538,
@@ -1806,7 +2067,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13960538,
@@ -1847,7 +2113,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13939483,
@@ -1888,7 +2159,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13939511,
@@ -1929,7 +2205,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13939506,
@@ -1970,7 +2251,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13939478,
@@ -2011,7 +2297,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13939495,
@@ -2052,7 +2343,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13939469,
@@ -2093,7 +2389,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13936614,
@@ -2134,7 +2435,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13936614,
@@ -2175,7 +2481,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13914402,
@@ -2216,7 +2527,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13917243,
@@ -2257,7 +2573,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13917229,
@@ -2298,7 +2619,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13917224,
@@ -2339,7 +2665,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13914414,
@@ -2380,7 +2711,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13914376,
@@ -2421,7 +2757,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13914359,
@@ -2462,7 +2803,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13914359,
@@ -2503,7 +2849,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13908431,
@@ -2544,7 +2895,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13914389,
@@ -2585,7 +2941,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13917178,
@@ -2626,7 +2987,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13917178,
@@ -2667,7 +3033,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13917169,
@@ -2708,7 +3079,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13914405,
@@ -2749,7 +3125,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13914405,
@@ -2790,7 +3171,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13917231,
@@ -2831,7 +3217,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13917193,
@@ -2872,7 +3263,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13917193,
@@ -2913,7 +3309,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13917193,
@@ -2954,7 +3355,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13917195,
@@ -2995,7 +3401,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13917219,
@@ -3036,7 +3447,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13917200,
@@ -3077,7 +3493,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13917200,
@@ -3118,7 +3539,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13914369,
@@ -3159,7 +3585,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13911476,
@@ -3200,7 +3631,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13895518,
@@ -3241,7 +3677,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13898671,
@@ -3282,7 +3723,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13898649,
@@ -3323,7 +3769,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13901783,
@@ -3364,7 +3815,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13898620,
@@ -3405,7 +3861,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13898611,
@@ -3446,7 +3907,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13898611,
@@ -3487,7 +3953,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13898611,
@@ -3528,7 +3999,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13901742,
@@ -3569,7 +4045,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13898599,
@@ -3610,7 +4091,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13898630,
@@ -3651,7 +4137,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13898630,
@@ -3692,7 +4183,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13888519,
@@ -3733,7 +4229,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13895556,
@@ -3774,7 +4275,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13895257,
@@ -3815,7 +4321,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13895257,
@@ -3856,7 +4367,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13891558,
@@ -3897,7 +4413,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13878444,
@@ -3938,7 +4459,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13874781,
@@ -3979,7 +4505,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13874793,
@@ -4020,7 +4551,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13874793,
@@ -4061,7 +4597,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13874817,
@@ -4102,7 +4643,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13874796,
@@ -4143,7 +4689,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13874762,
@@ -4184,7 +4735,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13874762,
@@ -4225,7 +4781,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13874762,
@@ -4266,7 +4827,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13874810,
@@ -4307,7 +4873,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13874810,
@@ -4348,7 +4919,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13884176,
@@ -4389,7 +4965,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13874800,
@@ -4430,7 +5011,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13880095,
@@ -4471,7 +5057,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13874766,
@@ -4512,7 +5103,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13874822,
@@ -4553,7 +5149,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13874822,
@@ -4594,7 +5195,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13874790,
@@ -4635,7 +5241,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13874783,
@@ -4676,7 +5287,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13874783,
@@ -4717,7 +5333,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13874783,
@@ -4758,7 +5379,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13874767,
@@ -4799,7 +5425,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13874767,
@@ -4840,7 +5471,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13874787,
@@ -4881,7 +5517,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13876652,
@@ -4922,7 +5563,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13876652,
@@ -4963,7 +5609,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13875300,
@@ -5004,7 +5655,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13875300,
@@ -5045,7 +5701,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13865002,
@@ -5086,7 +5747,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13869895,
@@ -5127,7 +5793,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13869895,
@@ -5168,7 +5839,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13866753,
@@ -5209,7 +5885,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13862168,
@@ -5250,7 +5931,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13862168,
@@ -5291,7 +5977,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13854854,
@@ -5332,7 +6023,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13848186,
@@ -5373,7 +6069,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13848186,
@@ -5414,7 +6115,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13848186,
@@ -5455,7 +6161,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13848204,
@@ -5496,7 +6207,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13848204,
@@ -5537,7 +6253,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13848199,
@@ -5578,7 +6299,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13848259,
@@ -5619,7 +6345,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13848226,
@@ -5660,7 +6391,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13848231,
@@ -5701,7 +6437,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13848241,
@@ -5742,7 +6483,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13848241,
@@ -5783,7 +6529,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13848241,
@@ -5824,7 +6575,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13848241,
@@ -5865,7 +6621,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13848251,
@@ -5906,7 +6667,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13848207,
@@ -5947,7 +6713,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13848257,
@@ -5988,7 +6759,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13848188,
@@ -6029,7 +6805,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13848233,
@@ -6070,7 +6851,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13827931,
@@ -6111,7 +6897,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13833223,
@@ -6152,7 +6943,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13840161,
@@ -6193,7 +6989,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13840161,
@@ -6234,7 +7035,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13840139,
@@ -6275,7 +7081,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13840139,
@@ -6316,7 +7127,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13840139,
@@ -6357,7 +7173,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13833215,
@@ -6398,7 +7219,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13833213,
@@ -6439,7 +7265,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13833196,
@@ -6480,7 +7311,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13818162,
@@ -6521,7 +7357,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13818150,
@@ -6562,7 +7403,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13817171,
@@ -6603,7 +7449,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13817130,
@@ -6644,7 +7495,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13817130,
@@ -6685,7 +7541,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13817176,
@@ -6726,7 +7587,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13818160,
@@ -6767,7 +7633,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13817140,
@@ -6808,7 +7679,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13817150,
@@ -6849,7 +7725,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13817161,
@@ -6890,7 +7771,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13817161,
@@ -6931,7 +7817,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13814758,
@@ -6972,7 +7863,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13818139,
@@ -7013,7 +7909,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13817159,
@@ -7054,7 +7955,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13817179,
@@ -7095,7 +8001,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13798391,
@@ -7136,7 +8047,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13798387,
@@ -7177,7 +8093,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13797095,
@@ -7218,7 +8139,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13799475,
@@ -7259,7 +8185,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13799475,
@@ -7300,7 +8231,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13799842,
@@ -7341,7 +8277,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13798386,
@@ -7382,7 +8323,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13798401,
@@ -7423,7 +8369,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13800106,
@@ -7464,7 +8415,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13799038,
@@ -7505,7 +8461,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13799829,
@@ -7546,7 +8507,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13799482,
@@ -7587,7 +8553,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13797771,
@@ -7628,7 +8599,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13799470,
@@ -7669,7 +8645,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13797784,
@@ -7710,7 +8691,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13799041,
@@ -7751,7 +8737,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13799041,
@@ -7792,7 +8783,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13797785,
@@ -7833,7 +8829,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13799039,
@@ -7874,7 +8875,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13799039,
@@ -7915,7 +8921,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13802401,
@@ -7956,7 +8967,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13802401,
@@ -7997,7 +9013,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13802401,
@@ -8038,7 +9059,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13782533,
@@ -8079,7 +9105,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13784298,
@@ -8120,7 +9151,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13794780,
@@ -8161,7 +9197,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13783140,
@@ -8202,7 +9243,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13782523,
@@ -8243,7 +9289,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13791343,
@@ -8284,7 +9335,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13782522,
@@ -8325,7 +9381,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13782522,
@@ -8366,7 +9427,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13782522,
@@ -8407,7 +9473,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13783146,
@@ -8448,7 +9519,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13783618,
@@ -8489,7 +9565,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13781900,
@@ -8530,7 +9611,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13783986,
@@ -8571,7 +9657,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13783999,
@@ -8612,7 +9703,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13779502,
@@ -8653,7 +9749,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13783155,
@@ -8694,7 +9795,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13783631,
@@ -8735,7 +9841,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13783631,
@@ -8776,7 +9887,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13783631,
@@ -8817,7 +9933,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13783630,
@@ -8858,7 +9979,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13783630,
@@ -8899,7 +10025,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13774453,
@@ -8940,7 +10071,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13783619,
@@ -8981,7 +10117,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13783624,
@@ -9022,7 +10163,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13766537,
@@ -9063,7 +10209,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13767082,
@@ -9104,7 +10255,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13767085,
@@ -9145,7 +10301,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13766535,
@@ -9186,7 +10347,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13767542,
@@ -9227,7 +10393,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13767890,
@@ -9268,7 +10439,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13766526,
@@ -9309,7 +10485,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13767553,
@@ -9350,7 +10531,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13766541,
@@ -9391,7 +10577,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13748849,
@@ -9432,7 +10623,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13748849,
@@ -9473,7 +10669,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13750439,
@@ -9514,7 +10715,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13748861,
@@ -9555,7 +10761,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13748856,
@@ -9596,7 +10807,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13748713,
@@ -9637,7 +10853,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13748710,
@@ -9678,7 +10899,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13748862,
@@ -9719,7 +10945,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13748859,
@@ -9760,7 +10991,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13748859,
@@ -9801,7 +11037,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13748712,
@@ -9842,7 +11083,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13748718,
@@ -9883,7 +11129,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13748718,
@@ -9924,7 +11175,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13750426,
@@ -9965,7 +11221,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13750438,
@@ -10006,7 +11267,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13750438,
@@ -10047,7 +11313,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13750046,
@@ -10088,7 +11359,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13750440,
@@ -10129,7 +11405,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13748717,
@@ -10170,7 +11451,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13746713,
@@ -10211,7 +11497,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13745809,
@@ -10252,7 +11543,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13735223,
@@ -10293,7 +11589,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13733179,
@@ -10334,7 +11635,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13733175,
@@ -10375,7 +11681,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13735227,
@@ -10416,7 +11727,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13735227,
@@ -10457,7 +11773,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13735305,
@@ -10498,7 +11819,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13735305,
@@ -10539,7 +11865,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13735305,
@@ -10580,7 +11911,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13733201,
@@ -10621,7 +11957,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13733196,
@@ -10662,7 +12003,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13733194,
@@ -10703,7 +12049,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13733200,
@@ -10744,7 +12095,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13720625,
@@ -10785,7 +12141,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13720922,
@@ -10826,7 +12187,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13720893,
@@ -10867,7 +12233,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13720633,
@@ -10908,7 +12279,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13720633,
@@ -10949,7 +12325,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13720642,
@@ -10990,7 +12371,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13720905,
@@ -11031,7 +12417,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13720631,
@@ -11072,7 +12463,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13720650,
@@ -11113,7 +12509,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13717858,
@@ -11154,7 +12555,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13720914,
@@ -11195,7 +12601,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13720639,
@@ -11236,7 +12647,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13718098,
@@ -11277,7 +12693,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13718098,
@@ -11318,7 +12739,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13718098,
@@ -11359,7 +12785,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13720649,
@@ -11400,7 +12831,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13720647,
@@ -11441,7 +12877,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13700259,
@@ -11482,7 +12923,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13700271,
@@ -11523,7 +12969,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13700271,
@@ -11564,7 +13015,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13700267,
@@ -11605,7 +13061,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13700267,
@@ -11646,7 +13107,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13700281,
@@ -11687,7 +13153,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13700290,
@@ -11728,7 +13199,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13700238,
@@ -11769,7 +13245,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13700317,
@@ -11810,7 +13291,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13700243,
@@ -11851,7 +13337,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13700313,
@@ -11892,7 +13383,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13700313,
@@ -11933,7 +13429,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13700273,
@@ -11974,7 +13475,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13700257,
@@ -12015,7 +13521,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13700349,
@@ -12056,7 +13567,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13700218,
@@ -12097,7 +13613,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13700324,
@@ -12138,7 +13659,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13700324,
@@ -12179,7 +13705,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13700258,
@@ -12220,7 +13751,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13700270,
@@ -12261,7 +13797,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13700237,
@@ -12302,7 +13843,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13700237,
@@ -12343,7 +13889,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13700280,
@@ -12384,7 +13935,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13700280,
@@ -12425,7 +13981,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13700304,
@@ -12466,7 +14027,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13700357,
@@ -12507,7 +14073,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13700301,
@@ -12548,7 +14119,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13700318,
@@ -12589,7 +14165,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13700256,
@@ -12630,7 +14211,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13700356,
@@ -12671,7 +14257,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13700348,
@@ -12712,7 +14303,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13704071,
@@ -12753,7 +14349,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13700264,
@@ -12794,7 +14395,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13700332,
@@ -12835,7 +14441,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13700294,
@@ -12876,7 +14487,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13700274,
@@ -12917,7 +14533,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13700274,
@@ -12958,7 +14579,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13700274,
@@ -12999,7 +14625,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13700235,
@@ -13040,7 +14671,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13695399,
@@ -13081,7 +14717,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13695404,
@@ -13122,7 +14763,12 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     },
     {
       "來源ID": 13695404,
@@ -13163,10 +14809,15 @@
       "MAG_Z (e+19)": NaN,
       "ATT_ERROR_Z (e-06)": NaN,
       "MAG": null,
-      "MAG_Y (e+33)": NaN
+      "MAG_Y (e+33)": NaN,
+      "ATT_ERR_RATE (raw rad/s)_Z (e+27)": NaN,
+      "ATT_ERR_RATE (deg/s)_Z (e+29)": NaN,
+      "MAG_X (e+27)": NaN,
+      "MAG_Y (e+28)": NaN,
+      "MAG_Z (e+36)": NaN
     }
   ],
   "key": "ADCS_2_Beacon",
   "label": "ADCS 2 Beacon",
-  "sourceCsv": "ADCS_2_Beacon_20260508_2342.csv"
+  "sourceCsv": "ADCS_2_Beacon_20260509_0444.csv"
 }
