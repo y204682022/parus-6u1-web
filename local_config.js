@@ -170,9 +170,9 @@ window.LOCAL_DASHBOARD_CONFIG = {
             "IMU_B (raw rad/s)_X": { yMin: -0.1, yMax: 0.1 },
             "IMU_B (raw rad/s)_Y": { yMin: -0.1, yMax: 0.1 },
             "IMU_B (raw rad/s)_Z": { yMin: -0.1, yMax: 0.1 },
-            "IMU_B (deg/s)_X": { yMin: -1, yMax: 1 },
-            "IMU_B (deg/s)_Y": { yMin: -1, yMax: 1 },
-            "IMU_B (deg/s)_Z": { yMin: -1, yMax: 1 },
+            "IMU_B (deg/s)_X": { yMin: -5, yMax: 5 },
+            "IMU_B (deg/s)_Y": { yMin: -5, yMax: 5 },
+            "IMU_B (deg/s)_Z": { yMin: -5, yMax: 5 },
             "MAG_S_X": { yMin: -100, yMax: 100 },
             "MAG_S_Y": { yMin: -100, yMax: 100 },
             "MAG_S_Z": { yMin: -100, yMax: 100 }
