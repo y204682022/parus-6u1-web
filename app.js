@@ -81,7 +81,17 @@ function formatTaiwanTime(d) {
 function parseOptionalNumber(value) {
     if (value === "" || value === null || value === undefined) return null;
     const n = Number(value);
-    return Number.isFinite(n) ? n : null;
+    if (Number.isFinite(n)) return n;
+
+    const s = String(value).trim();
+    if (!s) return null;
+
+    // Accept values that start with a number and have units, e.g. "1.000000 °/s".
+    const m = s.match(/^[-+]?\d*\.?\d+(?:[eE][-+]?\d+)?/);
+    if (!m) return null;
+
+    const parsed = Number(m[0]);
+    return Number.isFinite(parsed) ? parsed : null;
 }
 
 function parseOptionalDateTime(value) {
@@ -384,7 +394,7 @@ function inferNumericColumns(payload) {
             if (typeof v === "number" && Number.isNaN(v)) continue;
 
             nonNullCount += 1;
-            const n = Number(v);
+            const n = parseOptionalNumber(v);
             if (Number.isFinite(n)) {
                 numericCount += 1;
             }

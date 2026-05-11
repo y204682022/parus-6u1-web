@@ -191,7 +191,7 @@ window.LOCAL_DASHBOARD_CONFIG = {
             "RST_MemFault": { yMin: 0, yMax: 300 },
             "RST_BusFault": { yMin: 0, yMax: 300 },
             "RST_UsageFault": { yMin: 0, yMax: 300 },
-            "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS": { yMin: null, yMax: null },
+            "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS": { yMin: 0, yMax: 2 },
             "Callsign": { yMin: null, yMax: null },
             "LOW_VOLTAGE_SHUTDOWN_ADCS (V)": { yMin: 14, yMax: 16 },
             "LOW_VOLTAGE_OPEN_ADCS (V)": { yMin: 14, yMax: 16 },
