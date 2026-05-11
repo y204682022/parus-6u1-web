@@ -432,6 +432,17 @@ function pickCategoryMetric(numericCols, viewCfg, categoryMeta) {
     return pickDefaultMetric(numericCols, mergedCfg);
 }
 
+function removeUnitlessDuplicates(cols) {
+    const withUnits = new Set(cols.filter((c) => /\s+\([^\)]+\)\s*$/.test(c)));
+    return cols.filter((col) => {
+        if (/\s+\([^\)]+\)\s*$/.test(col)) return true;
+        for (const unitCol of withUnits) {
+            if (unitCol.startsWith(`${col} (`)) return false;
+        }
+        return true;
+    });
+}
+
 function buildSeries(payload, metricCol, sourceRows) {
     const tcol = payload.timeColumn;
     if (!tcol) return [];
@@ -816,7 +827,7 @@ async function main() {
             return;
         }
 
-        const numericCols = inferNumericColumns(currentPayload);
+        const numericCols = removeUnitlessDuplicates(inferNumericColumns(currentPayload));
         metricSelect.innerHTML = "";
         numericCols.forEach((col) => {
             const option = document.createElement("option");
