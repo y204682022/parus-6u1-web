@@ -1,13 +1,13 @@
 {
-  "generatedAtUtc": "2026-05-26 17:02:59 (台灣時間)",
+  "generatedAtUtc": "2026-06-03 12:40:50 (台灣時間)",
   "csvDir": "/home/lab602/NAS/csv_out",
   "categories": [
     {
       "key": "EPS_Beacon",
       "label": "EPS Beacon",
       "file": "EPS_Beacon.json",
-      "sourceCsv": "EPS_Beacon_20260526_1142.csv",
-      "rows": 1210,
+      "sourceCsv": "EPS_Beacon_20260603_1240.csv",
+      "rows": 2423,
       "columns": 30,
       "startTime": "2026-03-31 02:45:12",
       "endTime": "2026-05-26 02:51:36"
@@ -16,8 +16,8 @@
       "key": "ADCS_1_Beacon",
       "label": "ADCS 1 Beacon",
       "file": "ADCS_1_Beacon.json",
-      "sourceCsv": "ADCS_1_Beacon_20260526_1142.csv",
-      "rows": 607,
+      "sourceCsv": "ADCS_1_Beacon_20260603_1240.csv",
+      "rows": 1215,
       "columns": 48,
       "startTime": "2026-03-31 02:45:12",
       "endTime": "2026-05-26 02:51:36"
@@ -26,18 +26,18 @@
       "key": "ADCS_2_Beacon",
       "label": "ADCS 2 Beacon",
       "file": "ADCS_2_Beacon.json",
-      "sourceCsv": "ADCS_2_Beacon_20260526_1142.csv",
-      "rows": 409,
+      "sourceCsv": "ADCS_2_Beacon_20260603_1240.csv",
+      "rows": 819,
       "columns": 40,
       "startTime": "2026-03-31 02:45:12",
-      "endTime": "2026-05-26 02:51:36"
+      "endTime": "2026-05-26 05:20:11"
     },
     {
       "key": "ADCS_3_HIL_Beacon",
       "label": "ADCS 3 HIL Beacon",
       "file": "ADCS_3_HIL_Beacon.json",
-      "sourceCsv": "ADCS_3_HIL_Beacon_20260526_1142.csv",
-      "rows": 401,
+      "sourceCsv": "ADCS_3_HIL_Beacon_20260603_1240.csv",
+      "rows": 802,
       "columns": 24,
       "startTime": "2026-03-31 02:45:12",
       "endTime": "2026-05-26 02:49:40"
@@ -46,8 +46,8 @@
       "key": "OBC_RST_Beacon",
       "label": "OBC RST Beacon",
       "file": "OBC_RST_Beacon.json",
-      "sourceCsv": "OBC_RST_Beacon_20260526_1142.csv",
-      "rows": 450,
+      "sourceCsv": "OBC_RST_Beacon_20260603_1240.csv",
+      "rows": 902,
       "columns": 24,
       "startTime": "2026-03-31 02:45:12",
       "endTime": "2026-05-26 02:49:40"
