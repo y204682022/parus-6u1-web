@@ -1,56 +1,56 @@
 {
-  "generatedAtUtc": "2026-06-04 06:49:34 (台灣時間)",
+  "generatedAtUtc": "2026-06-04 08:55:38 (台灣時間)",
   "csvDir": "/home/lab602/NAS/csv_out",
   "categories": [
     {
       "key": "EPS_Beacon",
       "label": "EPS Beacon",
       "file": "EPS_Beacon.json",
-      "sourceCsv": "EPS_Beacon_20260604_0649.csv",
-      "rows": 1336,
+      "sourceCsv": "EPS_Beacon_20260604_0855.csv",
+      "rows": 1344,
       "columns": 30,
       "startTime": "2026-03-31 02:45:12",
-      "endTime": "2026-06-02 19:39:17"
+      "endTime": "2026-06-03 14:39:30"
     },
     {
       "key": "ADCS_1_Beacon",
       "label": "ADCS 1 Beacon",
       "file": "ADCS_1_Beacon.json",
-      "sourceCsv": "ADCS_1_Beacon_20260604_0649.csv",
-      "rows": 790,
+      "sourceCsv": "ADCS_1_Beacon_20260604_0855.csv",
+      "rows": 801,
       "columns": 48,
       "startTime": "2026-03-31 02:45:12",
-      "endTime": "2026-06-02 13:20:21"
+      "endTime": "2026-06-03 14:38:38"
     },
     {
       "key": "ADCS_2_Beacon",
       "label": "ADCS 2 Beacon",
       "file": "ADCS_2_Beacon.json",
-      "sourceCsv": "ADCS_2_Beacon_20260604_0649.csv",
-      "rows": 448,
+      "sourceCsv": "ADCS_2_Beacon_20260604_0855.csv",
+      "rows": 451,
       "columns": 40,
       "startTime": "2026-03-31 02:45:12",
-      "endTime": "2026-06-02 11:43:06"
+      "endTime": "2026-06-03 14:39:30"
     },
     {
       "key": "ADCS_3_HIL_Beacon",
       "label": "ADCS 3 HIL Beacon",
       "file": "ADCS_3_HIL_Beacon.json",
-      "sourceCsv": "ADCS_3_HIL_Beacon_20260604_0649.csv",
+      "sourceCsv": "ADCS_3_HIL_Beacon_20260604_0855.csv",
       "rows": 445,
       "columns": 24,
       "startTime": "2026-03-31 02:45:12",
-      "endTime": "2026-06-02 13:20:21"
+      "endTime": "2026-06-03 14:38:38"
     },
     {
       "key": "OBC_RST_Beacon",
       "label": "OBC RST Beacon",
       "file": "OBC_RST_Beacon.json",
-      "sourceCsv": "OBC_RST_Beacon_20260604_0649.csv",
-      "rows": 605,
+      "sourceCsv": "OBC_RST_Beacon_20260604_0855.csv",
+      "rows": 611,
       "columns": 24,
       "startTime": "2026-03-31 02:45:12",
-      "endTime": "2026-06-02 13:20:14"
+      "endTime": "2026-06-03 14:38:38"
     }
   ]
 }
