@@ -1,5 +1,5 @@
 {
-  "rows": 662,
+  "rows": 663,
   "columns": [
     "來源ID",
     "網站時間(UTC)",
@@ -28,8 +28,34 @@
   ],
   "timeColumn": "網站時間(UTC)",
   "startTime": "2026-03-31 02:45:12",
-  "endTime": "2026-06-12 10:35:38",
+  "endTime": "2026-06-12 12:47:40",
   "previewRows": [
+    {
+      "來源ID": 14280072,
+      "網站時間(UTC)": "2026-06-12 12:47:40",
+      "RST_WWD": 0,
+      "RST_IWD": 2,
+      "RST_LPR": 0,
+      "RST_POR": 141,
+      "RST_RstPin": 191,
+      "RST_BOR": 141,
+      "RST_HardFault": 0,
+      "RST_MemFault": 0,
+      "RST_BusFault": 1,
+      "RST_UsageFault": 4,
+      "LOW_VOLTAGE_SHUTDOWN_ADCS": "14.600 V",
+      "LOW_VOLTAGE_OPEN_ADCS": "16.000 V",
+      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV": "14.900 V",
+      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV": "15.000 V",
+      "LOW_VOLTAGE_TARGET_TRACKING": "15.100 V",
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS": "0.002000 °/s",
+      "LOW_VOLTAGE_SHUTDOWN_ADCS (V)": 14.6,
+      "LOW_VOLTAGE_OPEN_ADCS (V)": 16.0,
+      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.9,
+      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 15.0,
+      "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.002
+    },
     {
       "來源ID": 14280071,
       "網站時間(UTC)": "2026-06-12 10:35:38",
@@ -449,32 +475,6 @@
     {
       "來源ID": 14273371,
       "網站時間(UTC)": "2026-06-10 14:24:57",
-      "RST_WWD": 0,
-      "RST_IWD": 2,
-      "RST_LPR": 0,
-      "RST_POR": 141,
-      "RST_RstPin": 191,
-      "RST_BOR": 141,
-      "RST_HardFault": 0,
-      "RST_MemFault": 0,
-      "RST_BusFault": 1,
-      "RST_UsageFault": 4,
-      "LOW_VOLTAGE_SHUTDOWN_ADCS": "14.600 V",
-      "LOW_VOLTAGE_OPEN_ADCS": "16.000 V",
-      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV": "14.900 V",
-      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV": "15.000 V",
-      "LOW_VOLTAGE_TARGET_TRACKING": "15.100 V",
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS": "0.002000 °/s",
-      "LOW_VOLTAGE_SHUTDOWN_ADCS (V)": 14.6,
-      "LOW_VOLTAGE_OPEN_ADCS (V)": 16.0,
-      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.9,
-      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 15.0,
-      "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.002
-    },
-    {
-      "來源ID": 14273371,
-      "網站時間(UTC)": "2026-06-10 14:24:57",
       "RST_WWD": 65552,
       "RST_IWD": 1081416,
       "RST_LPR": 0,
@@ -497,6 +497,32 @@
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 2173.448,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
       "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": -1.5374722005754756e+26
+    },
+    {
+      "來源ID": 14273371,
+      "網站時間(UTC)": "2026-06-10 14:24:57",
+      "RST_WWD": 0,
+      "RST_IWD": 2,
+      "RST_LPR": 0,
+      "RST_POR": 141,
+      "RST_RstPin": 191,
+      "RST_BOR": 141,
+      "RST_HardFault": 0,
+      "RST_MemFault": 0,
+      "RST_BusFault": 1,
+      "RST_UsageFault": 4,
+      "LOW_VOLTAGE_SHUTDOWN_ADCS": "14.600 V",
+      "LOW_VOLTAGE_OPEN_ADCS": "16.000 V",
+      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV": "14.900 V",
+      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV": "15.000 V",
+      "LOW_VOLTAGE_TARGET_TRACKING": "15.100 V",
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS": "0.002000 °/s",
+      "LOW_VOLTAGE_SHUTDOWN_ADCS (V)": 14.6,
+      "LOW_VOLTAGE_OPEN_ADCS (V)": 16.0,
+      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.9,
+      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 15.0,
+      "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.002
     },
     {
       "來源ID": 14270764,
@@ -958,13 +984,13 @@
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV": "14.900 V",
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV": "14.800 V",
       "LOW_VOLTAGE_TARGET_TRACKING": "15.100 V",
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS": "0.002000 °/s",
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS": "-0.003099 °/s",
       "LOW_VOLTAGE_SHUTDOWN_ADCS (V)": 14.6,
       "LOW_VOLTAGE_OPEN_ADCS (V)": 16.0,
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.9,
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.002
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": -0.003099
     },
     {
       "來源ID": 14252296,
@@ -984,13 +1010,13 @@
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV": "14.900 V",
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV": "14.800 V",
       "LOW_VOLTAGE_TARGET_TRACKING": "15.100 V",
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS": "-0.003099 °/s",
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS": "0.002000 °/s",
       "LOW_VOLTAGE_SHUTDOWN_ADCS (V)": 14.6,
       "LOW_VOLTAGE_OPEN_ADCS (V)": 16.0,
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.9,
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": -0.003099
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.002
     },
     {
       "來源ID": 14241608,
@@ -1517,32 +1543,6 @@
       "網站時間(UTC)": "2026-06-02 02:35:18",
       "RST_WWD": 0,
       "RST_IWD": 2,
-      "RST_LPR": 268435456,
-      "RST_POR": 8589,
-      "RST_RstPin": 190,
-      "RST_BOR": 141,
-      "RST_HardFault": 0,
-      "RST_MemFault": 0,
-      "RST_BusFault": 1,
-      "RST_UsageFault": 2248147460,
-      "LOW_VOLTAGE_SHUTDOWN_ADCS": "51442.977 V",
-      "LOW_VOLTAGE_OPEN_ADCS": "389245.537 V",
-      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV": "16934.523 V",
-      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV": "34758.833 V",
-      "LOW_VOLTAGE_TARGET_TRACKING": "303133.944 V",
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS": "2681466328319932758776089631784960.000000 °/s",
-      "LOW_VOLTAGE_SHUTDOWN_ADCS (V)": 51442.977,
-      "LOW_VOLTAGE_OPEN_ADCS (V)": 389245.537,
-      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 16934.523,
-      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 34758.833,
-      "LOW_VOLTAGE_TARGET_TRACKING (V)": 303133.944,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 2.681466328319933e+33
-    },
-    {
-      "來源ID": 14214200,
-      "網站時間(UTC)": "2026-06-02 02:35:18",
-      "RST_WWD": 0,
-      "RST_IWD": 2,
       "RST_LPR": 0,
       "RST_POR": 141,
       "RST_RstPin": 190,
@@ -1563,6 +1563,32 @@
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
       "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.002
+    },
+    {
+      "來源ID": 14214200,
+      "網站時間(UTC)": "2026-06-02 02:35:18",
+      "RST_WWD": 0,
+      "RST_IWD": 2,
+      "RST_LPR": 268435456,
+      "RST_POR": 8589,
+      "RST_RstPin": 190,
+      "RST_BOR": 141,
+      "RST_HardFault": 0,
+      "RST_MemFault": 0,
+      "RST_BusFault": 1,
+      "RST_UsageFault": 2248147460,
+      "LOW_VOLTAGE_SHUTDOWN_ADCS": "51442.977 V",
+      "LOW_VOLTAGE_OPEN_ADCS": "389245.537 V",
+      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV": "16934.523 V",
+      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV": "34758.833 V",
+      "LOW_VOLTAGE_TARGET_TRACKING": "303133.944 V",
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS": "2681466328319932758776089631784960.000000 °/s",
+      "LOW_VOLTAGE_SHUTDOWN_ADCS (V)": 51442.977,
+      "LOW_VOLTAGE_OPEN_ADCS (V)": 389245.537,
+      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 16934.523,
+      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 34758.833,
+      "LOW_VOLTAGE_TARGET_TRACKING (V)": 303133.944,
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 2.681466328319933e+33
     },
     {
       "來源ID": 14213760,
@@ -1645,32 +1671,6 @@
     {
       "來源ID": 14203416,
       "網站時間(UTC)": "2026-06-01 15:54:03",
-      "RST_WWD": 0,
-      "RST_IWD": 2,
-      "RST_LPR": 0,
-      "RST_POR": 141,
-      "RST_RstPin": 190,
-      "RST_BOR": 141,
-      "RST_HardFault": 0,
-      "RST_MemFault": 0,
-      "RST_BusFault": 1,
-      "RST_UsageFault": 4,
-      "LOW_VOLTAGE_SHUTDOWN_ADCS": "14.600 V",
-      "LOW_VOLTAGE_OPEN_ADCS": "15.600 V",
-      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV": "14.900 V",
-      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV": "14.800 V",
-      "LOW_VOLTAGE_TARGET_TRACKING": "15.100 V",
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS": "0.002000 °/s",
-      "LOW_VOLTAGE_SHUTDOWN_ADCS (V)": 14.6,
-      "LOW_VOLTAGE_OPEN_ADCS (V)": 15.6,
-      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.9,
-      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
-      "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.002
-    },
-    {
-      "來源ID": 14203416,
-      "網站時間(UTC)": "2026-06-01 15:54:03",
       "RST_WWD": 1074003968,
       "RST_IWD": 10,
       "RST_LPR": 33554432,
@@ -1688,6 +1688,32 @@
       "LOW_VOLTAGE_TARGET_TRACKING": "15.100 V",
       "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS": "0.002000 °/s",
       "LOW_VOLTAGE_SHUTDOWN_ADCS (V)": 34617.353,
+      "LOW_VOLTAGE_OPEN_ADCS (V)": 15.6,
+      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.9,
+      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
+      "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.002
+    },
+    {
+      "來源ID": 14203416,
+      "網站時間(UTC)": "2026-06-01 15:54:03",
+      "RST_WWD": 0,
+      "RST_IWD": 2,
+      "RST_LPR": 0,
+      "RST_POR": 141,
+      "RST_RstPin": 190,
+      "RST_BOR": 141,
+      "RST_HardFault": 0,
+      "RST_MemFault": 0,
+      "RST_BusFault": 1,
+      "RST_UsageFault": 4,
+      "LOW_VOLTAGE_SHUTDOWN_ADCS": "14.600 V",
+      "LOW_VOLTAGE_OPEN_ADCS": "15.600 V",
+      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV": "14.900 V",
+      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV": "14.800 V",
+      "LOW_VOLTAGE_TARGET_TRACKING": "15.100 V",
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS": "0.002000 °/s",
+      "LOW_VOLTAGE_SHUTDOWN_ADCS (V)": 14.6,
       "LOW_VOLTAGE_OPEN_ADCS (V)": 15.6,
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.9,
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
@@ -1801,32 +1827,6 @@
     {
       "來源ID": 14200056,
       "網站時間(UTC)": "2026-05-31 01:31:29",
-      "RST_WWD": 0,
-      "RST_IWD": 2,
-      "RST_LPR": 0,
-      "RST_POR": 141,
-      "RST_RstPin": 190,
-      "RST_BOR": 141,
-      "RST_HardFault": 0,
-      "RST_MemFault": 0,
-      "RST_BusFault": 1,
-      "RST_UsageFault": 4,
-      "LOW_VOLTAGE_SHUTDOWN_ADCS": "14.350 V",
-      "LOW_VOLTAGE_OPEN_ADCS": "15.600 V",
-      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV": "14.400 V",
-      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV": "14.800 V",
-      "LOW_VOLTAGE_TARGET_TRACKING": "15.100 V",
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS": "1.000000 °/s",
-      "LOW_VOLTAGE_SHUTDOWN_ADCS (V)": 14.35,
-      "LOW_VOLTAGE_OPEN_ADCS (V)": 15.6,
-      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.4,
-      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
-      "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 1.0
-    },
-    {
-      "來源ID": 14200056,
-      "網站時間(UTC)": "2026-05-31 01:31:29",
       "RST_WWD": 1160123690,
       "RST_IWD": 268636701,
       "RST_LPR": 51380482,
@@ -1849,6 +1849,32 @@
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 303261.315,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 285435.387,
       "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 3.033848849854568e+36
+    },
+    {
+      "來源ID": 14200056,
+      "網站時間(UTC)": "2026-05-31 01:31:29",
+      "RST_WWD": 0,
+      "RST_IWD": 2,
+      "RST_LPR": 0,
+      "RST_POR": 141,
+      "RST_RstPin": 190,
+      "RST_BOR": 141,
+      "RST_HardFault": 0,
+      "RST_MemFault": 0,
+      "RST_BusFault": 1,
+      "RST_UsageFault": 4,
+      "LOW_VOLTAGE_SHUTDOWN_ADCS": "14.350 V",
+      "LOW_VOLTAGE_OPEN_ADCS": "15.600 V",
+      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV": "14.400 V",
+      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV": "14.800 V",
+      "LOW_VOLTAGE_TARGET_TRACKING": "15.100 V",
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS": "1.000000 °/s",
+      "LOW_VOLTAGE_SHUTDOWN_ADCS (V)": 14.35,
+      "LOW_VOLTAGE_OPEN_ADCS (V)": 15.6,
+      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.4,
+      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
+      "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 1.0
     },
     {
       "來源ID": 14190285,
@@ -2810,7 +2836,7 @@
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.9,
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 15.0,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.002
     },
     {
       "來源ID": 14158785,
@@ -2836,7 +2862,7 @@
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.9,
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 15.0,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.002
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
     },
     {
       "來源ID": 14158836,
@@ -2914,7 +2940,7 @@
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.9,
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 15.0,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.002
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
     },
     {
       "來源ID": 14164454,
@@ -2940,7 +2966,7 @@
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.9,
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 15.0,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.002
     },
     {
       "來源ID": 14162696,
@@ -3174,7 +3200,7 @@
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.9,
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 15.0,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.002
     },
     {
       "來源ID": 14158843,
@@ -3200,7 +3226,7 @@
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.9,
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 15.0,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.002
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
     },
     {
       "來源ID": 14158792,
@@ -3434,7 +3460,7 @@
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.4,
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 1.0
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
     },
     {
       "來源ID": 14139863,
@@ -3460,32 +3486,6 @@
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.4,
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
-    },
-    {
-      "來源ID": 14139843,
-      "網站時間(UTC)": "2026-05-24 14:05:17",
-      "RST_WWD": 0,
-      "RST_IWD": 2,
-      "RST_LPR": 0,
-      "RST_POR": 131,
-      "RST_RstPin": 178,
-      "RST_BOR": 131,
-      "RST_HardFault": 0,
-      "RST_MemFault": 0,
-      "RST_BusFault": 1,
-      "RST_UsageFault": 4,
-      "LOW_VOLTAGE_SHUTDOWN_ADCS": "14.350 V",
-      "LOW_VOLTAGE_OPEN_ADCS": "15.600 V",
-      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV": "14.400 V",
-      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV": "14.800 V",
-      "LOW_VOLTAGE_TARGET_TRACKING": "15.100 V",
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS": "1.000000 °/s",
-      "LOW_VOLTAGE_SHUTDOWN_ADCS (V)": 14.35,
-      "LOW_VOLTAGE_OPEN_ADCS (V)": 15.6,
-      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.4,
-      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
-      "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
       "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 1.0
     },
     {
@@ -3513,6 +3513,32 @@
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
       "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
+    },
+    {
+      "來源ID": 14139843,
+      "網站時間(UTC)": "2026-05-24 14:05:17",
+      "RST_WWD": 0,
+      "RST_IWD": 2,
+      "RST_LPR": 0,
+      "RST_POR": 131,
+      "RST_RstPin": 178,
+      "RST_BOR": 131,
+      "RST_HardFault": 0,
+      "RST_MemFault": 0,
+      "RST_BusFault": 1,
+      "RST_UsageFault": 4,
+      "LOW_VOLTAGE_SHUTDOWN_ADCS": "14.350 V",
+      "LOW_VOLTAGE_OPEN_ADCS": "15.600 V",
+      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV": "14.400 V",
+      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV": "14.800 V",
+      "LOW_VOLTAGE_TARGET_TRACKING": "15.100 V",
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS": "1.000000 °/s",
+      "LOW_VOLTAGE_SHUTDOWN_ADCS (V)": 14.35,
+      "LOW_VOLTAGE_OPEN_ADCS (V)": 15.6,
+      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.4,
+      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
+      "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 1.0
     },
     {
       "來源ID": 14139850,
@@ -3565,32 +3591,6 @@
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 2177.772,
       "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.0
-    },
-    {
-      "來源ID": 14139830,
-      "網站時間(UTC)": "2026-05-24 12:29:34",
-      "RST_WWD": 0,
-      "RST_IWD": 2,
-      "RST_LPR": 0,
-      "RST_POR": 131,
-      "RST_RstPin": 1342242994,
-      "RST_BOR": 33921,
-      "RST_HardFault": 0,
-      "RST_MemFault": 0,
-      "RST_BusFault": 1,
-      "RST_UsageFault": 4,
-      "LOW_VOLTAGE_SHUTDOWN_ADCS": "14.350 V",
-      "LOW_VOLTAGE_OPEN_ADCS": "15.600 V",
-      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV": "587348.288 V",
-      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV": "672729.844 V",
-      "LOW_VOLTAGE_TARGET_TRACKING": "3138872.800 V",
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS": "-0.000000 °/s",
-      "LOW_VOLTAGE_SHUTDOWN_ADCS (V)": 14.35,
-      "LOW_VOLTAGE_OPEN_ADCS (V)": 15.6,
-      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 587348.288,
-      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 672729.844,
-      "LOW_VOLTAGE_TARGET_TRACKING (V)": 3138872.8,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
     },
     {
       "來源ID": 14139830,
@@ -3671,29 +3671,29 @@
       "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 1.0
     },
     {
-      "來源ID": 14139849,
-      "網站時間(UTC)": "2026-05-24 11:16:52",
+      "來源ID": 14139830,
+      "網站時間(UTC)": "2026-05-24 12:29:34",
       "RST_WWD": 0,
       "RST_IWD": 2,
       "RST_LPR": 0,
       "RST_POR": 131,
-      "RST_RstPin": 178,
-      "RST_BOR": 131,
+      "RST_RstPin": 1342242994,
+      "RST_BOR": 33921,
       "RST_HardFault": 0,
       "RST_MemFault": 0,
       "RST_BusFault": 1,
       "RST_UsageFault": 4,
       "LOW_VOLTAGE_SHUTDOWN_ADCS": "14.350 V",
       "LOW_VOLTAGE_OPEN_ADCS": "15.600 V",
-      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV": "14.400 V",
-      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV": "14.800 V",
-      "LOW_VOLTAGE_TARGET_TRACKING": "15.100 V",
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS": "1.000000 °/s",
+      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV": "587348.288 V",
+      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV": "672729.844 V",
+      "LOW_VOLTAGE_TARGET_TRACKING": "3138872.800 V",
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS": "-0.000000 °/s",
       "LOW_VOLTAGE_SHUTDOWN_ADCS (V)": 14.35,
       "LOW_VOLTAGE_OPEN_ADCS (V)": 15.6,
-      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.4,
-      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
-      "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
+      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 587348.288,
+      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 672729.844,
+      "LOW_VOLTAGE_TARGET_TRACKING (V)": 3138872.8,
       "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
     },
     {
@@ -3723,8 +3723,8 @@
       "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 1.0
     },
     {
-      "來源ID": 14139821,
-      "網站時間(UTC)": "2026-05-24 09:41:59",
+      "來源ID": 14139849,
+      "網站時間(UTC)": "2026-05-24 11:16:52",
       "RST_WWD": 0,
       "RST_IWD": 2,
       "RST_LPR": 0,
@@ -3746,7 +3746,7 @@
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.4,
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 1.0
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
     },
     {
       "來源ID": 14139821,
@@ -3773,6 +3773,32 @@
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
       "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
+    },
+    {
+      "來源ID": 14139821,
+      "網站時間(UTC)": "2026-05-24 09:41:59",
+      "RST_WWD": 0,
+      "RST_IWD": 2,
+      "RST_LPR": 0,
+      "RST_POR": 131,
+      "RST_RstPin": 178,
+      "RST_BOR": 131,
+      "RST_HardFault": 0,
+      "RST_MemFault": 0,
+      "RST_BusFault": 1,
+      "RST_UsageFault": 4,
+      "LOW_VOLTAGE_SHUTDOWN_ADCS": "14.350 V",
+      "LOW_VOLTAGE_OPEN_ADCS": "15.600 V",
+      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV": "14.400 V",
+      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV": "14.800 V",
+      "LOW_VOLTAGE_TARGET_TRACKING": "15.100 V",
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS": "1.000000 °/s",
+      "LOW_VOLTAGE_SHUTDOWN_ADCS (V)": 14.35,
+      "LOW_VOLTAGE_OPEN_ADCS (V)": 15.6,
+      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.4,
+      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
+      "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 1.0
     },
     {
       "來源ID": 14139791,
@@ -4039,32 +4065,6 @@
       "網站時間(UTC)": "2026-05-23 07:36:23",
       "RST_WWD": 0,
       "RST_IWD": 2,
-      "RST_LPR": 1342504960,
-      "RST_POR": 137,
-      "RST_RstPin": 177,
-      "RST_BOR": 540807,
-      "RST_HardFault": 4194304,
-      "RST_MemFault": 132,
-      "RST_BusFault": 1,
-      "RST_UsageFault": 4,
-      "LOW_VOLTAGE_SHUTDOWN_ADCS": "14.600 V",
-      "LOW_VOLTAGE_OPEN_ADCS": "1064.376 V",
-      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV": "1384124.949 V",
-      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV": "15.000 V",
-      "LOW_VOLTAGE_TARGET_TRACKING": "8665.788 V",
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS": "0.002000 °/s",
-      "LOW_VOLTAGE_SHUTDOWN_ADCS (V)": 14.6,
-      "LOW_VOLTAGE_OPEN_ADCS (V)": 1064.376,
-      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 1384124.949,
-      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 15.0,
-      "LOW_VOLTAGE_TARGET_TRACKING (V)": 8665.788,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
-    },
-    {
-      "來源ID": 14131192,
-      "網站時間(UTC)": "2026-05-23 07:36:23",
-      "RST_WWD": 0,
-      "RST_IWD": 2,
       "RST_LPR": 0,
       "RST_POR": 131,
       "RST_RstPin": 177,
@@ -4084,32 +4084,6 @@
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.9,
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 15.0,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
-    },
-    {
-      "來源ID": 14131192,
-      "網站時間(UTC)": "2026-05-23 07:36:23",
-      "RST_WWD": 0,
-      "RST_IWD": 2,
-      "RST_LPR": 1342504960,
-      "RST_POR": 137,
-      "RST_RstPin": 177,
-      "RST_BOR": 540807,
-      "RST_HardFault": 4194304,
-      "RST_MemFault": 132,
-      "RST_BusFault": 1,
-      "RST_UsageFault": 4,
-      "LOW_VOLTAGE_SHUTDOWN_ADCS": "14.600 V",
-      "LOW_VOLTAGE_OPEN_ADCS": "1064.376 V",
-      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV": "1384124.949 V",
-      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV": "15.000 V",
-      "LOW_VOLTAGE_TARGET_TRACKING": "8665.788 V",
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS": "0.002000 °/s",
-      "LOW_VOLTAGE_SHUTDOWN_ADCS (V)": 14.6,
-      "LOW_VOLTAGE_OPEN_ADCS (V)": 1064.376,
-      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 1384124.949,
-      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 15.0,
-      "LOW_VOLTAGE_TARGET_TRACKING (V)": 8665.788,
       "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.002
     },
     {
@@ -4117,6 +4091,32 @@
       "網站時間(UTC)": "2026-05-23 07:36:23",
       "RST_WWD": 0,
       "RST_IWD": 2,
+      "RST_LPR": 1342504960,
+      "RST_POR": 137,
+      "RST_RstPin": 177,
+      "RST_BOR": 540807,
+      "RST_HardFault": 4194304,
+      "RST_MemFault": 132,
+      "RST_BusFault": 1,
+      "RST_UsageFault": 4,
+      "LOW_VOLTAGE_SHUTDOWN_ADCS": "14.600 V",
+      "LOW_VOLTAGE_OPEN_ADCS": "1064.376 V",
+      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV": "1384124.949 V",
+      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV": "15.000 V",
+      "LOW_VOLTAGE_TARGET_TRACKING": "8665.788 V",
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS": "0.002000 °/s",
+      "LOW_VOLTAGE_SHUTDOWN_ADCS (V)": 14.6,
+      "LOW_VOLTAGE_OPEN_ADCS (V)": 1064.376,
+      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 1384124.949,
+      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 15.0,
+      "LOW_VOLTAGE_TARGET_TRACKING (V)": 8665.788,
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
+    },
+    {
+      "來源ID": 14131192,
+      "網站時間(UTC)": "2026-05-23 07:36:23",
+      "RST_WWD": 0,
+      "RST_IWD": 2,
       "RST_LPR": 0,
       "RST_POR": 131,
       "RST_RstPin": 177,
@@ -4136,6 +4136,32 @@
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.9,
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 15.0,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
+    },
+    {
+      "來源ID": 14131192,
+      "網站時間(UTC)": "2026-05-23 07:36:23",
+      "RST_WWD": 0,
+      "RST_IWD": 2,
+      "RST_LPR": 1342504960,
+      "RST_POR": 137,
+      "RST_RstPin": 177,
+      "RST_BOR": 540807,
+      "RST_HardFault": 4194304,
+      "RST_MemFault": 132,
+      "RST_BusFault": 1,
+      "RST_UsageFault": 4,
+      "LOW_VOLTAGE_SHUTDOWN_ADCS": "14.600 V",
+      "LOW_VOLTAGE_OPEN_ADCS": "1064.376 V",
+      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV": "1384124.949 V",
+      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV": "15.000 V",
+      "LOW_VOLTAGE_TARGET_TRACKING": "8665.788 V",
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS": "0.002000 °/s",
+      "LOW_VOLTAGE_SHUTDOWN_ADCS (V)": 14.6,
+      "LOW_VOLTAGE_OPEN_ADCS (V)": 1064.376,
+      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 1384124.949,
+      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 15.0,
+      "LOW_VOLTAGE_TARGET_TRACKING (V)": 8665.788,
       "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.002
     },
     {
@@ -4318,7 +4344,7 @@
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.9,
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 15.0,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.002
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
     },
     {
       "來源ID": 14136305,
@@ -4344,7 +4370,7 @@
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.9,
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 15.0,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.002
     },
     {
       "來源ID": 14134907,
@@ -4578,7 +4604,7 @@
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.9,
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 15.0,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.002
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
     },
     {
       "來源ID": 14131198,
@@ -4604,7 +4630,7 @@
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.9,
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 15.0,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.002
     },
     {
       "來源ID": 14126996,
@@ -4786,7 +4812,7 @@
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.9,
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.002
     },
     {
       "來源ID": 14129754,
@@ -4812,33 +4838,7 @@
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.9,
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.002
-    },
-    {
-      "來源ID": 14125722,
-      "網站時間(UTC)": "2026-05-21 15:56:21",
-      "RST_WWD": 0,
-      "RST_IWD": 2,
-      "RST_LPR": 0,
-      "RST_POR": 131,
-      "RST_RstPin": 177,
-      "RST_BOR": 131,
-      "RST_HardFault": 0,
-      "RST_MemFault": 0,
-      "RST_BusFault": 1,
-      "RST_UsageFault": 4,
-      "LOW_VOLTAGE_SHUTDOWN_ADCS": "14.350 V",
-      "LOW_VOLTAGE_OPEN_ADCS": "15.600 V",
-      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV": "14.400 V",
-      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV": "14.800 V",
-      "LOW_VOLTAGE_TARGET_TRACKING": "15.100 V",
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS": "1.000000 °/s",
-      "LOW_VOLTAGE_SHUTDOWN_ADCS (V)": 14.35,
-      "LOW_VOLTAGE_OPEN_ADCS (V)": 15.6,
-      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.4,
-      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
-      "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 1.0
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
     },
     {
       "來源ID": 14125722,
@@ -4867,8 +4867,8 @@
       "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
     },
     {
-      "來源ID": 14126448,
-      "網站時間(UTC)": "2026-05-21 14:49:51",
+      "來源ID": 14125722,
+      "網站時間(UTC)": "2026-05-21 15:56:21",
       "RST_WWD": 0,
       "RST_IWD": 2,
       "RST_LPR": 0,
@@ -4917,6 +4917,32 @@
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
       "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
+    },
+    {
+      "來源ID": 14126448,
+      "網站時間(UTC)": "2026-05-21 14:49:51",
+      "RST_WWD": 0,
+      "RST_IWD": 2,
+      "RST_LPR": 0,
+      "RST_POR": 131,
+      "RST_RstPin": 177,
+      "RST_BOR": 131,
+      "RST_HardFault": 0,
+      "RST_MemFault": 0,
+      "RST_BusFault": 1,
+      "RST_UsageFault": 4,
+      "LOW_VOLTAGE_SHUTDOWN_ADCS": "14.350 V",
+      "LOW_VOLTAGE_OPEN_ADCS": "15.600 V",
+      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV": "14.400 V",
+      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV": "14.800 V",
+      "LOW_VOLTAGE_TARGET_TRACKING": "15.100 V",
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS": "1.000000 °/s",
+      "LOW_VOLTAGE_SHUTDOWN_ADCS (V)": 14.35,
+      "LOW_VOLTAGE_OPEN_ADCS (V)": 15.6,
+      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.4,
+      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
+      "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 1.0
     },
     {
       "來源ID": 14109581,
@@ -4994,7 +5020,7 @@
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.4,
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.002
     },
     {
       "來源ID": 14109594,
@@ -5020,7 +5046,7 @@
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.4,
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.002
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
     },
     {
       "來源ID": 14109596,
@@ -5358,7 +5384,7 @@
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.4,
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.002
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
     },
     {
       "來源ID": 14116484,
@@ -5379,6 +5405,32 @@
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV": "14.800 V",
       "LOW_VOLTAGE_TARGET_TRACKING": "15.100 V",
       "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS": "0.002000 °/s",
+      "LOW_VOLTAGE_SHUTDOWN_ADCS (V)": 14.35,
+      "LOW_VOLTAGE_OPEN_ADCS (V)": 15.6,
+      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.4,
+      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
+      "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.002
+    },
+    {
+      "來源ID": 14097402,
+      "網站時間(UTC)": "2026-05-19 13:47:58",
+      "RST_WWD": 0,
+      "RST_IWD": 2,
+      "RST_LPR": 0,
+      "RST_POR": 124,
+      "RST_RstPin": 170,
+      "RST_BOR": 124,
+      "RST_HardFault": 0,
+      "RST_MemFault": 0,
+      "RST_BusFault": 1,
+      "RST_UsageFault": 4,
+      "LOW_VOLTAGE_SHUTDOWN_ADCS": "14.350 V",
+      "LOW_VOLTAGE_OPEN_ADCS": "15.600 V",
+      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV": "14.400 V",
+      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV": "14.800 V",
+      "LOW_VOLTAGE_TARGET_TRACKING": "15.100 V",
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS": "1.000000 °/s",
       "LOW_VOLTAGE_SHUTDOWN_ADCS (V)": 14.35,
       "LOW_VOLTAGE_OPEN_ADCS (V)": 15.6,
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.4,
@@ -5411,32 +5463,6 @@
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
       "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 1.0
-    },
-    {
-      "來源ID": 14097402,
-      "網站時間(UTC)": "2026-05-19 13:47:58",
-      "RST_WWD": 0,
-      "RST_IWD": 2,
-      "RST_LPR": 0,
-      "RST_POR": 124,
-      "RST_RstPin": 170,
-      "RST_BOR": 124,
-      "RST_HardFault": 0,
-      "RST_MemFault": 0,
-      "RST_BusFault": 1,
-      "RST_UsageFault": 4,
-      "LOW_VOLTAGE_SHUTDOWN_ADCS": "14.350 V",
-      "LOW_VOLTAGE_OPEN_ADCS": "15.600 V",
-      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV": "14.400 V",
-      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV": "14.800 V",
-      "LOW_VOLTAGE_TARGET_TRACKING": "15.100 V",
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS": "1.000000 °/s",
-      "LOW_VOLTAGE_SHUTDOWN_ADCS (V)": 14.35,
-      "LOW_VOLTAGE_OPEN_ADCS (V)": 15.6,
-      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.4,
-      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
-      "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
     },
     {
       "來源ID": 14085072,
@@ -5774,7 +5800,7 @@
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.4,
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 1.0
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
     },
     {
       "來源ID": 14075679,
@@ -5800,7 +5826,7 @@
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.4,
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 1.0
     },
     {
       "來源ID": 14060906,
@@ -5930,7 +5956,7 @@
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.4,
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 1.0
     },
     {
       "來源ID": 14062252,
@@ -5956,7 +5982,7 @@
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.4,
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 1.0
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
     },
     {
       "來源ID": 14063398,
@@ -6450,7 +6476,7 @@
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.4,
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 1.0
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
     },
     {
       "來源ID": 14059814,
@@ -6476,7 +6502,7 @@
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.4,
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 1.0
     },
     {
       "來源ID": 14062241,
@@ -6606,7 +6632,7 @@
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.4,
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.002
     },
     {
       "來源ID": 14060897,
@@ -6632,32 +6658,6 @@
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.4,
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.002
-    },
-    {
-      "來源ID": 14059796,
-      "網站時間(UTC)": "2026-05-14 17:21:59",
-      "RST_WWD": 0,
-      "RST_IWD": 2,
-      "RST_LPR": 0,
-      "RST_POR": 119,
-      "RST_RstPin": 164,
-      "RST_BOR": 119,
-      "RST_HardFault": 0,
-      "RST_MemFault": 0,
-      "RST_BusFault": 1,
-      "RST_UsageFault": 4,
-      "LOW_VOLTAGE_SHUTDOWN_ADCS": "14.350 V",
-      "LOW_VOLTAGE_OPEN_ADCS": "15.600 V",
-      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV": "14.400 V",
-      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV": "14.800 V",
-      "LOW_VOLTAGE_TARGET_TRACKING": "15.100 V",
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS": "0.002000 °/s",
-      "LOW_VOLTAGE_SHUTDOWN_ADCS (V)": 14.35,
-      "LOW_VOLTAGE_OPEN_ADCS (V)": 15.6,
-      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.4,
-      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
-      "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
       "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
     },
     {
@@ -6687,8 +6687,8 @@
       "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.002
     },
     {
-      "來源ID": 14061633,
-      "網站時間(UTC)": "2026-05-14 14:30:24",
+      "來源ID": 14059796,
+      "網站時間(UTC)": "2026-05-14 17:21:59",
       "RST_WWD": 0,
       "RST_IWD": 2,
       "RST_LPR": 0,
@@ -6710,7 +6710,7 @@
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.4,
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.002
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
     },
     {
       "來源ID": 14061633,
@@ -6737,6 +6737,32 @@
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
       "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
+    },
+    {
+      "來源ID": 14061633,
+      "網站時間(UTC)": "2026-05-14 14:30:24",
+      "RST_WWD": 0,
+      "RST_IWD": 2,
+      "RST_LPR": 0,
+      "RST_POR": 119,
+      "RST_RstPin": 164,
+      "RST_BOR": 119,
+      "RST_HardFault": 0,
+      "RST_MemFault": 0,
+      "RST_BusFault": 1,
+      "RST_UsageFault": 4,
+      "LOW_VOLTAGE_SHUTDOWN_ADCS": "14.350 V",
+      "LOW_VOLTAGE_OPEN_ADCS": "15.600 V",
+      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV": "14.400 V",
+      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV": "14.800 V",
+      "LOW_VOLTAGE_TARGET_TRACKING": "15.100 V",
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS": "0.002000 °/s",
+      "LOW_VOLTAGE_SHUTDOWN_ADCS (V)": 14.35,
+      "LOW_VOLTAGE_OPEN_ADCS (V)": 15.6,
+      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.4,
+      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
+      "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.002
     },
     {
       "來源ID": 14059819,
@@ -6918,7 +6944,7 @@
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.4,
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.002
     },
     {
       "來源ID": 14063850,
@@ -6944,33 +6970,7 @@
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.4,
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.002
-    },
-    {
-      "來源ID": 14059772,
-      "網站時間(UTC)": "2026-05-14 11:54:36",
-      "RST_WWD": 0,
-      "RST_IWD": 2,
-      "RST_LPR": 0,
-      "RST_POR": 119,
-      "RST_RstPin": 164,
-      "RST_BOR": 119,
-      "RST_HardFault": 0,
-      "RST_MemFault": 0,
-      "RST_BusFault": 1,
-      "RST_UsageFault": 4,
-      "LOW_VOLTAGE_SHUTDOWN_ADCS": "14.350 V",
-      "LOW_VOLTAGE_OPEN_ADCS": "15.600 V",
-      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV": "14.400 V",
-      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV": "14.800 V",
-      "LOW_VOLTAGE_TARGET_TRACKING": "15.100 V",
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS": "0.002000 °/s",
-      "LOW_VOLTAGE_SHUTDOWN_ADCS (V)": 14.35,
-      "LOW_VOLTAGE_OPEN_ADCS (V)": 15.6,
-      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.4,
-      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
-      "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.002
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
     },
     {
       "來源ID": 14059772,
@@ -6997,6 +6997,32 @@
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
       "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
+    },
+    {
+      "來源ID": 14059772,
+      "網站時間(UTC)": "2026-05-14 11:54:36",
+      "RST_WWD": 0,
+      "RST_IWD": 2,
+      "RST_LPR": 0,
+      "RST_POR": 119,
+      "RST_RstPin": 164,
+      "RST_BOR": 119,
+      "RST_HardFault": 0,
+      "RST_MemFault": 0,
+      "RST_BusFault": 1,
+      "RST_UsageFault": 4,
+      "LOW_VOLTAGE_SHUTDOWN_ADCS": "14.350 V",
+      "LOW_VOLTAGE_OPEN_ADCS": "15.600 V",
+      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV": "14.400 V",
+      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV": "14.800 V",
+      "LOW_VOLTAGE_TARGET_TRACKING": "15.100 V",
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS": "0.002000 °/s",
+      "LOW_VOLTAGE_SHUTDOWN_ADCS (V)": 14.35,
+      "LOW_VOLTAGE_OPEN_ADCS (V)": 15.6,
+      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.4,
+      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
+      "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.002
     },
     {
       "來源ID": 14063437,
@@ -7126,7 +7152,7 @@
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.4,
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.002
     },
     {
       "來源ID": 14062239,
@@ -7152,7 +7178,7 @@
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.4,
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.002
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
     },
     {
       "來源ID": 14061612,
@@ -7204,6 +7230,32 @@
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.4,
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
+    },
+    {
+      "來源ID": 14062271,
+      "網站時間(UTC)": "2026-05-14 01:40:10",
+      "RST_WWD": 276826112,
+      "RST_IWD": 2,
+      "RST_LPR": 0,
+      "RST_POR": 119,
+      "RST_RstPin": 164,
+      "RST_BOR": 671219831,
+      "RST_HardFault": 1832161056,
+      "RST_MemFault": 1930560803,
+      "RST_BusFault": 3161405442,
+      "RST_UsageFault": 2205722800,
+      "LOW_VOLTAGE_SHUTDOWN_ADCS": "3874362.793 V",
+      "LOW_VOLTAGE_OPEN_ADCS": "641757.908 V",
+      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV": "1292209.351 V",
+      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV": "2411511.003 V",
+      "LOW_VOLTAGE_TARGET_TRACKING": "1188983.118 V",
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS": "146787801775816572928.000000 °/s",
+      "LOW_VOLTAGE_SHUTDOWN_ADCS (V)": 3874362.793,
+      "LOW_VOLTAGE_OPEN_ADCS (V)": 641757.908,
+      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 1292209.351,
+      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 2411511.003,
+      "LOW_VOLTAGE_TARGET_TRACKING (V)": 1188983.118,
       "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
     },
     {
@@ -7231,32 +7283,6 @@
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 2411511.003,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 1188983.118,
       "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 1.4678780177581656e+20
-    },
-    {
-      "來源ID": 14062271,
-      "網站時間(UTC)": "2026-05-14 01:40:10",
-      "RST_WWD": 276826112,
-      "RST_IWD": 2,
-      "RST_LPR": 0,
-      "RST_POR": 119,
-      "RST_RstPin": 164,
-      "RST_BOR": 671219831,
-      "RST_HardFault": 1832161056,
-      "RST_MemFault": 1930560803,
-      "RST_BusFault": 3161405442,
-      "RST_UsageFault": 2205722800,
-      "LOW_VOLTAGE_SHUTDOWN_ADCS": "3874362.793 V",
-      "LOW_VOLTAGE_OPEN_ADCS": "641757.908 V",
-      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV": "1292209.351 V",
-      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV": "2411511.003 V",
-      "LOW_VOLTAGE_TARGET_TRACKING": "1188983.118 V",
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS": "146787801775816572928.000000 °/s",
-      "LOW_VOLTAGE_SHUTDOWN_ADCS (V)": 3874362.793,
-      "LOW_VOLTAGE_OPEN_ADCS (V)": 641757.908,
-      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 1292209.351,
-      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 2411511.003,
-      "LOW_VOLTAGE_TARGET_TRACKING (V)": 1188983.118,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
     },
     {
       "來源ID": 14062880,
@@ -7490,7 +7516,7 @@
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.4,
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.002
     },
     {
       "來源ID": 14059783,
@@ -7516,7 +7542,7 @@
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.4,
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.002
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
     },
     {
       "來源ID": 14052380,
@@ -7958,63 +7984,11 @@
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.4,
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.002
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
     },
     {
       "來源ID": 14046505,
       "網站時間(UTC)": "2026-05-12 01:39:32",
-      "RST_WWD": 0,
-      "RST_IWD": 2,
-      "RST_LPR": 0,
-      "RST_POR": 114,
-      "RST_RstPin": 159,
-      "RST_BOR": 114,
-      "RST_HardFault": 0,
-      "RST_MemFault": 0,
-      "RST_BusFault": 1,
-      "RST_UsageFault": 4,
-      "LOW_VOLTAGE_SHUTDOWN_ADCS": "14.350 V",
-      "LOW_VOLTAGE_OPEN_ADCS": "15.600 V",
-      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV": "14.400 V",
-      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV": "14.800 V",
-      "LOW_VOLTAGE_TARGET_TRACKING": "15.100 V",
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS": "0.002000 °/s",
-      "LOW_VOLTAGE_SHUTDOWN_ADCS (V)": 14.35,
-      "LOW_VOLTAGE_OPEN_ADCS (V)": 15.6,
-      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.4,
-      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
-      "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
-    },
-    {
-      "來源ID": 14046501,
-      "網站時間(UTC)": "2026-05-12 01:39:31",
-      "RST_WWD": 0,
-      "RST_IWD": 2,
-      "RST_LPR": 0,
-      "RST_POR": 114,
-      "RST_RstPin": 159,
-      "RST_BOR": 114,
-      "RST_HardFault": 135169,
-      "RST_MemFault": 0,
-      "RST_BusFault": 2148007937,
-      "RST_UsageFault": 20,
-      "LOW_VOLTAGE_SHUTDOWN_ADCS": "14.350 V",
-      "LOW_VOLTAGE_OPEN_ADCS": "15.600 V",
-      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV": "14.400 V",
-      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV": "541211.088 V",
-      "LOW_VOLTAGE_TARGET_TRACKING": "8807.928 V",
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS": "2720763806412017691567556155932672.000000 °/s",
-      "LOW_VOLTAGE_SHUTDOWN_ADCS (V)": 14.35,
-      "LOW_VOLTAGE_OPEN_ADCS (V)": 15.6,
-      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.4,
-      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 541211.088,
-      "LOW_VOLTAGE_TARGET_TRACKING (V)": 8807.928,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
-    },
-    {
-      "來源ID": 14046501,
-      "網站時間(UTC)": "2026-05-12 01:39:31",
       "RST_WWD": 0,
       "RST_IWD": 2,
       "RST_LPR": 0,
@@ -8088,11 +8062,37 @@
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.4,
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.002
+    },
+    {
+      "來源ID": 14046501,
+      "網站時間(UTC)": "2026-05-12 01:39:31",
+      "RST_WWD": 0,
+      "RST_IWD": 2,
+      "RST_LPR": 0,
+      "RST_POR": 114,
+      "RST_RstPin": 159,
+      "RST_BOR": 114,
+      "RST_HardFault": 135169,
+      "RST_MemFault": 0,
+      "RST_BusFault": 2148007937,
+      "RST_UsageFault": 20,
+      "LOW_VOLTAGE_SHUTDOWN_ADCS": "14.350 V",
+      "LOW_VOLTAGE_OPEN_ADCS": "15.600 V",
+      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV": "14.400 V",
+      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV": "541211.088 V",
+      "LOW_VOLTAGE_TARGET_TRACKING": "8807.928 V",
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS": "2720763806412017691567556155932672.000000 °/s",
+      "LOW_VOLTAGE_SHUTDOWN_ADCS (V)": 14.35,
+      "LOW_VOLTAGE_OPEN_ADCS (V)": 15.6,
+      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.4,
+      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 541211.088,
+      "LOW_VOLTAGE_TARGET_TRACKING (V)": 8807.928,
       "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
     },
     {
-      "來源ID": 14042579,
-      "網站時間(UTC)": "2026-05-11 12:37:29",
+      "來源ID": 14046501,
+      "網站時間(UTC)": "2026-05-12 01:39:31",
       "RST_WWD": 0,
       "RST_IWD": 2,
       "RST_LPR": 0,
@@ -8108,13 +8108,13 @@
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV": "14.400 V",
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV": "14.800 V",
       "LOW_VOLTAGE_TARGET_TRACKING": "15.100 V",
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS": "0.020000 °/s",
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS": "0.002000 °/s",
       "LOW_VOLTAGE_SHUTDOWN_ADCS (V)": 14.35,
       "LOW_VOLTAGE_OPEN_ADCS (V)": 15.6,
       "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.4,
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
-      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.02
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": NaN
     },
     {
       "來源ID": 14042579,
@@ -8193,6 +8193,32 @@
       "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 159948.128,
       "LOW_VOLTAGE_TARGET_TRACKING (V)": 2299043.063,
       "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.0
+    },
+    {
+      "來源ID": 14042579,
+      "網站時間(UTC)": "2026-05-11 12:37:29",
+      "RST_WWD": 0,
+      "RST_IWD": 2,
+      "RST_LPR": 0,
+      "RST_POR": 114,
+      "RST_RstPin": 159,
+      "RST_BOR": 114,
+      "RST_HardFault": 0,
+      "RST_MemFault": 0,
+      "RST_BusFault": 1,
+      "RST_UsageFault": 4,
+      "LOW_VOLTAGE_SHUTDOWN_ADCS": "14.350 V",
+      "LOW_VOLTAGE_OPEN_ADCS": "15.600 V",
+      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV": "14.400 V",
+      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV": "14.800 V",
+      "LOW_VOLTAGE_TARGET_TRACKING": "15.100 V",
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS": "0.020000 °/s",
+      "LOW_VOLTAGE_SHUTDOWN_ADCS (V)": 14.35,
+      "LOW_VOLTAGE_OPEN_ADCS (V)": 15.6,
+      "LOW_VOLTAGE_ENTER_SAFE_MODE_MV (V)": 14.4,
+      "LOW_VOLTAGE_EXIT_SAFE_MODE_MV (V)": 14.8,
+      "LOW_VOLTAGE_TARGET_TRACKING (V)": 15.1,
+      "DETUMBLE_ANGULAR_RATE_THRESHOLD_DPS (°/s)": 0.02
     },
     {
       "來源ID": 14026177,
@@ -17245,5 +17271,5 @@
   ],
   "key": "OBC_RST_Beacon",
   "label": "OBC RST Beacon",
-  "sourceCsv": "OBC_RST_Beacon_20260612_1920.csv"
+  "sourceCsv": "OBC_RST_Beacon_20260612_2111.csv"
 }
