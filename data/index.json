@@ -1,36 +1,36 @@
 {
-  "generatedAtUtc": "2026-08-01 05:23:29 (台灣時間)",
+  "generatedAtUtc": "2026-08-01 05:42:06 (台灣時間)",
   "csvDir": "/home/lab602/NAS/csv_out",
   "categories": [
     {
       "key": "EPS_Beacon",
       "label": "EPS Beacon",
       "file": "EPS_Beacon.json",
-      "sourceCsv": "EPS_Beacon_20260731_2230.csv",
-      "rows": 2079,
+      "sourceCsv": "EPS_Beacon_20260801_0542.csv",
+      "rows": 2081,
       "columns": 30,
       "startTime": "2026-03-31 02:45:12",
-      "endTime": "2026-07-31 13:31:27"
+      "endTime": "2026-07-31 21:30:05"
     },
     {
       "key": "ADCS_1_Beacon",
       "label": "ADCS 1 Beacon",
       "file": "ADCS_1_Beacon.json",
-      "sourceCsv": "ADCS_1_Beacon_20260731_2040.csv",
-      "rows": 1164,
+      "sourceCsv": "ADCS_1_Beacon_20260801_0542.csv",
+      "rows": 1165,
       "columns": 48,
       "startTime": "2026-03-31 02:45:12",
-      "endTime": "2026-07-31 11:58:47"
+      "endTime": "2026-07-31 21:30:05"
     },
     {
       "key": "ADCS_2_Beacon",
       "label": "ADCS 2 Beacon",
       "file": "ADCS_2_Beacon.json",
-      "sourceCsv": "ADCS_2_Beacon_20260731_1935.csv",
-      "rows": 679,
+      "sourceCsv": "ADCS_2_Beacon_20260801_0542.csv",
+      "rows": 680,
       "columns": 40,
       "startTime": "2026-03-31 02:45:12",
-      "endTime": "2026-07-31 10:48:35"
+      "endTime": "2026-07-31 21:30:05"
     },
     {
       "key": "ADCS_3_HIL_Beacon",
