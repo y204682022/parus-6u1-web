@@ -1,5 +1,5 @@
 {
-  "generatedAtUtc": "2026-08-07 12:08:14 (台灣時間)",
+  "generatedAtUtc": "2026-08-07 12:38:56 (台灣時間)",
   "csvDir": "/home/lab602/NAS/csv_out",
   "categories": [
     {
@@ -26,11 +26,11 @@
       "key": "ADCS_2_Beacon",
       "label": "ADCS 2 Beacon",
       "file": "ADCS_2_Beacon.json",
-      "sourceCsv": "ADCS_2_Beacon_20260807_1122.csv",
-      "rows": 706,
+      "sourceCsv": "ADCS_2_Beacon_20260807_1238.csv",
+      "rows": 707,
       "columns": 40,
       "startTime": "2026-03-31 02:45:12",
-      "endTime": "2026-08-07 02:31:10"
+      "endTime": "2026-08-07 04:08:46"
     },
     {
       "key": "ADCS_3_HIL_Beacon",
